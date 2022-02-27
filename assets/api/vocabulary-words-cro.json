@@ -1361,10 +1361,6 @@
       "detail": "radionica kovača"
     },
     {
-      "name": "krivotvorina",
-      "detail": "falsifikat"
-    },
-    {
       "name": "odricanje",
       "detail": "čin odustajanja od čega"
     },
@@ -2050,1107 +2046,703 @@
     },
     {
       "name": "nametljivo",
-      "detail": "projiciranje istaknutih nepoželjno uočljivih"
+      "detail": "na nametljiv način, s nametljivošću"
     },
     {
       "name": "tupo",
-      "detail": "tupo/glupo"
+      "detail": "bezizražajno, neodređeno, odsutno, prazno, ravnodušno, apatično"
     },
     {
-      "name": "izbjegava",
-      "detail": "učiniti nepotrebnim riješiti se"
+      "name": "izbjegavati",
+      "detail": "skloniti se od čega neugodnog, opasnog, ne željeti imati s kim kakav odnos"
     },
     {
       "name": "zatvoreno",
-      "detail": "blokirano"
+      "detail": "kao prvi dio složenih pridjeva znači da boja izražena drugim dijelom ima tamniju nijansu"
     },
     {
       "name": "odium",
-      "detail": "prezir ne voli averzija"
+      "detail": "odvratnost, odbojnost, omraženost"
     },
     {
       "name": "miris",
-      "detail": "miris favorizira reputaciju"
+      "detail": "ugodan nadražaj osjeta njuha"
     },
     {
       "name": "službeno",
-      "detail": "previše nestrpljiv ili spreman pomoći ponuditi savjet"
+      "detail": "na služben način, po dužnosti"
     },
     {
       "name": "zlokobno",
-      "detail": "prijeteće"
+      "detail": "sluteći zlo, nesreću"
     },
     {
       "name": "tegotan",
-      "detail": "potreban napor težak"
+      "detail": "koji je ispunjen tegobama, pun tegoba"
     },
     {
       "name": "neprozirnost",
-      "detail": "tupost/ne dopušta svjetlost da prođe"
+      "detail": "svojstvo onoga što je neprozirno"
     },
     {
       "name": "neprijatno",
-      "detail": "pokazivanje poruge ili prijekora"
+      "detail": "razg. neugodno"
     },
     {
       "name": "okoštati",
-      "detail": "pretvoriti se u kost da se kruto smjesti u ideju"
-    },
-    {
-      "name": "ostensible",
-      "detail": "izgleda da se tako ispovijeda"
+      "detail": "otvrdnuti i ukrutiti se, postati kao kost"
     },
     {
       "name": "razmetljivost",
-      "detail": "prikaži kako bi dobio divljenje ili zavist"
+      "detail": "osobina onoga koji je razmetljiv ili svojstvo onoga što je razmetljivo"
     },
     {
-      "name": "ostrakizam",
-      "detail": "zatvoreni od društva odbijaju susresti razgovor"
+      "name": "ostracizam",
+      "detail": "u totalitarnim i autoritarnim društvima izgon nepoćudnih osoba iz javnog života"
     },
     {
       "name": "nepce",
-      "detail": "krov usta osjetilo okusa"
-    },
-    {
-      "name": "palatial",
-      "detail": "veličanstveno"
-    },
-    {
-      "name": "paliate",
-      "detail": "smanjiti ozbiljnost"
+      "detail": "gornja zasvođena površina usne šupljine"
     },
     {
       "name": "opipljivost",
-      "detail": "može se osjetiti dirnuti razumjeti"
-    },
-    {
-      "name": "palpitat",
-      "detail": "drhtanje udara brzo i nepravilno"
+      "detail": "svojstvo onoga što je opipljivo"
     },
     {
       "name": "panegirik",
-      "detail": "formalna pohvalna pohvala"
+      "detail": "govor, pjesma ili napis u pohvalu osobi, državi i sl.; hvalospjev, slavopojka"
     },
     {
       "name": "paradigma",
-      "detail": "primjer modela ili uzorak"
+      "detail": "skup pravila i metoda koji karakteriziraju neku znanost ili disciplinu"
     },
     {
       "name": "zagrada",
-      "detail": "rečenica unutar druge jedne smth odvojene"
+      "detail": "pravopisni znak koji pokazuje da dio teksta koji se u njemu nalazi sadrži objašnjenje dijela rečenice ili teksta"
     },
     {
       "name": "parija",
-      "detail": "izopćenik odbačena i prezrena osoba"
+      "detail": "obespravljen čovjek, potlačen čovjek"
     },
     {
       "name": "štedljiv",
-      "detail": "previše ekonomičan škrtac"
+      "detail": "koji štedi, koji zna štedjeti"
     },
     {
       "name": "partizan",
-      "detail": "jednostrano posvećeno stranci pristranoj ili predrasudama"
+      "detail": "onaj koji vodi borbu u neprijateljskom zaleđu, u pozadini neprijatelja; gerilac"
     },
     {
       "name": "pokrovitelj",
-      "detail": "stalna osoba koja pruža podršku"
-    },
-    {
-      "name": "malost",
-      "detail": "nedostatak"
-    },
-    {
-      "name": "pedantičan",
-      "detail": "knjiško pokazivanje učenja"
+      "detail": "onaj koji štiti koga ili što pružajući pomoć; zaštitnik, protektor, patron"
     },
     {
       "name": "pješak",
-      "detail": "uobičajeno banalno neupadljivo"
+      "detail": "figura u šahu; pijun"
     },
     {
       "name": "sigurno",
-      "detail": "transparentno lako razumljivo"
+      "detail": "s najvećim pouzdanjem"
     },
     {
       "name": "sklonost",
-      "detail": "jaka sklonost se sviđa"
+      "detail": "svojstvo ili stanje onoga koji je sklon"
     },
     {
       "name": "pokajnik",
-      "detail": "osjećaj ili pokazivanje žaljenja"
-    },
-    {
-      "name": "besparan",
-      "detail": "jadan/škrt"
+      "detail": "koji se kaje zbog čega"
     },
     {
       "name": "besparica",
-      "detail": "ekstremno siromaštvo"
-    },
-    {
-      "name": "peregrinacija",
-      "detail": "putovanje u lutanju"
-    },
-    {
-      "name": "odložno",
-      "detail": "hitno imperativ neosporan završetak rasprave"
+      "detail": "stanje onoga koji trpi od pomanjkanja novca, para, koji nema dovoljno novca; oskudica"
     },
     {
       "name": "perfidan",
-      "detail": "izdajnički nevjernik"
+      "detail": "koji je prepreden, lukav"
     },
     {
       "name": "perfidija",
-      "detail": "izdajnički kršenje vjere"
+      "detail": "skrivanje osjećaja i misli s namjerom da se nekoga nadmudri ili prevari; drska i ustrajna lukavost, smišljena lažljivost, prepredenost, neiskrenost"
     },
     {
       "name": "površno",
-      "detail": "izvršeno kao dužnost bez brige"
+      "detail": "na brzu ruku, letimično"
     },
     {
       "name": "opasno",
-      "detail": "opasno"
-    },
-    {
-      "name": "peripatetic",
-      "detail": "lutanje"
+      "detail": "na opasan način; pogibeljno, zlo, opako"
     },
     {
       "name": "poginuti",
-      "detail": "biti uništen propadanjem"
+      "detail": "izgubiti život nasilnom smrću, biti ubijen, izgubiti život u ratu, u nesreći ili u nepogodi"
     },
     {
       "name": "krivokletstvo",
-      "detail": "namjerna LAŽNA izjava protuzakonita radnja"
+      "detail": "kriva prisega, svjesno izrečena laž"
     },
     {
       "name": "prožimati",
-      "detail": "rasprostranjen u svaki dio"
-    },
-    {
-      "name": "opasno",
-      "detail": "štetne ozljede"
+      "detail": "obuzeti, potpuno ispuniti čime"
     },
     {
       "name": "počiniti",
-      "detail": "biti kriv počiniti (zločin)"
+      "detail": "učiniti, izvršiti neki čin"
     },
     {
       "name": "osoba",
-      "detail": "ugodan izgledom atraktivan"
-    },
-    {
-      "name": "pronicljivost",
-      "detail": "brzo prosuđivanje i razumijevanje"
-    },
-    {
-      "name": "odnosi se",
-      "detail": "pripadaju kao dio imaju referencu"
+      "detail": "svaki čovjek pojedinačno"
     },
     {
       "name": "štetočina",
-      "detail": "destruktivna stvar ili osoba koja je smetnja"
+      "detail": "životinja koja nanosi štetu, osobito kukac; štetnik"
     },
     {
       "name": "okamenjen",
-      "detail": "oduzeta moć (misliti osjećati djelovati)"
-    },
-    {
-      "name": "okameniti",
-      "detail": "napraviti hard rock"
-    },
-    {
-      "name": "petrous",
-      "detail": "kao kamen tvrdi kamen"
+      "detail": "tako da je pretvoren u kamen, petrificiran"
     },
     {
       "name": "nadražen",
       "detail": "neopravdano nestrpljiv"
     },
     {
-      "name": "filistinac",
-      "detail": "samozadovoljna neznalica ona kojoj nedostaje znanja"
-    },
-    {
       "name": "flegmatik",
-      "detail": "mirni trom temperament neemocionalan"
-    },
-    {
-      "name": "štipa",
-      "detail": "budi preusko primiti između palca i prsta"
+      "detail": "onaj koji je flegmatičan"
     },
     {
       "name": "bor",
-      "detail": "otpadati kroz tugu ili bolest"
+      "detail": "božićno drvce"
     },
     {
       "name": "pobožan",
-      "detail": "poslan roditeljima koji su odani vjeri"
+      "detail": "koji je pun vjere, prožet vjerskim osjećajima"
     },
     {
       "name": "pikantan",
-      "detail": "prijatno oštar stimulirajući"
+      "detail": "koji je ugodno oštar po okusu i mirisu, dobro ali s mjerom začinjen"
     },
     {
       "name": "zamka",
-      "detail": "nakrivena rupa kao zamka neslućena opasnost"
-    },
-    {
-      "name": "ključno",
-      "detail": "od velike važnosti (drugi ovise o tome)"
-    },
-    {
-      "name": "tužni",
-      "detail": "žalosna melankolija tužna"
+      "detail": "naprava u obliku omče ili petlje namještena za hvatanje divljači"
     },
     {
       "name": "ploča",
-      "detail": "ravni metal na zidu kao spomen"
-    },
-    {
-      "name": "platitude",
-      "detail": "otrcana ili banalna izjava neoriginalnost"
+      "detail": "tanka četvrtasta ploča s nanesenim spojnim vodovima na koju se ugrađuju elektronički sklopovi"
     },
     {
       "name": "molba",
-      "detail": "obratiti se sudu kao odvjetnik"
-    },
-    {
-      "name": "popustljiv",
-      "detail": "savitljiv, lako se savijati u obliku ili uvijati"
+      "detail": "na pristojan način, prema običajima, nekom upućena želja ili zahtjev da što učini, odobri"
     },
     {
       "name": "plod",
-      "detail": "nastavi raditi nešto bez odmora"
-    },
-    {
-      "name": "čupaj",
-      "detail": "povucite perje s brave (npr. cvijeće)"
+      "detail": "tvorevina biljke koja kao zasebna cjelina sadrži jednu ili više sjemenaka"
     },
     {
       "name": "nagib",
-      "detail": "pad strmo strmoglavi"
-    },
-    {
-      "name": "ponovni",
-      "detail": "kreći se brzo iznenada i snažno"
+      "detail": "ukošenje, kut u odnosu na okomicu ili vodoravnu crtu"
     },
     {
       "name": "dirljivo",
-      "detail": "duboko dirljiva želja"
+      "detail": "na dirljiv način, tako da dira, da izaziva ganuće; ganutljivo"
     },
     {
       "name": "pončo",
-      "detail": "veliki komad tkanine"
+      "detail": "dio nošnje Indijanaca (uglavnom Južne Amerike); prostran vuneni ogrtač široka kroja i karakterističnih šara"
     },
     {
       "name": "težak",
-      "detail": "teški glomazni dosadni"
+      "detail": "ratar, poljoprivrednik"
     },
     {
       "name": "značajan",
-      "detail": "omen čudesno prijeteće"
+      "detail": "koji ima veliku važnost; vrijedan, znamenit"
     },
     {
       "name": "nesigurno",
-      "detail": "neizvjesno rizično opasno"
+      "detail": "na nesiguran način [nesigurno se osjećati]; kolebljivo, nepouzdano"
     },
     {
-      "name": "propisi",
-      "detail": "pravila koja uspostavljaju standarde ponašanja"
-    },
-    {
-      "name": "isključuje",
-      "detail": "spriječiti učiniti nemoguće"
-    },
-    {
-      "name": "prekursor",
-      "detail": "preliminarno predviđanje"
-    },
-    {
-      "name": "sklonost",
-      "detail": "posebne mentalne sklonosti"
-    },
-    {
-      "name": "prevladava",
-      "detail": "imaju više moći od drugih"
+      "name": "propis",
+      "detail": "usvojena i određena obveza koja uređuje odnose i postupke u društvu"
     },
     {
       "name": "prerano",
-      "detail": "učiniti ili dogoditi nešto prije pravog vremena"
+      "detail": "prije uobičajenoga, utvrđenoga ili očekivanoga vremena, previše rano"
     },
     {
       "name": "prevlast",
-      "detail": "veličina u težini snage broja"
+      "detail": "veća moć nad kim/čim; premoć"
     },
     {
-      "name": "presage",
-      "detail": "znak upozorenja"
-    },
-    {
-      "name": "prezumpcija",
-      "detail": "arogancija"
-    },
-    {
-      "name": "pretprirodno",
-      "detail": "nije normalno ili uobičajeno"
-    },
-    {
-      "name": "prevladava",
-      "detail": "uobičajeno"
-    },
-    {
-      "name": "nedodirnuto",
-      "detail": "primitivno neiskvareno čisto kao u ranijim vremenima nepatvoreno"
-    },
-    {
-      "name": "sklonost",
-      "detail": "sklonost"
-    },
-    {
-      "name": "odlaganje",
-      "detail": "nastavljamo odlagati"
-    },
-    {
-      "name": "razmetni",
-      "detail": "rasipno bezobzirno s novcem"
+      "name": "odlaganti",
+      "detail": "ostavljati po strani stvari koje su u uporabi"
     },
     {
       "name": "čudesan",
-      "detail": "ogromna divna"
+      "detail": "koji nastaje čudom, koji je rezultat čuda, natprirodan, neovisan o prirodnim zakonima, bajkovit"
     },
     {
       "name": "profano",
-      "detail": "svjetski prezir Boga"
+      "detail": "na profan način"
     },
     {
       "name": "razuzdanost",
-      "detail": "besramni nemoral"
+      "detail": "osobina onoga koji je razuzdan"
     },
     {
       "name": "razvratnik",
-      "detail": "rasipni rasipni razvratni ekstravagantan"
+      "detail": "onaj koji se odao razvratu"
     },
     {
       "name": "dubina",
-      "detail": "dubina"
+      "detail": "udaljenost od površine ili najisturenije točke do dna ili najniže točke"
     },
     {
       "name": "obilno",
-      "detail": "obilno/raskošno"
+      "detail": "na obilan način, u velikoj količini, u velikom broju; izdašno"
     },
     {
       "name": "proliferirati",
-      "detail": "razmnožavanje brzim umnožavanjem"
-    },
-    {
-      "name": "prolix",
-      "detail": "zamorno jer predugo"
+      "detail": "brzo se razviti/razvijati; (na)rasti, niknuti/nicati, bujati"
     },
     {
       "name": "sklon",
-      "detail": "prosti sklon (nepoželjnim stvarima)"
-    },
-    {
-      "name": "propagacija",
-      "detail": "povećanje broja koji se širi širi se"
+      "detail": "koji je naklonjen čemu ili kome; prijateljski raspoložen prema kome; koji suosjeća"
     },
     {
       "name": "blizina",
-      "detail": "blizina vremena ili mjesta srodnost prirode"
-    },
-    {
-      "name": "pomiriteljski",
-      "detail": "pomirljivo pomirljivo ublažavanje"
+      "detail": "malen razmak između dviju točaka ili dvaju predmeta"
     },
     {
       "name": "pogodan",
-      "detail": "povoljan predstavljajući povoljne okolnosti"
+      "detail": "koji obećava; prikladan, zgodan"
     },
     {
       "name": "prozaično",
-      "detail": "svakodnevni, uobičajeni banalni pješak"
+      "detail": "s prozaičnošću, na prozaičan način"
     },
     {
-      "name": "zabrani",
-      "detail": "oglasi opasnom"
-    },
-    {
-      "name": "dugotrajno",
-      "detail": "produženo"
-    },
-    {
-      "name": "providen",
-      "detail": "štedljiv pogled u budućnost"
-    },
-    {
-      "name": "privremeno",
-      "detail": "samo sadašnjeg vremena"
-    },
-    {
-      "name": "provocirati",
-      "detail": "naljutiti vax"
+      "name": "providencija",
+      "detail": "svojstvo, osobina ili odlika onoga koji je providentan, providencijalan; predviđanje, oprez"
     },
     {
       "name": "razboritost",
-      "detail": "pažljivo promišljanje"
-    },
-    {
-      "name": "šljive",
-      "detail": "suha šljiva glupa osoba"
-    },
-    {
-      "name": "nabiranje",
-      "detail": "bora"
-    },
-    {
-      "name": "borbeni",
-      "detail": "obožavam naviku borbe"
+      "detail": "ljudska umska sposobnost ispravnog razlikovanja dobra i zla"
     },
     {
       "name": "pažljivo",
-      "detail": "precizno obraćanje pažnje na trivijalnosti"
+      "detail": "na pažljiv način, s pažnjom; pomnjivo, brižljivo, pozorno"
     },
     {
       "name": "oštrina",
-      "detail": "oštrina bockajuća kvaliteta"
+      "detail": "osobina onoga koji je oštar, svojstvo onoga što je oštro"
     },
     {
       "name": "nabavka",
-      "detail": "omogućite opskrbu"
-    },
-    {
-      "name": "pusillanimous",
-      "detail": "kukavička žudnja"
+      "detail": "stjecanje, kupovanje predmeta ili namirnica uvjetovano potrebom; nabavka, nabavljanje"
     },
     {
       "name": "truljenje",
-      "detail": "postaje pokvaren"
+      "detail": "raspadanje organskih materijala uz prisutnost zraka djelovanjem aerobnih mikroorganizama"
     },
     {
       "name": "lomača",
-      "detail": "velika gomila drva za spaljivanje"
-    },
-    {
-      "name": "kvak",
-      "detail": "osoba koja nepošteno tvrdi da nešto"
+      "detail": "velika vatra od drva i granja na kojoj se javno spaljuje"
     },
     {
       "name": "prepelica",
-      "detail": "izgubiti hrabrost pretvoriti se u strah"
+      "detail": "ptica iz roda koka, porodica jarebica"
     },
     {
       "name": "smutnja",
-      "detail": "osjećaj sumnje privremeni osjećaj bolesti"
+      "detail": "zametanje svađe, neslaganja ili nesporazuma; spletkarenje, intrigiranje"
     },
     {
       "name": "zamračenje",
-      "detail": "stanje sumnje ili zbunjenosti"
+      "detail": "gašenje svjetla i zastiranje prozora kao mjera opreza zbog napada neprijatelja"
     },
     {
       "name": "ugušiti",
-      "detail": "suppress subdue"
+      "detail": "nasilno obuzdati, ukrotiti, umiriti"
     },
     {
       "name": "prigovor",
-      "detail": "pokušajte izbjeći sofisticiranošću"
+      "detail": "izraženo nezadovoljstvo zbog čijeg postupka ili greške; zamjerka, prijekor"
     },
     {
-      "name": "mirovanje",
-      "detail": "stanje pasivnosti/nepokretnosti"
-    },
-    {
-      "name": "quik",
-      "detail": "navika ili radnja svojstvena nekome ili nečemu"
-    },
-    {
-      "name": "donkihotski",
-      "detail": "velikodušan nesebičan"
-    },
-    {
-      "name": "svakodnevno",
-      "detail": "banalna svakodnevica"
-    },
-    {
-      "name": "glulja",
-      "detail": "mafija gomila niže klase stanovništva"
-    },
-    {
-      "name": "raconteur",
-      "detail": "osoba koja priča anegdote"
-    },
-    {
-      "name": "raffish",
-      "detail": "niska vulgarna osnova bezobrazno"
+      "name": "svakodnevnost",
+      "detail": "svojstvo onoga što je svakodnevno; konvencionalnost, običnost"
     },
     {
       "name": "razgranati",
-      "detail": "podijeliti ili podijeliti da se razgranati"
+      "detail": "rastom dobiti grane, potjerati grane na sve strane"
     },
     {
       "name": "ogorčen",
-      "detail": "osjećaj gorčine zlovolje"
+      "detail": "koji je pun gorčine prema onome što je izaziva"
     },
     {
       "name": "dreka",
-      "detail": "koristite ekstravagantan jezik"
+      "detail": "verbalno negodovanje, protestiranje, izražavanje protivnosti"
     },
     {
       "name": "grabežljiv",
-      "detail": "pohlepan (naročito za novcem)"
+      "detail": "koji je sklon grabežu"
     },
     {
       "name": "rijetko",
-      "detail": "učiniti tankim učiniti manje gustim pročistiti ili oplemeniti"
-    },
-    {
-      "name": "rave",
-      "detail": "djeluj s pretjeranim entuzijazmom"
+      "detail": "na većoj udaljenosti, s razmakom jedno od drugoga"
     },
     {
       "name": "reakcionar",
-      "detail": "suprotni napredak"
-    },
-    {
-      "name": "odbijanje",
-      "detail": "snub"
-    },
-    {
-      "name": "prepokorni",
-      "detail": "neposlušan"
-    },
-    {
-      "name": "recast",
-      "detail": "cast ili moda iznova"
+      "detail": "protivnik napretka razvoja građanskih sloboda; natražnjak, nazadnjak"
     },
     {
       "name": "recidivizam",
-      "detail": "povratak u antisocijalno ili kriminalno ponašanje"
+      "detail": "ponavljanje kaznenog djela već prije osuđivane osobe, što predstavlja otegotnu okolnost; recidiv"
     },
     {
       "name": "reciprocitet",
-      "detail": "davanje privilegija u zamjenu za slično"
-    },
-    {
-      "name": "recitali",
-      "detail": "broj izvedbe glazbe"
+      "detail": "uzvraćanje istom mjerom; recipročnost, uzajamnost, obostranost"
     },
     {
       "name": "samotnjak",
-      "detail": "osoba koja živi sama i izbjegava ljude"
+      "detail": "onaj koji je sam; usamljenik, samotar"
     },
     {
       "name": "nadoknada",
-      "detail": "uplatite nagradu za kaznu"
+      "detail": "protuvrijednost koja se dobije za što oštećeno, neispravno, izgubljeno ili zamijenjeno"
     },
     {
       "name": "pomiriti",
-      "detail": "riješi svađu vrati mir"
+      "detail": "prekinuti, okončati svađu, neprijateljstvo, uspostaviti mir"
     },
     {
       "name": "oporavak",
-      "detail": "postani jak nakon iscrpljenosti od gubitka bolesti"
+      "detail": "vraćanje snage ili zdravlja poslije slabosti ili bolesti, poboljšanje u bilo kojem smislu"
     },
     {
       "name": "otkupiti",
-      "detail": "vratiti plaćanjem kompenzacije"
+      "detail": "uzeti u vlasništvo uz novčanu naknadu ono što ne mora biti namijenjeno prodaji"
     },
     {
       "name": "nesumnjivo",
-      "detail": "strašan izaziva strah"
+      "detail": "bez sumnje, jasno, pouzdano"
     },
     {
-      "name": "pročisti",
-      "detail": "učiniti ili postati čista kultura"
-    },
-    {
-      "name": "vatrostalni",
-      "detail": "tvrdoglav, neupravljiv, neukrotiv"
-    },
-    {
-      "name": "regale",
-      "detail": "oduševiti ili zabaviti gozbu"
-    },
-    {
-      "name": "kraljeubica",
-      "detail": "zločin ubijanja kralja"
+      "name": "pročistiti",
+      "detail": "čišćenjem učiniti prohodnim"
     },
     {
       "name": "ponovno",
-      "detail": "reci ili ponovi nekoliko puta"
+      "detail": "opet, još jednom, iznova, nanovo"
     },
     {
-      "name": "pomlađivanje",
-      "detail": "postati mlad u prirodi ili izgledu"
+      "name": "prigovoriti",
+      "detail": "uputiti, staviti prigovor"
     },
     {
-      "name": "relaps",
-      "detail": "vrati se opet"
-    },
-    {
-      "name": "prigovori",
-      "detail": "protestirati objekt"
-    },
-    {
-      "name": "render",
-      "detail": "isporuka pružiti predstavljati"
+      "name": "renderiran",
+      "detail": "koji ima sjene na crtežu; osjenčan"
     },
     {
       "name": "renovirati",
-      "detail": "vratiti nešto u bolje stanje"
+      "detail": "rekonstruirati prilagođujući suvremenim potrebama; obnoviti/obnavljati"
     },
     {
       "name": "poznati",
-      "detail": "proslavljeni slavni"
+      "detail": "prepoznati, raspoznati"
     },
     {
-      "name": "repast",
-      "detail": "obrok"
-    },
-    {
-      "name": "odboj",
-      "detail": "odbija prihvatiti/prouzrokovati nesviđanje"
-    },
-    {
-      "name": "repine",
-      "detail": "nezadovoljan s"
+      "name": "odbojan",
+      "detail": "koji ponašanjem odbija od sebe; neljubazan, nepristupačan"
     },
     {
       "name": "prijekor",
-      "detail": "ukoriti"
+      "detail": "prekoravanje, manja zamjerka komu"
     },
     {
-      "name": "odvratnik",
-      "detail": "osoba okorjela u grijehu lišena pristojnosti"
-    },
-    {
-      "name": "odbaciti",
-      "detail": "odbijanje odbijanja prihvatiti ili platiti"
-    },
-    {
-      "name": "odbojno",
-      "detail": "izazivanje osjećaja gađenja"
-    },
-    {
-      "name": "zahvalno",
-      "detail": "vrati dati zauzvrat"
+      "name": "zahvalnost",
+      "detail": "iskaz priznanja za učinjeno dobro"
     },
     {
       "name": "povući",
-      "detail": "poništi/poništi/otkaži"
+      "detail": "uzmicati pred kim"
     },
     {
-      "name": "ostavku",
-      "detail": "pokorni bez otpora"
+      "name": "ostavka",
+      "detail": "javni čin kojim se tko odriče kakva položaja, funkcije"
     },
     {
       "name": "otpornost",
-      "detail": "kvaliteta brzog vraćanja izvornog oblika"
+      "detail": "sposobnost (tijela ili čega drugoga) da se nečemu odupre; izdržljivost"
     },
     {
       "name": "odmaralište",
-      "detail": "često posjećivati"
+      "detail": "objekt sa sobama, blagovaonicom, društvenim prostorijama, sportskim igralištima i sl. u kojem ljudi provode godišnji odmor"
     },
     {
       "name": "mirno",
-      "detail": "odbijanje kretanja nerado da ga se kontrolira"
+      "detail": "s mirom, smireno, bez nervoze ili uzbuđenja, mirne savjesti"
     },
     {
       "name": "reanimacija",
-      "detail": "vraćanje svijesti"
-    },
-    {
-      "name": "retard",
-      "detail": "provjeri ometanje"
+      "detail": "niz postupaka kojima se pokušava ponovno uspostaviti iz bilo kojeg razloga prekinut rad srca i pluća; oživljavanje"
     },
     {
       "name": "suzdržan",
-      "detail": "pridržani nerazgovorljivi tihi šutljivi"
-    },
-    {
-      "name": "poštovani",
-      "detail": "osjećaj ili pokazivanje dubokog poštovanja"
-    },
-    {
-      "name": "zagonetka",
-      "detail": "zbunjujuća osoba ili stvar"
+      "detail": "koji je suzdržljiv - odmjeren"
     },
     {
       "name": "razdor",
-      "detail": "split crack dissension"
+      "detail": "raskol, rascjep, raskid"
     },
     {
       "name": "zakovica",
-      "detail": "fix take up secure metal pin"
+      "detail": "ono čime se što zakiva; zakivak, zakivka, nitna, metalna spojka"
     },
     {
-      "name": "okrugla",
-      "detail": "bogata i duboka puna i okrugla"
+      "name": "okruglast",
+      "detail": "koji je obao, loptast"
     },
     {
       "name": "mudrost",
-      "detail": "imati zdravu prosudbu pronicljiv mudar poput mudraca"
-    },
-    {
-      "name": "salacious",
-      "detail": "opsceno"
+      "detail": "osobina onoga koji je mudar, sposobnost zrela rasuđivanja"
     },
     {
       "name": "zdravo",
-      "detail": "lijek koji uzrokuje poboljšanje"
-    },
-    {
-      "name": "sveta",
-      "detail": "samopravednost licemjerna s LAŽNOM pobožnošću"
+      "detail": "na zdrav način, kao zdrav čovjek"
     },
     {
       "name": "sankcija",
-      "detail": "kazna za odobrenje (od strane vlasti)"
+      "detail": "dio zakonskog paragrafa koji navodi pravne posljedice kršenja zakona"
     },
     {
       "name": "sangvinik",
-      "detail": "veseli samouvjereni optimist"
-    },
-    {
-      "name": "zdrav razum",
-      "detail": "zdravlje duha, razumnost prosuđivanja"
+      "detail": "onaj koji je vatrena temperamenta, lako razdražljive, emocionalne i žestoke ćudi"
     },
     {
       "name": "krilo",
-      "detail": "duga traka koja se nosi oko struka"
+      "detail": "dio avionske konstrukcije"
     },
     {
-      "name": "zasiti",
-      "detail": "u potpunosti zadovoljiti"
-    },
-    {
-      "name": "saturnin",
-      "detail": "tmurno tamno mrzovoljno mrzovoljno"
-    },
-    {
-      "name": "savant",
-      "detail": "osoba velikog učenja"
+      "name": "zasititi",
+      "detail": "potpuno otkloniti glad, postati sit"
     },
     {
       "name": "ukus",
-      "detail": "okus okus smth"
+      "detail": "sustav estetskih pogleda, pojam, shvaćanje lijepoga, estetsko mjerilo"
     },
     {
       "name": "piljevina",
-      "detail": "sitni komadići drveta"
+      "detail": "poput prašine sitni otpaci od drveta i metala kao popratni proizvod piljenja ili turpijanja, pilotina, pilovina"
     },
     {
       "name": "korica",
-      "detail": "korica za oštricu"
-    },
-    {
-      "name": "miris",
-      "detail": "miris (naročito ugodan)"
+      "detail": "kora dobivena u željenu obliku i tvrdoći u procesu pečenja"
     },
     {
       "name": "spržiti",
-      "detail": "izmjeniti boju/osušiti se/idi velikom brzinom"
+      "detail": "pržiti, spaliti po površini, sprljiti, oprljiti, osmuditi"
     },
     {
       "name": "švrljati",
-      "detail": "piši žurno"
+      "detail": "ići malo ovamo malo onamo, lutati bez cilja; bazati"
     },
     {
       "name": "skorbut",
-      "detail": "znači prezrivo"
+      "detail": "avitaminoza uslijed nedostatka vitamina C"
     },
     {
-      "name": "sekularno",
-      "detail": "materijalni (ne duhovni) život izvan samostana"
-    },
-    {
-      "name": "zanosno",
-      "detail": "ustrajan"
-    },
-    {
-      "name": "seminal",
-      "detail": "poput sjemena koje čini izvorni izvor"
-    },
-    {
-      "name": "sententious",
-      "detail": "kratko i jezgrovito puno maksima/poslovica"
+      "name": "zanos",
+      "detail": "oduševljenje, ushićenje, entuzijazam, zadubljenost"
     },
     {
       "name": "sekvenca",
-      "detail": "nasljedna povezana linija"
-    },
-    {
-      "name": "sere",
-      "detail": "napravi teško i bez osjećaja"
+      "detail": "općenito ono što slijedi, slijed, po odlikama određen dio neke cjeline, odsječak"
     },
     {
       "name": "propovijed",
-      "detail": "korenje osobe za njene greške"
-    },
-    {
-      "name": "nazubljeni",
-      "detail": "ima nazubljeni rub"
+      "detail": "obredni govor religioznopoučnog sadržaja koji se drži ob. za službe u crkvi; predika, prodika, homilija"
     },
     {
       "name": "nazubljenost",
-      "detail": "ima nazubljeni rub"
-    },
-    {
-      "name": "sever",
-      "detail": "prekini"
+      "detail": "svojstvo onoga što je nazubljeno"
     },
     {
       "name": "prekid",
-      "detail": "odsječenje"
+      "detail": "privremeni prestanak trajanja čega"
     },
     {
       "name": "plitko",
-      "detail": "mala dubina nije ozbiljno"
-    },
-    {
-      "name": "shard",
-      "detail": "komad slomljenog zemljanog posuđa"
+      "detail": "na plitak način, malo pod površinu"
     },
     {
       "name": "fuga",
-      "detail": "poklopac za oštricu oružja ili alata"
+      "detail": "poremećaj izgubljenog sjećanja, zadržanih vještina i sposobnosti i potrebe stvaranja novog života ob. u novoj sredini"
     },
     {
       "name": "pametan",
-      "detail": "pronicljivo pokazuje zdravu prosudbu"
-    },
-    {
-      "name": "reštavo",
-      "detail": "oštar piercing"
+      "detail": "koji ima pameti, koji ima sposobnost rasuđivanja; razborit, mudar, oštrouman, pronicav"
     },
     {
       "name": "vijugav",
-      "detail": "vijugava valovita serpentina"
+      "detail": "koji ima oblik vijuga, koji teče praveći zavoje čas lijevo čas desno"
     },
     {
       "name": "škriljevac",
-      "detail": "kralj plavo-sivog kamena predlaže kritiku"
+      "detail": "stijena slojevite strukture, koja se lako kala u ploče"
     },
     {
       "name": "lijenčina",
-      "detail": "lijena osoba koja se sporo kreće"
+      "detail": "onaj koji je lijen, ljenjivac"
     },
     {
       "name": "uvreda",
-      "detail": "spoji zvukove/riječi (nerazgovjetno)"
+      "detail": "riječi ili postupak kojim se vrijeđa, nanosi nepravda ili sramota, kojim se pogađa dostojanstvo drugoga"
     },
     {
       "name": "tinjati",
-      "detail": "gori polako bez plamena"
+      "detail": "gorjeti bez plamena ispod pepela"
     },
     {
-      "name": "zamka",
-      "detail": "zamka"
-    },
-    {
-      "name": "snub",
-      "detail": "prezirno postupati"
-    },
-    {
-      "name": "lebdi",
-      "detail": "diži se visoko"
+      "name": "lebdjeti",
+      "detail": "održavati se u visinama na istom mjestu ili bez kretanja u nekom smjeru; lelujati"
     },
     {
       "name": "trijezan",
-      "detail": "samokontroliran"
+      "detail": "koji se nije opio, ili koji se otrijeznio"
     },
     {
       "name": "trijeznost",
-      "detail": "kvaliteta ili uvjet da ste trijezni"
-    },
-    {
-      "name": "skvašen",
-      "detail": "natopljeno zasićeno"
+      "detail": "osobina onoga koji je trijezan"
     },
     {
       "name": "mokar",
-      "detail": "težak s vodom"
+      "detail": "koji je poliven ili natopljen"
     },
     {
       "name": "otapalo",
-      "detail": "moć formiranja rješenja"
+      "detail": "tekućina koja otapa tvari stvarajući otopinu; rastvarač"
     },
     {
       "name": "somatski",
-      "detail": "o tijelu"
+      "detail": "koji se odnosi na tijelo; tjelesni, fizički"
     },
     {
       "name": "čađa",
-      "detail": "crni prah u dimu"
-    },
-    {
-      "name": "sofisticirano",
-      "detail": "složeno suptilno profinjeno"
+      "detail": "proizvod nepotpuna izgaranja drva, taloži se iz dima"
     },
     {
       "name": "sofistika",
-      "detail": "pogrešno razmišljanje pogrešna logika"
+      "detail": "namjerno izvrtanje istine i izvlačenje zaključaka na osnovi prividnih dokaza pomoću sofizama"
     },
     {
       "name": "koplje",
-      "detail": "oružje s metalnim vrhom na dugoj drški"
+      "detail": "dugo i zašiljeno oružje za borbu ili lov udarom ili bacanjem"
     },
     {
       "name": "znatno",
-      "detail": "nelogično upitne istine ili zasluge"
+      "detail": "osjetno, očigledno, primjetno, jako"
     },
     {
       "name": "spužva",
-      "detail": "porozna guma za pranje uživo na trošak"
-    },
-    {
-      "name": "krivotvorina",
-      "detail": "nešto lažno"
+      "detail": "najniži oblik višestaničnih životinja"
     },
     {
       "name": "jadan",
-      "detail": "odvratno prljavo"
+      "detail": "koji je u teškom stanju; bijedan, jadnovit, jadovan, nesretan, sirot "
     },
     {
       "name": "rasipati",
-      "detail": "trošite rasipno"
+      "detail": "izgubiti svaku mjeru u trošenju čega"
     },
     {
       "name": "čučanj",
-      "detail": "čučniti/nastaniti se bez dopuštenja"
+      "detail": "položaj tijela kad se čuči"
     },
     {
       "name": "strmo",
-      "detail": "naglo raste ili pada"
-    },
-    {
-      "name": "stentorian",
-      "detail": "izuzetno glasno i snažno"
-    },
-    {
-      "name": "stickler",
-      "detail": "osoba koja inzistira na važnosti nečega"
+      "detail": "nakošeno, pod kutom"
     },
     {
       "name": "stigma",
-      "detail": "oznaka srama ili sramote"
+      "detail": "žig utisnut užarenim željezom na tijelo roba ili zločinca"
     },
     {
       "name": "stigmatizirati",
-      "detail": "prezrivo opisati nekoga"
-    },
-    {
-      "name": "uboda",
-      "detail": "smth oštro"
+      "detail": "žigosati, obilježiti/obilježavati pred javnošću negativnom značajkom; prokazati, obilježiti"
     },
     {
       "name": "istočkati",
-      "detail": "boja s točkama"
+      "detail": "nacrtati nizanjem točaka, prekriti točkama"
     },
     {
-      "name": "navesti",
-      "detail": "navesti ili iznijeti kao nužan uvjet"
+      "name": "naoditi",
+      "detail": "spomenuti, ponoviti čije riječi, doslovno prenijeti; citirati"
     },
     {
       "name": "lutalica",
-      "detail": "lutati izgubiti se s puta"
-    },
-    {
-      "name": "prugasti",
-      "detail": "prugasta užljebljena ili trakasta"
+      "detail": "onaj koji voli lutati, koji rado luta; lutalac"
     },
     {
       "name": "korak",
-      "detail": "hod dugim koracima"
+      "detail": "pokret pri hodanju u kojem se jedna noga digne s tla i stavi na drugo mjesto"
     },
     {
       "name": "slatko",
-      "detail": "za ometanje ometanja ili blokiranja"
+      "detail": "ono što je na jelovniku i što po običaju u kompletnom obroku dolazi na kraju poslije slane hrane, ono čime se zasladi"
     },
     {
       "name": "pokoriti",
-      "detail": "prevladati staviti pod kontrolu"
+      "detail": "silom podložiti svojoj vlasti; podčiniti"
     },
     {
       "name": "uzvišeno",
-      "detail": "ekstremno zapanjujuće"
+      "detail": "na uzvišen način, s uzvišenošću"
     },
     {
       "name": "potopiti",
-      "detail": "stavi sudoper pod vodu van pogleda"
-    },
-    {
-      "name": "podborni",
-      "detail": "podmićivanjem ili nečim potaknuti na krivokletstvo"
-    },
-    {
-      "name": "potkrepljenje",
-      "detail": "davanje činjenica u prilog (izjava)"
+      "detail": "tonuti u more ili u drugu veliku vodu, tonuti, nestajati s površine, gubiti se pod površinom mora ili vode"
     },
     {
       "name": "podvesti",
-      "detail": "uključi pod pravilo"
+      "detail": "dovesti što u vezu, u zavisnost od neke šire misli ili pojma"
     },
     {
       "name": "dovoljno",
-      "detail": "budi dosta"
-    },
-    {
-      "name": "gušiti",
-      "detail": "uzrokuju ili imaju poteškoća s disanjem"
-    },
-    {
-      "name": "uprljano",
-      "detail": "biti ukaljan ili diskreditiran"
+      "detail": "u dovoljnoj mjeri, koliko je potrebno; dosta"
     },
     {
       "name": "sažetak",
-      "detail": "kratko bez odlaganja"
+      "detail": "kratki prikaz sadržaja duljeg teksta ili govora; rezime"
     },
     {
       "name": "razno",
-      "detail": "razno razno odvojeno"
-    },
-    {
-      "name": "nadzoran",
-      "detail": "prezir karakteriziran oholim prezirom"
+      "detail": "različito, razne stvari, svašta različito"
     },
     {
       "name": "suvišno",
-      "detail": "više nego što je potrebno ili željeno"
-    },
-    {
-      "name": "preklapanje",
-      "detail": "stavite smth na vrh"
+      "detail": "na nepotreban način, bez potrebe; nepotrebit"
     },
     {
       "name": "zamijeniti",
-      "detail": "zauzmi mjesto"
+      "detail": "preuzeti mjesto, ulogu, dužnost koga drugoga"
     },
     {
       "name": "ležeći",
-      "detail": "ležanje na leđima sporo da djeluje pasivno"
+      "detail": "kojemu je svojstvo, koji je konstruiran tako da služi svrsi položen na podlogu"
     },
     {
       "name": "molitelj",
-      "detail": "ponizno moleći"
-    },
-    {
-      "name": "molba",
-      "detail": "podnijeti skromnu peticiju"
+      "detail": "onaj koji izgovara molitvu"
     },
     {
       "name": "doplata",
-      "detail": "dodatno opterećenje/punjenje"
-    },
-    {
-      "name": "presušno",
-      "detail": "zasiti hranu do punoće ili suvišne"
+      "detail": "dodatak u novcu na već plaćenu svotu, dodatak uplaćenom punom iznosu"
     },
     {
       "name": "skretati",
-      "detail": "iznenadna promjena smjera"
+      "detail": "napuštati smjer kretanja i uputiti se drugim"
     },
     {
       "name": "sikofant",
@@ -3158,95 +2750,63 @@
     },
     {
       "name": "sinopsis",
-      "detail": "sažetak ili nacrt"
-    },
-    {
-      "name": "prešutni",
-      "detail": "nerazgovorno tiho"
+      "detail": "sažet tekst kojim se najavljuje sadržaj glavnoga teksta koji slijedi ili će biti napisan"
     },
     {
       "name": "punoglavac",
-      "detail": "oblik žabe kada napusti jaje"
+      "detail": "organizam s repom i škrgama, razvojni stadij žabe"
     },
     {
       "name": "talon",
-      "detail": "pandža ptice grabljivice"
+      "detail": "u igri kartama ostatak karata nakon dijeljenja"
     },
     {
-      "name": "provalni rad",
-      "detail": "ometati"
+      "name": "tangencijalnost",
+      "detail": "odgovaranje na pitanje na posredan i sporedan način"
     },
     {
-      "name": "tangencijalno",
-      "detail": "iznenada promjenjivo"
-    },
-    {
-      "name": "ucrnjen",
-      "detail": "izgubljena svjetlina"
-    },
-    {
-      "name": "kića",
-      "detail": "gomila niti"
-    },
-    {
-      "name": "ruganje",
-      "detail": "preziran prijekor vrijedna primjedba"
+      "name": "kićanka",
+      "detail": "resa od debljih vunenih i sl. konaca koja služi kao ukras i visi (na nekom dijelu odjeće, pokrivaču, dijelu konjske opreme"
     },
     {
       "name": "napeto",
-      "detail": "čvrsto rastegnuto"
+      "detail": "s napregnutom pažnjom, s velikom pozornošću, s mnogo iščekivanja"
     },
     {
       "name": "tautologija",
       "detail": "stilska figura u kojoj se, radi isticanja, jedna za drugom nižu riječi istog ili vrlo sličnog značenja"
     },
     {
-      "name": "neprijatno",
-      "detail": "jeftino blistavo upadljivo ljepljivo"
-    },
-    {
-      "name": "trezave",
-      "detail": "protiv alkohola"
-    },
-    {
       "name": "umjereno",
-      "detail": "pokazuje samokontrolu"
+      "detail": "s umjerenošću, s osjećajem mjere"
     },
     {
       "name": "upornost",
       "detail": "ustrajnost, sposobnost ustrajanja"
     },
     {
-      "name": "slaboko",
-      "detail": "neznatan slabašan slab"
-    },
-    {
       "name": "kratko",
-      "detail": "kratko i do suštine"
-    },
-    {
-      "name": "svjedočenje",
-      "detail": "svjedok/dokaz"
+      "detail": "kratkog trajanja, tako da nije dugo"
     },
     {
       "name": "štedljivost",
-      "detail": "ekonomija skrbi koja napreduje"
+      "detail": "osobina onoga koji je štedljiv"
     },
     {
       "name": "plah",
-      "detail": "sramežljiv, lako se uplašiti"
+      "detail": "koji se svega boji, koji na sve trza, koji je bojažljiv, plahovit"
     },
     {
       "name": "strašan",
-      "detail": "uplašen plašljiv strah"
+      "detail": "koji je užasan, grozan"
     },
     {
       "name": "tonik",
-      "detail": "smth daje snagu ili energiju"
+      "detail": "tekućina za osvježavanje i čišćenje lica"
     },
     {
       "name": "muka",
-      "detail": "jaka bol ili patnja"
+      "detail": "osjećaj gađenja, tegobe, ob. u želuc"
     },
     {
       "name": "torpidan",
@@ -3254,243 +2814,187 @@
     },
     {
       "name": "moment",
-      "detail": "sila uvijanja koja uzrokuje rotaciju"
-    },
-    {
-      "name": "krivo",
-      "detail": "zaobilazan/nije jasan"
+      "detail": "kratak interval; čas, tren, trenutak"
     },
     {
       "name": "uhvatljiv",
-      "detail": "lako kontrolirano ili vođeno"
+      "detail": "koji se može uhvatiti, uvrebati, zatočiti"
     },
     {
       "name": "prestup",
-      "detail": "prekid prelazi (ograničenje)"
+      "detail": "prekoračenje zakonskih odredaba bez težih posljedica, ali kažnjivo lakšim kaznama; prekršaj"
     },
     {
-      "name": "prolazno",
-      "detail": "privremeno prolazno"
+      "name": "prolaznost",
+      "detail": "stanje ili svojstvo onoga što je prolazno"
     },
     {
       "name": "travestija",
-      "detail": "parodija/imitacija"
-    },
-    {
-      "name": "oskoro",
-      "detail": "snažno učinkovit energičan izuzetno perceptivan incisive"
+      "detail": "djelo kojim se izruguje neko drugo djelo ozbiljna sadržaja time što mu se mijenja izraz i ono čini besmislenim"
     },
     {
       "name": "ustrašenost",
-      "detail": "alarmno uzbuđeno stanje duha"
+      "detail": "osobina onoga koji je ustrašen"
     },
     {
       "name": "kapljica",
-      "detail": "tok u kapima"
+      "detail": "dem. od kap i kaplja"
     },
     {
       "name": "beznačajan",
-      "detail": "nevažno"
+      "detail": "koji nema značenja, koji ne znači mnogo po vrijednosti, koji nema važnosti - neznatan"
     },
     {
       "name": "otrcano",
-      "detail": "nije novo"
+      "detail": "na otrcan način, izlizano, pohabano, dosadno, nepotrebno"
     },
     {
       "name": "primirje",
-      "detail": "(sporazum) prestanak borbe na neko vrijeme"
+      "detail": "privremena dogovorena obustava neprijateljstava, borbe ili vatre"
     },
     {
       "name": "mutno",
-      "detail": "mutno zbog čega se sednament uzburkao"
+      "detail": "na mutan način; nejasno, nerazumljivo"
     },
     {
       "name": "turbulencija",
-      "detail": "biti nekontrolirano nasilan"
-    },
-    {
-      "name": "previranja",
-      "detail": "poremećaj problema"
-    },
-    {
-      "name": "tirkizno",
-      "detail": "zelenkasto-plavi dragi kamen"
+      "detail": "slučajno i neprekidno mijenjanje zračnih gibanja u obliku vrtloga koje je superponirano na srednje gibanje zraka"
     },
     {
       "name": "novajlija",
-      "detail": "početnik"
-    },
-    {
-      "name": "sveprisutan",
-      "detail": "prisutan posvuda"
+      "detail": "onaj koji je nov na nekom poslu, koji je tek stigao u neku sredinu"
     },
     {
       "name": "unutrašnji",
-      "detail": "smješten iza"
+      "detail": "koji se odnosi na unutrašnjost, koji je u unutrašnjosti"
     },
     {
       "name": "neotesan",
-      "detail": "grubo neugodno"
+      "detail": "koji se ne zna ponašati u društvu; neodgojen, neuglađen, sirov"
     },
     {
       "name": "potkopavati",
-      "detail": "postupno slabljenje u osnovi napraviti smth ispod"
-    },
-    {
-      "name": "valoviti",
-      "detail": "kretati se na valoviti način fluktuirati"
+      "detail": "skopati jarak, prolaz itd. ispod čega"
     },
     {
       "name": "iskopati",
-      "detail": "otkrij i iznijeti na vidjelo"
-    },
-    {
-      "name": "neopterećen",
-      "detail": "jednostavna sitnica"
+      "detail": "kopanjem napraviti u zemlji jamu, raku, jarak i sl., ob. lopatom ili drugim alatom"
     },
     {
       "name": "neozlijeđen",
-      "detail": "neozlijeđen neozlijeđen"
-    },
-    {
-      "name": "neprijatno",
-      "detail": "nažalost, nezgodno"
+      "detail": "koji nije zadobio ozljedu"
     },
     {
       "name": "ukor",
-      "detail": "prekoriti prijekor"
+      "detail": "opomena zbog pogreške; zamjerka, prijekor, prigovor"
     },
     {
-      "name": "urbane",
-      "detail": "elegantan, rafiniran u manirima"
+      "name": "urban",
+      "detail": "koji sadrži svojstva kulturnog, socijaliziranog i organiziranog života grada"
     },
     {
       "name": "kolebanje",
-      "detail": "nesiguran oklijevam"
+      "detail": "mijenjanje vrijednosti; fluktuacija, oscilacija"
     },
     {
       "name": "uzalud",
-      "detail": "bez upotrebe rezultat umišljen"
+      "detail": "na beskoristan način; nizašto, zalud"
     },
     {
-      "name": "hrabri",
-      "detail": "hrabro"
+      "name": "hrabar",
+      "detail": "koji se usuđuje učiniti ono što je teško ili što se drugi ne usuđuju, koji ne preza pred čim, koji se usuđuje suočiti s opasnošću ili teškoćama; odvažan"
     },
     {
-      "name": "hrabri",
-      "detail": "hrabro"
-    },
-    {
-      "name": "pobjedi",
-      "detail": "osvoji"
-    },
-    {
-      "name": "venal",
-      "detail": "spreman učiniti nešto nepošteno"
+      "name": "pobjediv",
+      "detail": "kojega se može pobijediti"
     },
     {
       "name": "furnir",
-      "detail": "izgled površine koji pokriva PRAVU prirodu"
+      "detail": "tanak list plemenita drva, služi za oblaganje vanjskih dijelova pokućstva"
     },
     {
       "name": "istinitost",
-      "detail": "istina"
+      "detail": "svojstvo onoga što je istinito, ono što sadrži istinu"
     },
     {
       "name": "zeleno",
-      "detail": "svježe i zeleno"
-    },
-    {
-      "name": "vjerodostojnost",
-      "detail": "izgleda stvarno"
+      "detail": "u zelenoj boji"
     },
     {
       "name": "istinski",
-      "detail": "stvarno ispravno namenovan"
+      "detail": "koji zaista postoji; realan, stvaran, zbiljski"
     },
     {
       "name": "polet",
-      "detail": "entuzijazam za duhom"
-    },
-    {
-      "name": "ostalo",
-      "detail": "trag ili znak"
+      "detail": "zanos, oduševljenje, ushićenje, poletnost"
     },
     {
       "name": "budnost",
-      "detail": "budnost samozvana grupa koja održava red"
-    },
-    {
-      "name": "budan",
-      "detail": "član odbora za budnost"
+      "detail": "stanje onoga koji je budan"
     },
     {
       "name": "snažan",
-      "detail": "jako energičan"
-    },
-    {
-      "name": "ocrniti",
-      "detail": "klevete govore zle stvari"
+      "detail": "moćan, jak"
     },
     {
       "name": "osvetoljubiv",
-      "detail": "imati želju za osvetom"
-    },
-    {
-      "name": "virago",
-      "detail": "glasna dominantna žena grdi ili prigovara"
-    },
-    {
-      "name": "visceralno",
-      "detail": "unutarnjih organa tijela"
+      "detail": "koji je sklon osvećivanju, koji se voli osvećivati"
     },
     {
       "name": "viskozan",
-      "detail": "ljepljivo/polutečno"
+      "detail": "ljepljiv, gusto tekući, žitak"
     },
     {
       "name": "pokvariti",
-      "detail": "smanjenje kvalitete slabi snagu"
+      "detail": "činiti da što ili tko gubi na vrijednosti, ljepoti, dobroti i drugim poželjnim svojstvima i osobinama"
     },
     {
       "name": "izgrditi",
-      "detail": "prokleti zlostavljanje riječima"
+      "detail": "oštro ukoriti nebiranim riječima; iskarati, izružiti"
     },
     {
       "name": "živahno",
-      "detail": "živahno raspoloženo"
+      "detail": "na živahan način, vrlo živo; bodro, čilo, veselo"
     },
     {
       "name": "hlapljiv",
-      "detail": "promjenjivi nepostojani nestalni nestabilni eksploziv"
-    },
-    {
-      "name": "blebetanje",
-      "detail": "razgovarajte nejasno i bez puno rezultata"
+      "detail": "koji hlapi"
     },
     {
       "name": "vijoriti",
-      "detail": "miris koji se lagano provlači kroz pokret"
-    },
-    {
-      "name": "mahanje",
-      "detail": "vesela osoba"
+      "detail": "lepršati viseći o nečemu na vjetru"
     },
     {
       "name": "nalog",
-      "detail": "napisano jamstvo ovlaštenja"
+      "detail": "ono što se kome naloži, naredi"
     },
     {
-      "name": "odvikavanje",
-      "detail": "odvratiti se (od navike)"
+      "name": "vagati",
+      "detail": "odmjeravati vrijednost, značenje čega, prosuđivati; procjenjivati"
     },
     {
-      "name": "vaganje",
-      "detail": "mjera motika je teška smth"
+      "name": "valjati",
+      "detail": "biti koristan ili dobar za što, služiti, biti od koristi"
     },
     {
-      "name": "valjanje",
-      "detail": "previranja u zbunjujućoj zbrci"
+      "name": "abažur",
+      "detail": "ukrasno izrađen štit svjetiljke, zaklanja od izravnog izvora svjetlosti; sjenilo"
+    },
+    {
+      "name": "abonirati",
+      "detail": "pretplatiti/pretplaćivati se"
+    },
+    {
+      "name": "aciliranje",
+      "detail": "vođenje acilne skupine RCO- u organske kemijske spojeve"
+    },
+    {
+      "name": "adenitis",
+      "detail": "upala limfnih čvorova"
+    },
+    {
+      "name": "kvantificirati",
+      "detail": "izvršiti/vršiti kvantifikaciju; prebrojiti/prebrojavati"
     }
   ]
 }
