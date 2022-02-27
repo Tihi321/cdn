@@ -4,6 +4,7 @@ import {
   generateRandomVocabularyCroWord,
   generateRandomEngWord,
   generateRandomCroWord,
+  generateRandomDetailsCroWord,
 } from "./random/word";
 import { saveToDisk } from "./write";
 
@@ -21,3 +22,6 @@ saveToDisk("random/word-eng.json", randomEngWord);
 
 const randomCroWord = generateRandomCroWord();
 saveToDisk("random/word-cro.json", randomCroWord);
+
+const randomDetailsCroWord = generateRandomDetailsCroWord();
+saveToDisk("random/word-details-cro.json", randomDetailsCroWord);

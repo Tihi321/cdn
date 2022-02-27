@@ -7,7 +7,7 @@ export const saveToDisk = (filePath: string, jsonContent: string) => {
   const fullPath = resolve(join(publicFolder, filePath));
   ensureDirSync(dirname(fullPath));
 
-  writeFile(fullPath, jsonContent, "utf8", (err) => {
+  writeFile(fullPath, jsonContent, "utf-8", (err) => {
     if (err) {
       console.log("An error occured while writing JSON Object to File.");
 
