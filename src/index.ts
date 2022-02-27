@@ -11,13 +11,13 @@ const randomQuote = generateRandomEngQuote();
 saveToDisk("random/quote-eng.json", randomQuote);
 
 const vocabularyRandomEngWord = generateRandomVocabularyEngWord();
-saveToDisk("random/vocabulary-word-en.json", vocabularyRandomEngWord);
+saveToDisk("random/vocabulary-word-eng.json", vocabularyRandomEngWord);
 
 const vocabularyRandomCroWord = generateRandomVocabularyCroWord();
 saveToDisk("random/vocabulary-word-cro.json", vocabularyRandomCroWord);
 
 const randomEngWord = generateRandomEngWord();
-saveToDisk("random/vocabulary-word-en.json", randomEngWord);
+saveToDisk("random/word-eng.json", randomEngWord);
 
 const randomCroWord = generateRandomCroWord();
-saveToDisk("random/vocabulary-word-cro.json", randomCroWord);
+saveToDisk("random/word-cro.json", randomCroWord);
