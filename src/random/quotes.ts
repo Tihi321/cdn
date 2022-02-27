@@ -1,9 +1,9 @@
 import get from "lodash/get";
-import quotes from "../../assets/api/quotes.json";
+import quotesEng from "../../assets/api/quotes-eng.json";
 import { getRandomArrayIndex } from "../utils/array";
 
-export const generateRandomQuote = () => {
-  const itemIdex = getRandomArrayIndex(quotes);
+export const generateRandomEngQuote = () => {
+  const itemIdex = getRandomArrayIndex(quotesEng.data);
 
-  return JSON.stringify(get(quotes, itemIdex));
+  return JSON.stringify(get(quotesEng, itemIdex));
 };

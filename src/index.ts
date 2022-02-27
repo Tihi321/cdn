@@ -1,12 +1,23 @@
-import { generateRandomQuote } from "./random/quotes";
-import { generateRandomWord, generateRandomWordCroatian } from "./random/word";
+import { generateRandomEngQuote } from "./random/quotes";
+import {
+  generateRandomVocabularyEngWord,
+  generateRandomVocabularyCroWord,
+  generateRandomEngWord,
+  generateRandomCroWord,
+} from "./random/word";
 import { saveToDisk } from "./write";
 
-const randomQuote = generateRandomQuote();
-saveToDisk("random/quote.json", randomQuote);
+const randomQuote = generateRandomEngQuote();
+saveToDisk("random/quote-eng.json", randomQuote);
 
-const randomWord = generateRandomWord();
-saveToDisk("random/word.json", randomWord);
+const vocabularyRandomEngWord = generateRandomVocabularyEngWord();
+saveToDisk("random/vocabulary-word-en.json", vocabularyRandomEngWord);
 
-const croatianRandomWord = generateRandomWordCroatian();
-saveToDisk("random/croatian-word.json", croatianRandomWord);
+const vocabularyRandomCroWord = generateRandomVocabularyCroWord();
+saveToDisk("random/vocabulary-word-cro.json", vocabularyRandomCroWord);
+
+const randomEngWord = generateRandomEngWord();
+saveToDisk("random/vocabulary-word-en.json", randomEngWord);
+
+const randomCroWord = generateRandomCroWord();
+saveToDisk("random/vocabulary-word-cro.json", randomCroWord);
