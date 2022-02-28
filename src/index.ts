@@ -9,19 +9,19 @@ import {
 import { saveToDisk } from "./write";
 
 const randomQuote = generateRandomEngQuote();
-saveToDisk("random/quote-eng.json", randomQuote);
+saveToDisk("api/random/quote-eng.json", randomQuote);
 
 const vocabularyRandomEngWord = generateRandomVocabularyEngWord();
-saveToDisk("random/vocabulary-word-eng.json", vocabularyRandomEngWord);
+saveToDisk("api/random/vocabulary-word-eng.json", vocabularyRandomEngWord);
 
 const vocabularyRandomCroWord = generateRandomVocabularyCroWord();
-saveToDisk("random/vocabulary-word-cro.json", vocabularyRandomCroWord);
+saveToDisk("api/random/vocabulary-word-cro.json", vocabularyRandomCroWord);
 
 const randomEngWord = generateRandomEngWord();
-saveToDisk("random/word-eng.json", randomEngWord);
+saveToDisk("api/random/word-eng.json", randomEngWord);
 
 const randomCroWord = generateRandomCroWord();
-saveToDisk("random/word-cro.json", randomCroWord);
+saveToDisk("api/random/word-cro.json", randomCroWord);
 
 const randomDetailsCroWord = generateRandomDetailsCroWord();
-saveToDisk("random/word-details-cro.json", randomDetailsCroWord);
+saveToDisk("api/random/word-details-cro.json", randomDetailsCroWord);
