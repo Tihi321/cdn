@@ -6,7 +6,30 @@ import isNaN from "lodash/isNaN";
 import includes from "lodash/includes";
 import uniqBy from "lodash/uniqBy";
 import isEqual from "lodash/isEqual";
+import isEmpty from "lodash/isEmpty";
 import { saveToDisk } from "../write";
+
+const getTypeTranslation = (type: string) => {
+  switch (type.toLowerCase().trim()) {
+    case "imenica":
+      return "noun";
+    case "pridjev":
+      return "adjective";
+    case "glagol":
+      return "verb";
+    case "prilog":
+      return "adverb";
+    case "zamjenica":
+      return "pronoun";
+    case "prijedlog":
+      return "proposal";
+    case "veznik":
+      return "conjunction";
+
+    default:
+      return "";
+  }
+};
 
 const readWordsFromDisk = (filePath: string): Promise<string> =>
   new Promise((resolve) => {
@@ -35,10 +58,19 @@ const getDetailsWordsArray = (words: string) => {
     (values) =>
       !isEqual(get(values, "type"), "kratica") &&
       !isEqual(get(values, "type"), "prefiks") &&
+      !isEqual(get(values, "type"), "član") &&
+      !isEqual(get(values, "type"), "čestica") &&
+      !isEqual(get(values, "type"), "uzvik") &&
+      !isEqual(get(values, "type"), "broj") &&
+      !isEqual(get(values, "type"), "pridjevska") &&
+      !isEqual(get(values, "type"), "k") &&
+      !isEqual(get(values, "type"), "y") &&
+      !isEqual(get(values, "type"), "+") &&
+      !isEqual(get(values, "type"), "x") &&
       !includes(get(values, "word"), "-")
   );
 
-  return uniqBy(infinitiveWords, "word");
+  return filter(uniqBy(infinitiveWords, "word"), (values) => !isEmpty(get(values, ["type"])));
 };
 
 const getOlyWordsArray = (words: string) =>
@@ -57,8 +89,17 @@ const saveJSONFromTXT = (wordsOrigin: string, wordsDestination: string) => {
 const saveDetailsJSONFromTXT = (wordsOrigin: string, wordsDestination: string) => {
   readWordsFromDisk(wordsOrigin).then((res) => {
     const words = getDetailsWordsArray(res);
+    const englishTypes = map(words, (values) => {
+      const type = get(values, ["type"]);
+      const typeTranslation = getTypeTranslation(type);
+
+      return {
+        word: get(values, ["word"]),
+        type: typeTranslation,
+      };
+    });
     const wordsString = JSON.stringify({
-      data: words,
+      data: englishTypes,
     });
     saveToDisk(wordsDestination, wordsString);
   });

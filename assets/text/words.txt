@@ -13970,7 +13970,6 @@ cable's-length	cable's-length		imenica
 cablet	cablet		imenica
 cablevision	cablevision		imenica
 cableway	cableway		imenica
-cabling	cabling		kabliranje
 cabman	cabman		imenica
 cabochon	cabochon		imenica
 Cabomba	Cabomba		imenica
@@ -15745,7 +15744,6 @@ catches	catch		imenica
 catchfly	catchfly		imenica
 catching	catching		imenica
 catchment	catchment		imenica
-catchpenny	catchpenny		bezvrijedan
 catchphrase	catchphrase		imenica
 catchweed	catchweed		imenica
 catchword	catchword		imenica
@@ -17419,7 +17417,6 @@ chinaberry	chinaberry		imenica
 Chinaman	Chinaman		imenica
 Chinatown	Chinatown		imenica
 chinaware	chinaware		imenica
-Chinawoman	Chinawoman		Kineskinja
 chincapin	chincapin		imenica
 chinch	chinch		imenica
 chincherinchee	chincherinchee		imenica
@@ -26200,7 +26197,6 @@ depicted	depicted		pridjev
 depicting	depicting		imenica
 depiction	depiction		imenica
 depictive	depictive		pridjev
-depictor	depictor		opisivač
 depicts	depict		imenica
 depicture	depicture		glagol
 depigmentation	depigmentation		imenica
@@ -29100,10 +29096,8 @@ doorwindow	doorwindow		imenica
 dooryard	dooryard		imenica
 doo-wop	doo-wop		imenica
 doozy	doozy		imenica
-DOP	DOP		x
 dopa	dopa		imenica
 dopamine	dopamine		imenica
-dopaminergic	dopaminergic		š
 dopant	dopant		imenica
 Dopastat	Dopastat		imenica
 dope	dope		glagol
@@ -30323,7 +30317,6 @@ dyspraxic	dyspraxic		imenica
 dysprosium	dysprosium		imenica
 dyssynergia	dyssynergia		imenica
 dysthymia	dysthymia		imenica
-dystonia	dystonia		distonija
 dystopia	dystopia		imenica
 dystopian	dystopian		pridjev
 dystrophies	dystrophy		imenica
@@ -30332,13 +30325,8 @@ dysuria	dysuria		imenica
 Dytiscidae	Dytiscidae		imenica
 Dyushambe	Dyushambe		imenica
 dziggetai	dziggetai		imenica
-E	E		imenica
-e-	e-		prefiks
-e.g	e.g		kratica
-Ea	Ea		imenica
 each	each		prilog
 Eacles	Eacles		imenica
-EADI	EADI		x
 Eadwig	Eadwig		imenica
 EAEC	EAEC		kratica
 eager	eager		imenica
@@ -36876,7 +36864,6 @@ flowers-of-an-hour	flowers-of-an-hour		imenica
 flowery	flowery		pridjev
 flowing	flowing		imenica
 flowmeter	flowmeter		imenica
-flown	flown		nadut
 flow-on	flow-on		imenica
 flows	flow		glagol
 flows	flow		imenica
@@ -37299,11 +37286,8 @@ forbiddingly	forbiddingly	75	prilog
 forbiddingness	forbiddingness		imenica
 force	force		glagol
 force	force		imenica
-force majeure	force majeure		imenica
 forced	forced		pridjev
 forcedly	forcedly	75	prilog
-force-feed	force-feed		glagol
-force-feeding	force-feeding		imenica
 forceful	forceful		pridjev
 forcefully	forcefully	75	prilog
 forcefulness	forcefulness		imenica
@@ -50314,10 +50298,8 @@ Irvingia	Irvingia		imenica
 is	be		glagol
 Isaac	Isaac		imenica
 Isabella	Isabella		imenica
-isabelline	isabelline		x
 Isaiah	Isaiah		imenica
 isarithm	isarithm		imenica
-isatin	isatin		o
 Isatis	Isatis		imenica
 Iscariot	Iscariot		imenica
 ischaemia	ischaemia		imenica
@@ -55039,7 +55021,6 @@ lipoidaemia	lipoidaemia		imenica
 lipoidemia	lipoidemia		imenica
 lipoidosis	lipoidosis		imenica
 Lipo-Lutin	Lipo-Lutin		imenica
-lipolysis	lipolysis		lipoliza
 lipoma	lipoma		imenica
 lipomatosis	lipomatosis		imenica
 lipophilic	lipophilic		pridjev
@@ -61234,7 +61215,6 @@ moo-cow	moo-cow		imenica
 mood	mood		imenica
 moodily	moodily	75	prilog
 moodiness	moodiness		imenica
-moodishness	moodishness		ćudljivost
 moods	mood		imenica
 Moody	Moody		imenica
 moolah	moolah		imenica
@@ -63677,7 +63657,6 @@ nevirapine	nevirapine		imenica
 Nevis	Nevis		imenica
 nevus	nevus		imenica
 new	new		prilog
-New Zealand's	New Zealand		imenica
 Newari	Newari		imenica
 Newark	Newark		imenica
 newbie	newbie		imenica
@@ -68853,7 +68832,6 @@ paravertebral	paravertebral		pridjev
 Parazoa	Parazoa		imenica
 parazoan	parazoan		imenica
 parboil	parboil		glagol
-parc	parc		park
 Parcae	Parcae		imenica
 parcel	parcel		glagol
 parcel	parcel		imenica
@@ -70717,7 +70695,6 @@ pet-food	pet-food		imenica
 pethidine	pethidine		imenica
 petiole	petiole		imenica
 petiolule	petiolule		imenica
-petit point	petit point		imenica
 petite	petite		imenica
 petite	petite		pridjev
 petiteness	petiteness		imenica
@@ -73074,7 +73051,6 @@ Pollack	Pollack		imenica
 pollan	pollan		imenica
 pollard	pollard		glagol
 pollard	pollard		imenica
-polled	polled		š
 pollee	pollee		imenica
 pollen	pollen		imenica
 pollenate	pollenate		glagol
@@ -96194,7 +96170,6 @@ thiofuran	thiofuran		imenica
 thioguanine	thioguanine		imenica
 thiopental	thiopental		imenica
 thiophen	thiophen		imenica
-thiophene	thiophene		tiofen
 thiophosphate	thiophosphate		imenica
 thioridazine	thioridazine		imenica
 thiosulfate	thiosulfate		imenica
@@ -97106,7 +97081,6 @@ TN	TN		imenica
 T-network	T-network		imenica
 TNF	TNF		imenica
 TNT	TNT		imenica
-to	to		ptijedlog
 toad	toad		imenica
 toad-eater	toad-eater		imenica
 toadfish	toadfish		imenica
@@ -97575,7 +97549,6 @@ torridity	torridity		imenica
 torse	torse		imenica
 torsiometer	torsiometer		imenica
 torsion	torsion		imenica
-torsional	torsional		torzioni
 torsionally	torsionally		prilog
 torsk	torsk		imenica
 torso	torso		imenica
@@ -97678,7 +97651,6 @@ touchiness	touchiness		imenica
 touching	touching		imenica
 touchingly	touchingly	75	prilog
 touch-in-goal	touch-in-goal		imenica
-touchless	touchless		beskontaktni
 touchline	touchline		imenica
 touch-me-not	touch-me-not		imenica
 touchpad	touchpad		imenica
@@ -107409,7 +107381,6 @@ wrong-headedness	wrong-headedness		imenica
 wrongly	wrongly	75	prilog
 wrongness	wrongness		imenica
 wrong-side-out	wrong-side-out		pridjev
-wrote	wrote		pisao
 wroth	wroth		pridjev
 wrothful	wrothful		pridjev
 wrought	wrought		pridjev
@@ -108069,7 +108040,6 @@ Zapodidae	Zapodidae		imenica
 Zapotec	Zapotec		imenica
 Zapotecan	Zapotecan		imenica
 zapper	zapper		imenica
-zapping	zapping		grickanje
 Zapus	Zapus		imenica
 zar	zar		x
 Zaragoza	Zaragoza		imenica
