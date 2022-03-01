@@ -8,7 +8,7 @@ import uniqBy from "lodash/uniqBy";
 import isEqual from "lodash/isEqual";
 import { saveToDisk } from "../write";
 
-const readCroatianWordsFromDisk = (filePath: string): Promise<string> =>
+const readWordsFromDisk = (filePath: string): Promise<string> =>
   new Promise((resolve) => {
     readFile(filePath, "utf-8", (err, data) => {
       if (err) {
@@ -20,7 +20,7 @@ const readCroatianWordsFromDisk = (filePath: string): Promise<string> =>
     });
   });
 
-const getCroatianWordsArray = (words: string) => {
+const getDetailsWordsArray = (words: string) => {
   const dataRowsArray = filter(words.split(/\r|\n/), (row) => !isEqual(row, ""));
 
   const dataInfoArray = map(dataRowsArray, (data) =>
@@ -32,31 +32,44 @@ const getCroatianWordsArray = (words: string) => {
       word: values[1].toLowerCase(),
       type: values[2],
     })),
-    (values) => !isEqual(get(values, "type"), "kratica") && !includes(get(values, "word"), "-")
+    (values) =>
+      !isEqual(get(values, "type"), "kratica") &&
+      !isEqual(get(values, "type"), "prefiks") &&
+      !includes(get(values, "word"), "-")
   );
 
   return uniqBy(infinitiveWords, "word");
 };
 
-const getCroatianOlyWordsArray = (words: string) =>
-  map(getCroatianWordsArray(words), (values) => get(values, "word"));
+const getOlyWordsArray = (words: string) =>
+  map(getDetailsWordsArray(words), (values) => get(values, "word"));
 
-export const saveCroatianJSONFromTXT = () => {
-  readCroatianWordsFromDisk("./assets/text/rijeci.txt").then((res) => {
-    const onlyWords = getCroatianOlyWordsArray(res);
+const saveJSONFromTXT = (wordsOrigin: string, wordsDestination: string) => {
+  readWordsFromDisk(wordsOrigin).then((res) => {
+    const onlyWords = getOlyWordsArray(res);
     const wordsString = JSON.stringify({
       data: onlyWords,
     });
-    saveToDisk("api/words-cro.json", wordsString);
+    saveToDisk(wordsDestination, wordsString);
   });
 };
 
-export const saveCroatianDetailsJSONFromTXT = () => {
-  readCroatianWordsFromDisk("./assets/text/rijeci.txt").then((res) => {
-    const words = getCroatianWordsArray(res);
+const saveDetailsJSONFromTXT = (wordsOrigin: string, wordsDestination: string) => {
+  readWordsFromDisk(wordsOrigin).then((res) => {
+    const words = getDetailsWordsArray(res);
     const wordsString = JSON.stringify({
       data: words,
     });
-    saveToDisk("api/words-cro-details.json", wordsString);
+    saveToDisk(wordsDestination, wordsString);
   });
 };
+
+export const saveCroatianJSONFromTXT = () =>
+  saveJSONFromTXT("./assets/text/rijeci.txt", "api/words-cro.json");
+export const saveCroatianDetailsJSONFromTXT = () =>
+  saveDetailsJSONFromTXT("./assets/text/rijeci.txt", "api/words-details-cro.json");
+
+export const saveEnglishJSONFromTXT = () =>
+  saveJSONFromTXT("./assets/text/words.txt", "api/words-eng.json");
+export const saveEnglishDetailsJSONFromTXT = () =>
+  saveDetailsJSONFromTXT("./assets/text/words.txt", "api/words-details-eng.json");

@@ -3,6 +3,7 @@ import vocabularyEngWords from "../../assets/api/vocabulary-words-eng.json";
 import vocabularyCroWords from "../../assets/api/vocabulary-words-cro.json";
 import engWords from "../../assets/api/words-eng.json";
 import croWords from "../../assets/api/words-cro.json";
+import engDetailsWords from "../../assets/api/words-details-eng.json";
 import croDetailsWords from "../../assets/api/words-details-cro.json";
 import { getRandomArrayIndex } from "../utils/array";
 
@@ -37,6 +38,15 @@ export const generateRandomEngWord = () => {
 
 export const generateRandomCroWord = () => {
   const JSONData = croWords as TApi;
+  const itemIdex = getRandomArrayIndex(JSONData.data);
+
+  return JSON.stringify({
+    data: get(JSONData.data, itemIdex),
+  });
+};
+
+export const generateRandomDetailsEngWord = () => {
+  const JSONData = engDetailsWords as TApi;
   const itemIdex = getRandomArrayIndex(JSONData.data);
 
   return JSON.stringify({
