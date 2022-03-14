@@ -86,12 +86,16 @@ const saveJSONFromTXT = (wordsOrigin: string, wordsDestination: string) => {
   });
 };
 
-const saveDetailsJSONFromTXT = (wordsOrigin: string, wordsDestination: string) => {
+const saveDetailsJSONFromTXT = (
+  wordsOrigin: string,
+  wordsDestination: string,
+  useTranslation: boolean = true
+) => {
   readWordsFromDisk(wordsOrigin).then((res) => {
     const words = getDetailsWordsArray(res);
     const englishTypes = map(words, (values) => {
       const type = get(values, ["type"]);
-      const typeTranslation = getTypeTranslation(type);
+      const typeTranslation = useTranslation ? getTypeTranslation(type) : type;
 
       return {
         word: get(values, ["word"]),
@@ -108,7 +112,7 @@ const saveDetailsJSONFromTXT = (wordsOrigin: string, wordsDestination: string) =
 export const saveCroatianJSONFromTXT = () =>
   saveJSONFromTXT("./assets/text/rijeci.txt", "api/words-cro.json");
 export const saveCroatianDetailsJSONFromTXT = () =>
-  saveDetailsJSONFromTXT("./assets/text/rijeci.txt", "api/words-details-cro.json");
+  saveDetailsJSONFromTXT("./assets/text/rijeci.txt", "api/words-details-cro.json", false);
 
 export const saveEnglishJSONFromTXT = () =>
   saveJSONFromTXT("./assets/text/words.txt", "api/words-eng.json");
