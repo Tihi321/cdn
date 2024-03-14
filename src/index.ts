@@ -42,6 +42,15 @@ axios
   });
 
 axios
+  .get("https://www.theverge.com/rss/index.xml")
+  .then((response) => {
+    saveToDisk("rss/verge.xml", response.data);
+  })
+  .catch((error) => {
+    console.error("Error fetching data:", error);
+  });
+
+axios
   .get("https://techcrunch.com/feed/")
   .then((response) => {
     saveToDisk("rss/techcrunch.xml", response.data);
