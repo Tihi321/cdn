@@ -9,11 +9,11 @@ export const saveToDisk = (filePath: string, jsonContent: string) => {
 
   writeFile(fullPath, jsonContent, "utf-8", (err) => {
     if (err) {
-      console.log("An error occured while writing JSON Object to File.");
+      console.log(`An error occured while writing ${filePath}.`);
 
       return console.log(err);
     }
 
-    console.log("JSON file has been saved.");
+    console.log(`${filePath} has been saved.`);
   });
 };
