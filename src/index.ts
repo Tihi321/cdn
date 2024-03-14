@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 import { generateRandomEngQuote } from "./random/quotes";
 import {
   generateRandomVocabularyEngWord,
@@ -29,3 +31,19 @@ saveToDisk("api/random/word-details-eng.json", randomDetailsEngWord);
 
 const randomDetailsCroWord = generateRandomDetailsCroWord();
 saveToDisk("api/random/word-details-cro.json", randomDetailsCroWord);
+
+axios.get('https://www.bug.hr/rss')
+ .then(response => {
+    saveToDisk("rss/bug.xml", response.data);
+ })
+ .catch(error => {
+    console.error('Error fetching data:', error);
+ });
+
+axios.get('https://techcrunch.com/feed/')
+ .then(response => {
+    saveToDisk("rss/techcrunch.xml", response.data);
+ })
+ .catch(error => {
+    console.error('Error fetching data:', error);
+ });
