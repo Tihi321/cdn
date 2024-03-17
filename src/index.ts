@@ -12,25 +12,25 @@ import {
 import { saveToDisk } from "./write";
 
 const randomQuote = generateRandomEngQuote();
-saveToDisk("random/quote-eng.json", randomQuote);
+saveToDisk("daily/quote-eng.json", randomQuote);
 
 const vocabularyRandomEngWord = generateRandomVocabularyEngWord();
-saveToDisk("random/vocabulary-word-eng.json", vocabularyRandomEngWord);
+saveToDisk("daily/vocabulary-word-eng.json", vocabularyRandomEngWord);
 
 const vocabularyRandomCroWord = generateRandomVocabularyCroWord();
-saveToDisk("random/vocabulary-word-cro.json", vocabularyRandomCroWord);
+saveToDisk("daily/vocabulary-word-cro.json", vocabularyRandomCroWord);
 
 const randomEngWord = generateRandomEngWord();
-saveToDisk("random/word-eng.json", randomEngWord);
+saveToDisk("daily/word-eng.json", randomEngWord);
 
 const randomCroWord = generateRandomCroWord();
-saveToDisk("random/word-cro.json", randomCroWord);
+saveToDisk("daily/word-cro.json", randomCroWord);
 
 const randomDetailsEngWord = generateRandomDetailsEngWord();
-saveToDisk("random/word-details-eng.json", randomDetailsEngWord);
+saveToDisk("daily/word-details-eng.json", randomDetailsEngWord);
 
 const randomDetailsCroWord = generateRandomDetailsCroWord();
-saveToDisk("random/word-details-cro.json", randomDetailsCroWord);
+saveToDisk("daily/word-details-cro.json", randomDetailsCroWord);
 
 axios
   .get("https://www.bug.hr/rss")
