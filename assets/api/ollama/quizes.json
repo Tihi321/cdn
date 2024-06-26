@@ -1,10 +1,12 @@
 {
   "perplexity": [
     "perplexity/arts",
+    "perplexity/friends",
     "perplexity/geography",
     "perplexity/history-of-the-world",
     "perplexity/movies",
     "perplexity/pop-culture",
+    "perplexity/science",
     "perplexity/technology"
   ]
 }

@@ -1,1 +1,246 @@
-[{"topic":"Geography","difficulty":"Easy","questions":[{"question":"What is the world's largest desert?","answers":[{"answer":"Sahara","correct":true,"points":2},{"answer":"Gobi","correct":false,"points":1},{"answer":"Mojave","correct":false,"points":1},{"answer":"Atacama","correct":false,"points":1}],"hint":"It's located in North Africa","explanation":"The Sahara Desert is the world's largest hot desert, covering most of North Africa."},{"question":"What is the world's largest waterfall, by volume of water?","answers":[{"answer":"Victoria Falls","correct":true,"points":2},{"answer":"Iguazu Falls","correct":false,"points":1},{"answer":"Niagara Falls","correct":false,"points":1},{"answer":"Angel Falls","correct":false,"points":1}],"hint":"It's located in Africa","explanation":"Victoria Falls is the largest waterfall in the world by volume of water, located on the border of Zambia and Zimbabwe."},{"question":"What is the world's largest island?","answers":[{"answer":"Greenland","correct":true,"points":2},{"answer":"New Guinea","correct":false,"points":1},{"answer":"Borneo","correct":false,"points":1},{"answer":"Ellesmere Island","correct":false,"points":1}],"hint":"It's located in the North Atlantic","explanation":"Greenland is the world's largest island, with an area of approximately 2.175 million km²."},{"question":"What is the world's longest mountain range?","answers":[{"answer":"Andes","correct":true,"points":2},{"answer":"Himalayas","correct":false,"points":1},{"answer":"Rocky Mountains","correct":false,"points":1},{"answer":"Ural Mountains","correct":false,"points":1}],"hint":"It's located in South America","explanation":"The Andes mountain range is the longest in the world, stretching for over 7,000 km through South America."},{"question":"What is the world's largest lake by volume?","answers":[{"answer":"Caspian Sea","correct":true,"points":2},{"answer":"Lake Baikal","correct":false,"points":1},{"answer":"Lake Tanganyika","correct":false,"points":1},{"answer":"Lake Superior","correct":false,"points":1}],"hint":"It's located between Europe and Asia","explanation":"The Caspian Sea is the world's largest lake by volume, with an area of approximately 371,000 km²."},{"question":"What is the world's largest river by discharge volume?","answers":[{"answer":"Amazon River","correct":true,"points":2},{"answer":"Congo River","correct":false,"points":1},{"answer":"Mekong River","correct":false,"points":1},{"answer":"Yangtze River","correct":false,"points":1}],"hint":"It's located in South America","explanation":"The Amazon River is the world's largest river by discharge volume, with an average flow rate of approximately 209,000 m³/s."}]},{"topic":"Countries and capitals","difficulty":"Easy","questions":[{"question":"What is the capital of France?","answers":[{"answer":"Paris","correct":true,"points":2},{"answer":"London","correct":false,"points":1},{"answer":"Berlin","correct":false,"points":1},{"answer":"Rome","correct":false,"points":1}],"hint":"It's located in Western Europe","explanation":"Paris is the capital and most populous city of France."},{"question":"What is the capital of Japan?","answers":[{"answer":"Tokyo","correct":true,"points":2},{"answer":"Osaka","correct":false,"points":1},{"answer":"Nagoya","correct":false,"points":1},{"answer":"Fukuoka","correct":false,"points":1}],"hint":"It's located on the eastern coast of Honshu","explanation":"Tokyo is the capital and most populous city of Japan."},{"question":"What is the capital of Australia?","answers":[{"answer":"Canberra","correct":true,"points":2},{"answer":"Sydney","correct":false,"points":1},{"answer":"Melbourne","correct":false,"points":1},{"answer":"Perth","correct":false,"points":1}],"hint":"It's located in the Australian Capital Territory","explanation":"Canberra is the capital and largest inland city of Australia."},{"question":"What is the capital of Brazil?","answers":[{"answer":"Brasilia","correct":true,"points":2},{"answer":"Rio de Janeiro","correct":false,"points":1},{"answer":"Sao Paulo","correct":false,"points":1},{"answer":"Belo Horizonte","correct":false,"points":1}],"hint":"It's located in the Federal District","explanation":"Brasilia is the capital and third-most populous city of Brazil."},{"question":"What is the capital of China?","answers":[{"answer":"Beijing","correct":true,"points":2},{"answer":"Shanghai","correct":false,"points":1},{"answer":"Guangzhou","correct":false,"points":1},{"answer":"Hong Kong","correct":false,"points":1}],"hint":"It's located in the North China Plain","explanation":"Beijing is the capital and second-most populous city of China."},{"question":"What is the capital of India?","answers":[{"answer":"New Delhi","correct":true,"points":2},{"answer":"Mumbai","correct":false,"points":1},{"answer":"Bangalore","correct":false,"points":1},{"answer":"Hyderabad","correct":false,"points":1}],"hint":"It's located in the National Capital Territory","explanation":"New Delhi is the capital and third-most populous city of India."}]},{"topic":"Landmarks and monuments","difficulty":"Easy","questions":[{"question":"What is the Eiffel Tower?","answers":[{"answer":"A famous landmark in Paris","correct":true,"points":2},{"answer":"A famous landmark in New York","correct":false,"points":1},{"answer":"A famous landmark in London","correct":false,"points":1},{"answer":"A famous landmark in Rome","correct":false,"points":1}],"hint":"It's located in the City of Light","explanation":"The Eiffel Tower is a famous iron lattice tower located in Paris, France."},{"question":"What is the Taj Mahal?","answers":[{"answer":"A famous monument in India","correct":true,"points":2},{"answer":"A famous monument in China","correct":false,"points":1},{"answer":"A famous monument in Egypt","correct":false,"points":1},{"answer":"A famous monument in Turkey","correct":false,"points":1}],"hint":"It's located in Agra","explanation":"The Taj Mahal is a famous white marble mausoleum located in Agra, India."},{"question":"What is the Great Wall of China?","answers":[{"answer":"A famous landmark in China","correct":true,"points":2},{"answer":"A famous landmark in Japan","correct":false,"points":1},{"answer":"A famous landmark in South Korea","correct":false,"points":1},{"answer":"A famous landmark in Vietnam","correct":false,"points":1}],"hint":"It's located in Northern China","explanation":"The Great Wall of China is a famous series of fortifications made of stone, brick, and rammed earth."},{"question":"What is the Colosseum?","answers":[{"answer":"A famous landmark in Rome","correct":true,"points":2},{"answer":"A famous landmark in Athens","correct":false,"points":1},{"answer":"A famous landmark in Barcelona","correct":false,"points":1},{"answer":"A famous landmark in Istanbul","correct":false,"points":1}],"hint":"It's located in the Eternal City","explanation":"The Colosseum is a famous amphitheater located in Rome, Italy."},{"question":"What is the Pyramids of Giza?","answers":[{"answer":"A famous landmark in Egypt","correct":true,"points":2},{"answer":"A famous landmark in Sudan","correct":false,"points":1},{"answer":"A famous landmark in Morocco","correct":false,"points":1},{"answer":"A famous landmark in Jordan","correct":false,"points":1}],"hint":"It's located on the outskirts of Cairo","explanation":"The Pyramids of Giza are a famous group of ancient stone structures located on the outskirts of Cairo, Egypt."},{"question":"What is the Christ the Redeemer statue?","answers":[{"answer":"A famous landmark in Rio de Janeiro","correct":true,"points":2},{"answer":"A famous landmark in New York","correct":false,"points":1},{"answer":"A famous landmark in Paris","correct":false,"points":1},{"answer":"A famous landmark in London","correct":false,"points":1}],"hint":"It's located on the peak of Sugarloaf Mountain","explanation":"The Christ the Redeemer statue is a famous Art Deco statue located on the peak of Sugarloaf Mountain in Rio de Janeiro, Brazil."}]},{"topic":"Cultural geography","difficulty":"Easy","questions":[{"question":"What is the concept of 'sense of place'?","answers":[{"answer":"A feeling of belonging to a specific location","correct":true,"points":2},{"answer":"A feeling of disconnection from a specific location","correct":false,"points":1},{"answer":"A feeling of neutrality towards a specific location","correct":false,"points":1},{"answer":"A feeling of fear towards a specific location","correct":false,"points":1}],"hint":"It's related to human emotions","explanation":"Sense of place refers to the emotional connection people have with a specific location, which can be influenced by cultural, social, and economic factors."},{"question":"What is the concept of 'cultural landscape'?","answers":[{"answer":"A natural landscape shaped by human activities","correct":true,"points":2},{"answer":"A natural landscape untouched by human activities","correct":false,"points":1},{"answer":"A cultural landscape shaped by natural factors","correct":false,"points":1},{"answer":"A cultural landscape shaped by economic factors","correct":false,"points":1}],"hint":"It's related to human activities","explanation":"Cultural landscape refers to the natural landscape shaped by human activities, such as agriculture, urbanization, and conservation."},{"question":"What is the concept of 'geographic information system'?","answers":[{"answer":"A system for capturing, storing, and analyzing geographic data","correct":true,"points":2},{"answer":"A system for predicting weather patterns","correct":false,"points":1},{"answer":"A system for analyzing economic data","correct":false,"points":1},{"answer":"A system for analyzing social data","correct":false,"points":1}],"hint":"It's related to geographic data","explanation":"A geographic information system (GIS) is a system for capturing, storing, and analyzing geographic data, which can be used for a variety of applications, such as urban planning and natural resource management."},{"question":"What is the concept of 'human-environment interaction'?","answers":[{"answer":"The interaction between humans and their environment","correct":true,"points":2},{"answer":"The interaction between humans and other animals","correct":false,"points":1},{"answer":"The interaction between humans and plants","correct":false,"points":1},{"answer":"The interaction between humans and inanimate objects","correct":false,"points":1}],"hint":"It's related to human activities","explanation":"Human-environment interaction refers to the interaction between humans and their environment, which can be influenced by cultural, social, and economic factors."},{"question":"What is the concept of 'spatial analysis'?","answers":[{"answer":"The analysis of geographic data to understand spatial patterns","correct":true,"points":2},{"answer":"The analysis of economic data to understand economic patterns","correct":false,"points":1},{"answer":"The analysis of social data to understand social patterns","correct":false,"points":1},{"answer":"The analysis of environmental data to understand environmental patterns","correct":false,"points":1}],"hint":"It's related to geographic data","explanation":"Spatial analysis refers to the analysis of geographic data to understand spatial patterns, which can be used for a variety of applications, such as urban planning and natural resource management."},{"question":"What is the concept of 'geographic scale'?","answers":[{"answer":"The size or scope of a geographic area","correct":true,"points":2},{"answer":"The size or scope of a cultural area","correct":false,"points":1},{"answer":"The size or scope of an economic area","correct":false,"points":1},{"answer":"The size or scope of an environmental area","correct":false,"points":1}],"hint":"It's related to geographic areas","explanation":"Geographic scale refers to the size or scope of a geographic area, which can be influenced by cultural, social, and economic factors."}]}]
+[
+  {
+    "topic": "Countries and capitals",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "answers": [
+          { "answer": "Paris", "correct": true, "points": 2 },
+          { "answer": "London", "correct": false, "points": 0 },
+          { "answer": "Berlin", "correct": false, "points": 0 },
+          { "answer": "Rome", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a famous city known for its art and fashion.",
+        "explanation": "Paris is the capital and most populous city of France, known for its cultural and historical landmarks."
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answers": [
+          { "answer": "Tokyo", "correct": true, "points": 2 },
+          { "answer": "Seoul", "correct": false, "points": 0 },
+          { "answer": "Beijing", "correct": false, "points": 0 },
+          { "answer": "Hong Kong", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a major financial hub and known for its neon-lit skyscrapers.",
+        "explanation": "Tokyo is the capital and largest city of Japan, known for its vibrant culture, technology, and cuisine."
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "answers": [
+          { "answer": "Canberra", "correct": true, "points": 2 },
+          { "answer": "Sydney", "correct": false, "points": 0 },
+          { "answer": "Melbourne", "correct": false, "points": 0 },
+          { "answer": "Perth", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a planned city designed by American architect Walter Burley Griffin.",
+        "explanation": "Canberra is the capital of Australia, located in the Australian Capital Territory, and is known for its cultural institutions and landmarks."
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "answers": [
+          { "answer": "Brasilia", "correct": true, "points": 2 },
+          { "answer": "Rio de Janeiro", "correct": false, "points": 0 },
+          { "answer": "Sao Paulo", "correct": false, "points": 0 },
+          { "answer": "Lima", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a planned city designed by architect Oscar Niemeyer.",
+        "explanation": "Brasilia is the capital of Brazil, located in the Federal District, and is known for its modernist architecture and cultural institutions."
+      },
+      {
+        "question": "What is the capital of China?",
+        "answers": [
+          { "answer": "Beijing", "correct": true, "points": 2 },
+          { "answer": "Shanghai", "correct": false, "points": 0 },
+          { "answer": "Guangzhou", "correct": false, "points": 0 },
+          { "answer": "Hong Kong", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a city with a rich history dating back over 3,000 years.",
+        "explanation": "Beijing is the capital of China, known for its rich history, cultural landmarks, and modern architecture."
+      }
+    ]
+  },
+  {
+    "topic": "Landmarks and monuments",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What is the famous statue located in New York Harbor?",
+        "answers": [
+          { "answer": "Statue of Liberty", "correct": true, "points": 2 },
+          { "answer": "Eiffel Tower", "correct": false, "points": 0 },
+          { "answer": "Big Ben", "correct": false, "points": 0 },
+          { "answer": "Colosseum", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a symbol of freedom and democracy.",
+        "explanation": "The Statue of Liberty is a copper statue located on Liberty Island in New York Harbor, symbolizing freedom and democracy."
+      },
+      {
+        "question": "What is the famous monument located in Paris?",
+        "answers": [
+          { "answer": "Eiffel Tower", "correct": true, "points": 2 },
+          { "answer": "Statue of Liberty", "correct": false, "points": 0 },
+          { "answer": "Big Ben", "correct": false, "points": 0 },
+          { "answer": "Colosseum", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a iron lattice tower built for the World's Fair.",
+        "explanation": "The Eiffel Tower is an iron lattice tower located in Paris, built for the 1889 World's Fair and now a symbol of French culture and engineering."
+      },
+      {
+        "question": "What is the famous landmark located in India?",
+        "answers": [
+          { "answer": "Taj Mahal", "correct": true, "points": 2 },
+          { "answer": "Red Fort", "correct": false, "points": 0 },
+          { "answer": "Golden Temple", "correct": false, "points": 0 },
+          { "answer": "Qutub Minar", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a mausoleum built by the Mughal emperor Shah Jahan.",
+        "explanation": "The Taj Mahal is a white marble mausoleum located in Agra, India, built by the Mughal emperor Shah Jahan as a tribute to his wife."
+      },
+      {
+        "question": "What is the famous landmark located in Egypt?",
+        "answers": [
+          { "answer": "Pyramid of Giza", "correct": true, "points": 2 },
+          { "answer": "Great Wall of China", "correct": false, "points": 0 },
+          { "answer": "Eiffel Tower", "correct": false, "points": 0 },
+          { "answer": "Colosseum", "correct": false, "points": 0 }
+        ],
+        "hint": "It's the oldest and only remaining ancient wonder of the Seven Wonders of the Ancient World.",
+        "explanation": "The Pyramid of Giza is the oldest and only remaining ancient wonder of the Seven Wonders of the Ancient World, located in Giza, Egypt."
+      },
+      {
+        "question": "What is the famous landmark located in Rome?",
+        "answers": [
+          { "answer": "Colosseum", "correct": true, "points": 2 },
+          { "answer": "Pantheon", "correct": false, "points": 0 },
+          { "answer": "Trevi Fountain", "correct": false, "points": 0 },
+          { "answer": "Vatican City", "correct": false, "points": 0 }
+        ],
+        "hint": "It's an ancient amphitheater built for gladiatorial contests.",
+        "explanation": "The Colosseum is an ancient amphitheater located in Rome, built for gladiatorial contests and other public entertainment."
+      }
+    ]
+  },
+  {
+    "topic": "Physical geography",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What is the world's largest desert?",
+        "answers": [
+          { "answer": "Sahara", "correct": true, "points": 2 },
+          { "answer": "Gobi", "correct": false, "points": 0 },
+          { "answer": "Mojave", "correct": false, "points": 0 },
+          { "answer": "Atacama", "correct": false, "points": 0 }
+        ],
+        "hint": "It's located in North Africa.",
+        "explanation": "The Sahara is the world's largest hot desert, covering most of North Africa."
+      },
+      {
+        "question": "What is the world's largest ocean?",
+        "answers": [
+          { "answer": "Pacific", "correct": true, "points": 2 },
+          { "answer": "Atlantic", "correct": false, "points": 0 },
+          { "answer": "Indian", "correct": false, "points": 0 },
+          { "answer": "Arctic", "correct": false, "points": 0 }
+        ],
+        "hint": "It's located between Asia and the Americas.",
+        "explanation": "The Pacific Ocean is the world's largest ocean, covering an area of over 155 million square kilometers."
+      },
+      {
+        "question": "What is the world's largest mountain range?",
+        "answers": [
+          { "answer": "Himalayas", "correct": true, "points": 2 },
+          { "answer": "Andes", "correct": false, "points": 0 },
+          { "answer": "Rocky Mountains", "correct": false, "points": 0 },
+          { "answer": "Appalachian Mountains", "correct": false, "points": 0 }
+        ],
+        "hint": "It's located in Asia.",
+        "explanation": "The Himalayas are the world's highest mountain range, located in Asia and home to many of the world's highest peaks."
+      },
+      {
+        "question": "What is the world's longest river?",
+        "answers": [
+          { "answer": "Nile", "correct": true, "points": 2 },
+          { "answer": "Amazon", "correct": false, "points": 0 },
+          { "answer": "Yangtze", "correct": false, "points": 0 },
+          { "answer": "Mississippi", "correct": false, "points": 0 }
+        ],
+        "hint": "It's located in northeastern Africa.",
+        "explanation": "The Nile is the world's longest river, located in northeastern Africa and flowing through 11 countries."
+      },
+      {
+        "question": "What is the world's largest island?",
+        "answers": [
+          { "answer": "Greenland", "correct": true, "points": 2 },
+          { "answer": "New Guinea", "correct": false, "points": 0 },
+          { "answer": "Borneo", "correct": false, "points": 0 },
+          { "answer": "Ellesmere Island", "correct": false, "points": 0 }
+        ],
+        "hint": "It's located in the North Atlantic Ocean.",
+        "explanation": "Greenland is the world's largest island, located in the North Atlantic Ocean and part of the Kingdom of Denmark."
+      }
+    ]
+  },
+  {
+    "topic": "Cultural geography",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What is the most widely spoken language in the world?",
+        "answers": [
+          { "answer": "Mandarin Chinese", "correct": true, "points": 2 },
+          { "answer": "Spanish", "correct": false, "points": 0 },
+          { "answer": "English", "correct": false, "points": 0 },
+          { "answer": "Hindi", "correct": false, "points": 0 }
+        ],
+        "hint": "It's the official language of China.",
+        "explanation": "Mandarin Chinese is the most widely spoken language in the world, with over 1 billion speakers."
+      },
+      {
+        "question": "What is the most populous city in the world?",
+        "answers": [
+          { "answer": "Tokyo", "correct": true, "points": 2 },
+          { "answer": "New York City", "correct": false, "points": 0 },
+          { "answer": "Los Angeles", "correct": false, "points": 0 },
+          { "answer": "Shanghai", "correct": false, "points": 0 }
+        ],
+        "hint": "It's the capital of Japan.",
+        "explanation": "Tokyo is the most populous city in the world, with over 38 million people in its metropolitan area."
+      },
+      {
+        "question": "What is the most widely practiced religion in the world?",
+        "answers": [
+          { "answer": "Christianity", "correct": true, "points": 2 },
+          { "answer": "Islam", "correct": false, "points": 0 },
+          { "answer": "Buddhism", "correct": false, "points": 0 },
+          { "answer": "Hinduism", "correct": false, "points": 0 }
+        ],
+        "hint": "It's the dominant religion in Europe and the Americas.",
+        "explanation": "Christianity is the most widely practiced religion in the world, with over 2.4 billion adherents."
+      },
+      {
+        "question": "What is the most widely consumed food in the world?",
+        "answers": [
+          { "answer": "Rice", "correct": true, "points": 2 },
+          { "answer": "Wheat", "correct": false, "points": 0 },
+          { "answer": "Maize", "correct": false, "points": 0 },
+          { "answer": "Potatoes", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a staple food in many Asian cultures.",
+        "explanation": "Rice is the most widely consumed food in the world, with over 3.5 billion people relying on it as a staple food."
+      },
+      {
+        "question": "What is the most widely celebrated holiday in the world?",
+        "answers": [
+          { "answer": "Christmas", "correct": true, "points": 2 },
+          { "answer": "Easter", "correct": false, "points": 0 },
+          { "answer": "Diwali", "correct": false, "points": 0 },
+          { "answer": "New Year's Day", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a holiday celebrated by Christians around the world.",
+        "explanation": "Christmas is the most widely celebrated holiday in the world, with over 2.4 billion people celebrating it."
+      }
+    ]
+  }
+]

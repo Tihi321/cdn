@@ -1,1 +1,274 @@
-[{"topic":"Technology","difficulty":"Normal","questions":[{"question":"What is the primary function of a CPU?","answers":[{"answer":"To store data","correct":false,"points":1},{"answer":"To control the flow of data","correct":false,"points":1},{"answer":"To execute instructions","correct":true,"points":5},{"answer":"To display graphics","correct":false,"points":1}],"hint":"It's the brain of the computer","explanation":"The CPU executes instructions and performs calculations"},{"question":"What is the difference between a firewall and a router?","answers":[{"answer":"A firewall blocks incoming traffic, while a router directs traffic","correct":true,"points":5},{"answer":"A firewall directs traffic, while a router blocks incoming traffic","correct":false,"points":1},{"answer":"A firewall and a router are the same thing","correct":false,"points":1},{"answer":"A firewall is used for security, while a router is used for networking","correct":false,"points":1}],"hint":"Think about network security","explanation":"A firewall blocks incoming traffic, while a router directs traffic"},{"question":"What is the term for the process of upgrading or updating software?","answers":[{"answer":"Patching","correct":false,"points":1},{"answer":"Upgrading","correct":false,"points":1},{"answer":"Updating","correct":true,"points":5},{"answer":"Installing","correct":false,"points":1}],"hint":"Think about software maintenance","explanation":"Updating refers to the process of upgrading or updating software"},{"question":"What is the primary function of a motherboard?","answers":[{"answer":"To store data","correct":false,"points":1},{"answer":"To control the flow of data","correct":false,"points":1},{"answer":"To connect hardware components","correct":true,"points":5},{"answer":"To display graphics","correct":false,"points":1}],"hint":"Think about the foundation of a computer","explanation":"The motherboard connects hardware components and provides a foundation for the computer"},{"question":"What is the term for the process of encrypting data?","answers":[{"answer":"Decryption","correct":false,"points":1},{"answer":"Encryption","correct":true,"points":5},{"answer":"Compression","correct":false,"points":1},{"answer":"Transmission","correct":false,"points":1}],"hint":"Think about data security","explanation":"Encryption refers to the process of encrypting data"}]},{"topic":"Gadgets and devices","difficulty":"Normal","questions":[{"question":"What is the primary function of a smartwatch?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To track fitness metrics","correct":false,"points":1},{"answer":"To receive notifications","correct":false,"points":1},{"answer":"To track fitness metrics and receive notifications","correct":true,"points":5}],"hint":"Think about wearable technology","explanation":"Smartwatches track fitness metrics and receive notifications"},{"question":"What is the primary function of a tablet?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To browse the internet","correct":false,"points":1},{"answer":"To browse the internet and play games","correct":true,"points":5}],"hint":"Think about portable computing","explanation":"Tablets are designed for browsing the internet and playing games"},{"question":"What is the primary function of a wireless headphone?","answers":[{"answer":"To charge devices","correct":false,"points":1},{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To receive audio signals","correct":true,"points":5},{"answer":"To charge devices and make phone calls","correct":false,"points":1}],"hint":"Think about audio technology","explanation":"Wireless headphones receive audio signals"},{"question":"What is the primary function of a smart speaker?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play music","correct":false,"points":1},{"answer":"To receive voice commands","correct":true,"points":5},{"answer":"To charge devices","correct":false,"points":1}],"hint":"Think about voice assistants","explanation":"Smart speakers receive voice commands"},{"question":"What is the primary function of a portable charger?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To charge devices","correct":true,"points":5},{"answer":"To play music","correct":false,"points":1},{"answer":"To receive voice commands","correct":false,"points":1}],"hint":"Think about power solutions","explanation":"Portable chargers charge devices"}]},{"topic":"Social media platforms","difficulty":"Normal","questions":[{"question":"What is the primary function of Facebook?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To connect with friends and family","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about social networking","explanation":"Facebook is designed to connect with friends and family"},{"question":"What is the primary function of Twitter?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To share short messages","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about microblogging","explanation":"Twitter is designed to share short messages"},{"question":"What is the primary function of Instagram?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To share photos and videos","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about visual storytelling","explanation":"Instagram is designed to share photos and videos"},{"question":"What is the primary function of LinkedIn?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To connect with professionals","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about professional networking","explanation":"LinkedIn is designed to connect with professionals"},{"question":"What is the primary function of YouTube?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To share videos","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about video sharing","explanation":"YouTube is designed to share videos"}]},{"topic":"Tech companies","difficulty":"Normal","questions":[{"question":"What is the primary function of Apple?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To design and manufacture consumer electronics","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about innovation","explanation":"Apple designs and manufactures consumer electronics"},{"question":"What is the primary function of Google?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To develop software and provide online services","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about search and innovation","explanation":"Google develops software and provides online services"},{"question":"What is the primary function of Amazon?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To provide e-commerce services","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about online shopping","explanation":"Amazon provides e-commerce services"},{"question":"What is the primary function of Microsoft?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To develop software and provide online services","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about software and innovation","explanation":"Microsoft develops software and provides online services"},{"question":"What is the primary function of Facebook?","answers":[{"answer":"To make phone calls","correct":false,"points":1},{"answer":"To play games","correct":false,"points":1},{"answer":"To connect with friends and family","correct":true,"points":5},{"answer":"To browse the internet","correct":false,"points":1}],"hint":"Think about social networking","explanation":"Facebook is designed to connect with friends and family"}]}]
+[
+  {
+    "topic": "Technology",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "What is the primary function of a CPU?",
+        "answers": [
+          { "answer": "To store data", "correct": false, "points": 1 },
+          { "answer": "To control the flow of data", "correct": false, "points": 1 },
+          { "answer": "To execute instructions", "correct": true, "points": 5 },
+          { "answer": "To display graphics", "correct": false, "points": 1 }
+        ],
+        "hint": "It's the brain of the computer",
+        "explanation": "The CPU executes instructions and performs calculations"
+      },
+      {
+        "question": "What is the difference between a firewall and a router?",
+        "answers": [
+          {
+            "answer": "A firewall blocks incoming traffic, while a router directs traffic",
+            "correct": true,
+            "points": 5
+          },
+          {
+            "answer": "A firewall directs traffic, while a router blocks incoming traffic",
+            "correct": false,
+            "points": 1
+          },
+          { "answer": "A firewall and a router are the same thing", "correct": false, "points": 1 },
+          {
+            "answer": "A firewall is used for security, while a router is used for networking",
+            "correct": false,
+            "points": 1
+          }
+        ],
+        "hint": "Think about network security",
+        "explanation": "A firewall blocks incoming traffic, while a router directs traffic"
+      },
+      {
+        "question": "What is the term for the process of upgrading or updating software?",
+        "answers": [
+          { "answer": "Patching", "correct": false, "points": 1 },
+          { "answer": "Upgrading", "correct": false, "points": 1 },
+          { "answer": "Updating", "correct": true, "points": 5 },
+          { "answer": "Installing", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about software maintenance",
+        "explanation": "Updating refers to the process of upgrading or updating software"
+      },
+      {
+        "question": "What is the primary function of a motherboard?",
+        "answers": [
+          { "answer": "To store data", "correct": false, "points": 1 },
+          { "answer": "To control the flow of data", "correct": false, "points": 1 },
+          { "answer": "To connect hardware components", "correct": true, "points": 5 },
+          { "answer": "To display graphics", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about the foundation of a computer",
+        "explanation": "The motherboard connects hardware components and provides a foundation for the computer"
+      },
+      {
+        "question": "What is the term for the process of encrypting data?",
+        "answers": [
+          { "answer": "Decryption", "correct": false, "points": 1 },
+          { "answer": "Encryption", "correct": true, "points": 5 },
+          { "answer": "Compression", "correct": false, "points": 1 },
+          { "answer": "Transmission", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about data security",
+        "explanation": "Encryption refers to the process of encrypting data"
+      }
+    ]
+  },
+  {
+    "topic": "Gadgets and devices",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "What is the primary function of a smartwatch?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To track fitness metrics", "correct": false, "points": 1 },
+          { "answer": "To receive notifications", "correct": false, "points": 1 },
+          {
+            "answer": "To track fitness metrics and receive notifications",
+            "correct": true,
+            "points": 5
+          }
+        ],
+        "hint": "Think about wearable technology",
+        "explanation": "Smartwatches track fitness metrics and receive notifications"
+      },
+      {
+        "question": "What is the primary function of a tablet?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 },
+          { "answer": "To browse the internet and play games", "correct": true, "points": 5 }
+        ],
+        "hint": "Think about portable computing",
+        "explanation": "Tablets are designed for browsing the internet and playing games"
+      },
+      {
+        "question": "What is the primary function of a wireless headphone?",
+        "answers": [
+          { "answer": "To charge devices", "correct": false, "points": 1 },
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To receive audio signals", "correct": true, "points": 5 },
+          { "answer": "To charge devices and make phone calls", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about audio technology",
+        "explanation": "Wireless headphones receive audio signals"
+      },
+      {
+        "question": "What is the primary function of a smart speaker?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play music", "correct": false, "points": 1 },
+          { "answer": "To receive voice commands", "correct": true, "points": 5 },
+          { "answer": "To charge devices", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about voice assistants",
+        "explanation": "Smart speakers receive voice commands"
+      },
+      {
+        "question": "What is the primary function of a portable charger?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To charge devices", "correct": true, "points": 5 },
+          { "answer": "To play music", "correct": false, "points": 1 },
+          { "answer": "To receive voice commands", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about power solutions",
+        "explanation": "Portable chargers charge devices"
+      }
+    ]
+  },
+  {
+    "topic": "Social media platforms",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "What is the primary function of Facebook?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To connect with friends and family", "correct": true, "points": 5 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about social networking",
+        "explanation": "Facebook is designed to connect with friends and family"
+      },
+      {
+        "question": "What is the primary function of Twitter?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To share short messages", "correct": true, "points": 5 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about microblogging",
+        "explanation": "Twitter is designed to share short messages"
+      },
+      {
+        "question": "What is the primary function of Instagram?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To share photos and videos", "correct": true, "points": 5 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about visual storytelling",
+        "explanation": "Instagram is designed to share photos and videos"
+      },
+      {
+        "question": "What is the primary function of LinkedIn?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To connect with professionals", "correct": true, "points": 5 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about professional networking",
+        "explanation": "LinkedIn is designed to connect with professionals"
+      },
+      {
+        "question": "What is the primary function of YouTube?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To share videos", "correct": true, "points": 5 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about video sharing",
+        "explanation": "YouTube is designed to share videos"
+      }
+    ]
+  },
+  {
+    "topic": "Tech companies",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "What is the primary function of Apple?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          {
+            "answer": "To design and manufacture consumer electronics",
+            "correct": true,
+            "points": 5
+          },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about innovation",
+        "explanation": "Apple designs and manufactures consumer electronics"
+      },
+      {
+        "question": "What is the primary function of Google?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          {
+            "answer": "To develop software and provide online services",
+            "correct": true,
+            "points": 5
+          },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about search and innovation",
+        "explanation": "Google develops software and provides online services"
+      },
+      {
+        "question": "What is the primary function of Amazon?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To provide e-commerce services", "correct": true, "points": 5 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about online shopping",
+        "explanation": "Amazon provides e-commerce services"
+      },
+      {
+        "question": "What is the primary function of Microsoft?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          {
+            "answer": "To develop software and provide online services",
+            "correct": true,
+            "points": 5
+          },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about software and innovation",
+        "explanation": "Microsoft develops software and provides online services"
+      },
+      {
+        "question": "What is the primary function of Facebook?",
+        "answers": [
+          { "answer": "To make phone calls", "correct": false, "points": 1 },
+          { "answer": "To play games", "correct": false, "points": 1 },
+          { "answer": "To connect with friends and family", "correct": true, "points": 5 },
+          { "answer": "To browse the internet", "correct": false, "points": 1 }
+        ],
+        "hint": "Think about social networking",
+        "explanation": "Facebook is designed to connect with friends and family"
+      }
+    ]
+  }
+]

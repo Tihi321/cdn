@@ -1,0 +1,261 @@
+[
+  {
+    "topic": "Friends TV Series",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "What is the name of the coffee shop where the friends gang hangs out?",
+        "answers": [
+          { "answer": "Central Perk", "correct": true, "points": 5 },
+          { "answer": "The Coffee Spot", "correct": false, "points": 0 },
+          { "answer": "Java Junction", "correct": false, "points": 0 },
+          { "answer": "Brew-tiful Day", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a popular hangout spot for the friends gang.",
+        "explanation": "Central Perk is the iconic coffee shop where the friends gang spends most of their time."
+      },
+      {
+        "question": "Which character is known for being a chef?",
+        "answers": [
+          { "answer": "Monica Geller", "correct": true, "points": 5 },
+          { "answer": "Rachel Green", "correct": false, "points": 0 },
+          { "answer": "Joey Tribbiani", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a cleanliness freak and a great cook.",
+        "explanation": "Monica Geller is a chef and a cleanliness enthusiast, known for her culinary skills."
+      },
+      {
+        "question": "What is the name of Ross's pet monkey?",
+        "answers": [
+          { "answer": "Marcel", "correct": true, "points": 5 },
+          { "answer": "Mr. Whiskers", "correct": false, "points": 0 },
+          { "answer": "Bongo", "correct": false, "points": 0 },
+          { "answer": "Mango", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a mischievous pet that often causes trouble.",
+        "explanation": "Marcel is Ross's pet monkey, known for its playful and mischievous behavior."
+      },
+      {
+        "question": "Who is the last friend to get married?",
+        "answers": [
+          { "answer": "Phoebe Buffay", "correct": true, "points": 5 },
+          { "answer": "Rachel Green", "correct": false, "points": 0 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a free spirit and a bit unconventional.",
+        "explanation": "Phoebe Buffay is the last friend to get married, known for her free-spirited nature and unconventional lifestyle."
+      },
+      {
+        "question": "What is the name of Joey's pet snake?",
+        "answers": [
+          { "answer": "Alfred", "correct": true, "points": 5 },
+          { "answer": "Slinky", "correct": false, "points": 0 },
+          { "answer": "Slinky Jr.", "correct": false, "points": 0 },
+          { "answer": "Snakey", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a pet that Joey is very attached to.",
+        "explanation": "Alfred is Joey's pet snake, known for its slithery nature and Joey's affection towards it."
+      },
+      {
+        "question": "Who is the first friend to get married?",
+        "answers": [
+          { "answer": "Monica Geller", "correct": true, "points": 5 },
+          { "answer": "Rachel Green", "correct": false, "points": 0 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a cleanliness enthusiast and a great cook.",
+        "explanation": "Monica Geller is the first friend to get married, known for her cleanliness and culinary skills."
+      },
+      {
+        "question": "What is the name of Chandler's job?",
+        "answers": [
+          { "answer": "Data Processing Supervisor", "correct": true, "points": 5 },
+          { "answer": "Marketing Manager", "correct": false, "points": 0 },
+          { "answer": "Software Engineer", "correct": false, "points": 0 },
+          { "answer": "Advertising Executive", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a job that he's not very passionate about.",
+        "explanation": "Chandler Bing works as a Data Processing Supervisor, a job that he's not very enthusiastic about."
+      },
+      {
+        "question": "Who is the friend with the most siblings?",
+        "answers": [
+          { "answer": "Joey Tribbiani", "correct": true, "points": 5 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "He's a bit of a ladies' man.",
+        "explanation": "Joey Tribbiani is the friend with the most siblings, known for his womanizing nature."
+      },
+      {
+        "question": "What is the name of Phoebe's twin sister?",
+        "answers": [
+          { "answer": "Ursula Buffay", "correct": true, "points": 5 },
+          { "answer": "Amanda Buffay", "correct": false, "points": 0 },
+          { "answer": "Emily Buffay", "correct": false, "points": 0 },
+          { "answer": "Sarah Buffay", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a bit of a free spirit, just like Phoebe.",
+        "explanation": "Ursula Buffay is Phoebe's twin sister, known for her free-spirited nature and quirky personality."
+      },
+      {
+        "question": "Who is the friend with the most romantic relationships?",
+        "answers": [
+          { "answer": "Rachel Green", "correct": true, "points": 5 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Joey Tribbiani", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a fashionista with a lot of romantic interests.",
+        "explanation": "Rachel Green is the friend with the most romantic relationships, known for her fashion sense and numerous romantic interests."
+      },
+      {
+        "question": "What is the name of Ross's first wife?",
+        "answers": [
+          { "answer": "Carol Willick", "correct": true, "points": 5 },
+          { "answer": "Emily Lehman", "correct": false, "points": 0 },
+          { "answer": "Rachel Green", "correct": false, "points": 0 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a lesbian and a friend of the gang.",
+        "explanation": "Carol Willick is Ross's first wife, known for her lesbian identity and her friendship with the gang."
+      },
+      {
+        "question": "Who is the friend with the most siblings?",
+        "answers": [
+          { "answer": "Ross Geller", "correct": true, "points": 5 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Joey Tribbiani", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "He's a bit of a nerd and a scientist.",
+        "explanation": "Ross Geller is the friend with the most siblings, known for his nerdy and scientific nature."
+      },
+      {
+        "question": "What is the name of Monica's boyfriend?",
+        "answers": [
+          { "answer": "Richard Burke", "correct": true, "points": 5 },
+          { "answer": "Paul the Wine Guy", "correct": false, "points": 0 },
+          { "answer": "Mike Hannigan", "correct": false, "points": 0 },
+          { "answer": "Tim", "correct": false, "points": 0 }
+        ],
+        "hint": "He's a doctor and a bit of a control freak.",
+        "explanation": "Richard Burke is Monica's boyfriend, known for his medical profession and controlling nature."
+      },
+      {
+        "question": "Who is the friend with the most romantic relationships?",
+        "answers": [
+          { "answer": "Joey Tribbiani", "correct": true, "points": 5 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "He's a bit of a ladies' man and a foodie.",
+        "explanation": "Joey Tribbiani is the friend with the most romantic relationships, known for his womanizing nature and love of food."
+      },
+      {
+        "question": "What is the name of Phoebe's boyfriend?",
+        "answers": [
+          { "answer": "David", "correct": true, "points": 5 },
+          { "answer": "Gary", "correct": false, "points": 0 },
+          { "answer": "Mike", "correct": false, "points": 0 },
+          { "answer": "Steve", "correct": false, "points": 0 }
+        ],
+        "hint": "He's a bit of a free spirit and a musician.",
+        "explanation": "David is Phoebe's boyfriend, known for his free-spirited nature and musical talents."
+      },
+      {
+        "question": "Who is the friend with the most siblings?",
+        "answers": [
+          { "answer": "Monica Geller", "correct": true, "points": 5 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Joey Tribbiani", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a cleanliness enthusiast and a great cook.",
+        "explanation": "Monica Geller is the friend with the most siblings, known for her cleanliness and culinary skills."
+      },
+      {
+        "question": "What is the name of Chandler's girlfriend?",
+        "answers": [
+          { "answer": "Janice Litman Goralnik", "correct": true, "points": 5 },
+          { "answer": "Julie", "correct": false, "points": 0 },
+          { "answer": "Amy", "correct": false, "points": 0 },
+          { "answer": "Sandy", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a bit of a free spirit and a musician.",
+        "explanation": "Janice Litman Goralnik is Chandler's girlfriend, known for her free-spirited nature and musical talents."
+      },
+      {
+        "question": "Who is the friend with the most romantic relationships?",
+        "answers": [
+          { "answer": "Monica Geller", "correct": true, "points": 5 },
+          { "answer": "Rachel Green", "correct": false, "points": 0 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Joey Tribbiani", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a cleanliness enthusiast and a great cook.",
+        "explanation": "Monica Geller is the friend with the most romantic relationships, known for her cleanliness and culinary skills."
+      },
+      {
+        "question": "What is the name of Ross's second wife?",
+        "answers": [
+          { "answer": "Emily Lehman", "correct": true, "points": 5 },
+          { "answer": "Rachel Green", "correct": false, "points": 0 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Carol Willick", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a bit of a control freak and a perfectionist.",
+        "explanation": "Emily Lehman is Ross's second wife, known for her controlling nature and perfectionism."
+      },
+      {
+        "question": "Who is the friend with the most siblings?",
+        "answers": [
+          { "answer": "Joey Tribbiani", "correct": true, "points": 5 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Chandler Bing", "correct": false, "points": 0 }
+        ],
+        "hint": "He's a bit of a ladies' man and a foodie.",
+        "explanation": "Joey Tribbiani is the friend with the most siblings, known for his womanizing nature and love of food."
+      },
+      {
+        "question": "What is the name of Phoebe's husband?",
+        "answers": [
+          { "answer": "Mike Hannigan", "correct": true, "points": 5 },
+          { "answer": "David", "correct": false, "points": 0 },
+          { "answer": "Gary", "correct": false, "points": 0 },
+          { "answer": "Steve", "correct": false, "points": 0 }
+        ],
+        "hint": "He's a bit of a free spirit and a musician.",
+        "explanation": "Mike Hannigan is Phoebe's husband, known for his free-spirited nature and musical talents."
+      },
+      {
+        "question": "Who is the friend with the most romantic relationships?",
+        "answers": [
+          { "answer": "Rachel Green", "correct": true, "points": 5 },
+          { "answer": "Monica Geller", "correct": false, "points": 0 },
+          { "answer": "Ross Geller", "correct": false, "points": 0 },
+          { "answer": "Joey Tribbiani", "correct": false, "points": 0 }
+        ],
+        "hint": "She's a fashionista with a lot of romantic interests.",
+        "explanation": "Rachel Green is the friend with the most romantic relationships, known for her fashion sense and numerous romantic interests."
+      },
+      {
+        "question": "What is the name of Chandler's job?",
+        "answers": [
+          { "answer": "Data Processing Supervisor", "correct": true, "points": 5 },
+          { "answer": "Marketing Manager", "correct": false, "points": 0 },
+          { "answer": "Software Engineer", "correct": false, "points": 0 },
+          { "answer": "Advertising Executive", "correct": false, "points": 0 }
+        ],
+        "hint": "It's a job that he's not very passionate about.",
+        "explanation": "Chandler Bing works as a Data Processing Supervisor, a job that he's not very enthusiastic about."
+      }
+    ]
+  }
+]
