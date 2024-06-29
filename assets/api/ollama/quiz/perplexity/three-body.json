@@ -1,0 +1,1133 @@
+[
+   {
+      "topic":"Book The Three-Body Problem",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"Who is the author of 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"Liu Cixin",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Isaac Asimov",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Arthur C. Clarke",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Philip K. Dick",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"The author is a Chinese science fiction writer.",
+            "explanation":"'The Three-Body Problem' is written by Liu Cixin, a renowned Chinese science fiction author."
+         },
+         {
+            "question":"What is the name of the virtual reality game in 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"Three Body",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Three Kingdoms",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Three Worlds",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Three Dimensions",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"The game's name is similar to the book's title.",
+            "explanation":"The virtual reality game in the book is called 'Three Body'."
+         },
+         {
+            "question":"What is the main scientific concept explored in 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"Chaotic motion of three celestial bodies",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Quantum mechanics",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Relativity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"String theory",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves the gravitational interactions of three celestial bodies.",
+            "explanation":"The main scientific concept in the book is the chaotic motion of three celestial bodies, known as the three-body problem."
+         },
+         {
+            "question":"Which historical figure appears in the virtual reality game in 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"Isaac Newton",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Albert Einstein",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Galileo Galilei",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"King Wen of Zhou",
+                  "correct":true,
+                  "points":5
+               }
+            ],
+            "hint":"The figure is from ancient Chinese history.",
+            "explanation":"King Wen of Zhou appears in the virtual reality game in 'The Three-Body Problem'."
+         },
+         {
+            "question":"What is the name of the alien civilization in 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"Trisolarans",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Martians",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Andromedans",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Vogons",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"The name is derived from their three-star system.",
+            "explanation":"The alien civilization in the book is called the Trisolarans, named after their three-star system."
+         },
+         {
+            "question":"What is the name of the protagonist in 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"Ye Wenjie",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Wang Miao",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Shi Qiang",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Ding Yi",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"She is a female astrophysicist.",
+            "explanation":"Ye Wenjie is the protagonist in 'The Three-Body Problem'."
+         },
+         {
+            "question":"What is the Red Coast Base in 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"A secret Chinese military project",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"A scientific research station in Antarctica",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A space station orbiting Earth",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A fictional city on Mars",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is a top-secret project in China.",
+            "explanation":"The Red Coast Base is a secret Chinese military project in 'The Three-Body Problem'."
+         },
+         {
+            "question":"What is the significance of the 'Three-Body Problem' in the novel?",
+            "answers":[
+               {
+                  "answer":"It represents the unpredictable nature of the Trisolaran star system.",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It is a metaphor for human relationships.",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It describes the political situation in China.",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It refers to a mathematical puzzle.",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is related to the Trisolaran civilization's struggle.",
+            "explanation":"The 'Three-Body Problem' represents the unpredictable nature of the Trisolaran star system in the novel."
+         },
+         {
+            "question":"What is the main theme of 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"The impact of scientific discovery on society",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"The dangers of artificial intelligence",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The exploration of space",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The ethics of genetic engineering",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves the consequences of advanced technology.",
+            "explanation":"The main theme of 'The Three-Body Problem' is the impact of scientific discovery on society."
+         },
+         {
+            "question":"What is the ultimate goal of the Trisolarans in 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"To colonize Earth",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"To establish diplomatic relations with humans",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To destroy humanity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To find a new home planet",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"They seek a stable environment for their civilization.",
+            "explanation":"The ultimate goal of the Trisolarans in 'The Three-Body Problem' is to colonize Earth."
+         }
+      ]
+   },
+   {
+      "topic":"Quantum Entanglement",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"What is quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"A phenomenon where particles remain connected",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"A type of particle collision",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A form of quantum tunneling",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A state of superposition",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves particles being linked regardless of distance.",
+            "explanation":"Quantum entanglement is a phenomenon where particles remain connected so that the state of one particle affects the state of another, no matter the distance between them."
+         },
+         {
+            "question":"Who first proposed the concept of quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"Albert Einstein",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Niels Bohr",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Erwin Schrödinger",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Werner Heisenberg",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"He referred to it as 'spooky action at a distance'.",
+            "explanation":"Albert Einstein first proposed the concept of quantum entanglement, famously calling it 'spooky action at a distance'."
+         },
+         {
+            "question":"What is the EPR paradox?",
+            "answers":[
+               {
+                  "answer":"A thought experiment highlighting quantum entanglement",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"A paradox about wave-particle duality",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A contradiction in quantum field theory",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A problem in classical mechanics",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is named after Einstein, Podolsky, and Rosen.",
+            "explanation":"The EPR paradox is a thought experiment by Einstein, Podolsky, and Rosen that highlights the strange nature of quantum entanglement."
+         },
+         {
+            "question":"What is Bell's theorem?",
+            "answers":[
+               {
+                  "answer":"A theorem proving the non-locality of quantum mechanics",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"A principle of uncertainty in quantum mechanics",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A theory about black holes",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A hypothesis on dark matter",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves inequalities that test quantum mechanics.",
+            "explanation":"Bell's theorem proves the non-locality of quantum mechanics through inequalities that can be tested experimentally."
+         },
+         {
+            "question":"What is a common application of quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"Quantum cryptography",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Nuclear fusion",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Semiconductor manufacturing",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Classical computing",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is used for secure communication.",
+            "explanation":"Quantum cryptography is a common application of quantum entanglement, providing secure communication methods."
+         },
+         {
+            "question":"What is the significance of the 'no-signaling' principle in quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"It ensures that information cannot travel faster than light",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It allows instantaneous communication",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It describes the collapse of the wave function",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It explains the uncertainty principle",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It relates to the speed of information transfer.",
+            "explanation":"The 'no-signaling' principle ensures that information cannot travel faster than light, even in quantum entanglement."
+         },
+         {
+            "question":"What is a Bell state?",
+            "answers":[
+               {
+                  "answer":"A specific quantum state of two entangled particles",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"A state of superposition",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A type of quantum tunneling",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A classical state of particles",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is named after a physicist who formulated a famous theorem.",
+            "explanation":"A Bell state is a specific quantum state of two entangled particles, named after physicist John Bell."
+         },
+         {
+            "question":"What is the role of entanglement in quantum teleportation?",
+            "answers":[
+               {
+                  "answer":"It allows the transfer of quantum states between particles",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It enables faster-than-light travel",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It creates a wormhole",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It generates quantum energy",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves transferring information about a quantum state.",
+            "explanation":"In quantum teleportation, entanglement allows the transfer of quantum states between particles, effectively 'teleporting' the state."
+         },
+         {
+            "question":"What is the significance of the CHSH inequality in quantum mechanics?",
+            "answers":[
+               {
+                  "answer":"It tests the predictions of quantum mechanics against local realism",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It describes the behavior of black holes",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It explains the photoelectric effect",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It relates to the Heisenberg uncertainty principle",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is used to test the validity of quantum entanglement.",
+            "explanation":"The CHSH inequality is used to test the predictions of quantum mechanics against local realism, validating quantum entanglement."
+         },
+         {
+            "question":"What is quantum decoherence?",
+            "answers":[
+               {
+                  "answer":"The loss of quantum coherence in a system",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"The creation of entangled particles",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The collapse of the wave function",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The measurement of a quantum state",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves the transition from quantum to classical behavior.",
+            "explanation":"Quantum decoherence is the loss of quantum coherence in a system, leading to the transition from quantum to classical behavior."
+         }
+      ]
+   },
+   {
+      "topic":"Dehydration and Rehydration",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"What is dehydration?",
+            "answers":[
+               {
+                  "answer":"The loss of water from the body",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"The intake of excessive water",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The balance of electrolytes",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The process of sweating",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves a decrease in body fluids.",
+            "explanation":"Dehydration is the loss of water from the body, which can lead to various health issues."
+         },
+         {
+            "question":"What are common symptoms of dehydration?",
+            "answers":[
+               {
+                  "answer":"Thirst, dry mouth, and dark urine",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Excessive sweating and chills",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Increased appetite and weight gain",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Blurred vision and hearing loss",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It often involves a dry sensation and changes in urine color.",
+            "explanation":"Common symptoms of dehydration include thirst, dry mouth, and dark urine."
+         },
+         {
+            "question":"What is the primary cause of dehydration?",
+            "answers":[
+               {
+                  "answer":"Inadequate fluid intake",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Excessive sleep",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"High salt intake",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Low protein diet",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is related to not drinking enough water.",
+            "explanation":"The primary cause of dehydration is inadequate fluid intake."
+         },
+         {
+            "question":"What is rehydration?",
+            "answers":[
+               {
+                  "answer":"The process of restoring lost fluids",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"The process of losing fluids",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The process of sweating",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The process of digestion",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves replenishing body fluids.",
+            "explanation":"Rehydration is the process of restoring lost fluids to the body."
+         },
+         {
+            "question":"What is the best way to rehydrate after exercise?",
+            "answers":[
+               {
+                  "answer":"Drinking water or sports drinks",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Eating a high-fat meal",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Taking a hot shower",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Sleeping for 8 hours",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves consuming fluids.",
+            "explanation":"The best way to rehydrate after exercise is by drinking water or sports drinks."
+         },
+         {
+            "question":"Which electrolyte is most commonly lost during dehydration?",
+            "answers":[
+               {
+                  "answer":"Sodium",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Calcium",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Magnesium",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Iron",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is a key component of table salt.",
+            "explanation":"Sodium is the electrolyte most commonly lost during dehydration."
+         },
+         {
+            "question":"What is oral rehydration therapy (ORT)?",
+            "answers":[
+               {
+                  "answer":"A treatment involving drinking water with salts and sugars",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"A method of intravenous fluid administration",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A surgical procedure to restore hydration",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A technique of breathing exercises",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves a solution that can be drunk.",
+            "explanation":"Oral rehydration therapy (ORT) is a treatment involving drinking water with salts and sugars to restore hydration."
+         },
+         {
+            "question":"What is a common cause of dehydration in children?",
+            "answers":[
+               {
+                  "answer":"Diarrhea",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Excessive sleeping",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"High protein diet",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Lack of exercise",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is a gastrointestinal condition.",
+            "explanation":"Diarrhea is a common cause of dehydration in children."
+         },
+         {
+            "question":"What is the role of potassium in rehydration?",
+            "answers":[
+               {
+                  "answer":"It helps maintain fluid balance and muscle function",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It increases blood sugar levels",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It promotes fat storage",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It enhances protein synthesis",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is an essential mineral for cellular function.",
+            "explanation":"Potassium helps maintain fluid balance and muscle function, which is crucial during rehydration."
+         },
+         {
+            "question":"What is the recommended daily water intake for an average adult?",
+            "answers":[
+               {
+                  "answer":"About 2-3 liters",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"About 1 liter",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"About 5 liters",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"About 500 milliliters",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is roughly equivalent to 8-12 cups.",
+            "explanation":"The recommended daily water intake for an average adult is about 2-3 liters."
+         }
+      ]
+   },
+   {
+      "topic":"Orbital Mechanics",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"What is Kepler's first law of planetary motion?",
+            "answers":[
+               {
+                  "answer":"Planets move in elliptical orbits with the Sun at one focus",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Planets move in circular orbits around the Sun",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Planets move in parabolic orbits with the Sun at the center",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Planets move in hyperbolic orbits around the Sun",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"The orbits are not perfect circles.",
+            "explanation":"Kepler's first law states that planets move in elliptical orbits with the Sun at one focus."
+         },
+         {
+            "question":"What is the significance of the semi-major axis in an orbit?",
+            "answers":[
+               {
+                  "answer":"It is the longest diameter of the ellipse",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It is the shortest diameter of the ellipse",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It is the distance from the center to the focus",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It is the distance from the center to the edge",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It represents the longest distance across the orbit.",
+            "explanation":"The semi-major axis is the longest diameter of the ellipse, representing half of the longest distance across the orbit."
+         },
+         {
+            "question":"What is the escape velocity from Earth?",
+            "answers":[
+               {
+                  "answer":"Approximately 11.2 km/s",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Approximately 7.9 km/s",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Approximately 5.5 km/s",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Approximately 3.2 km/s",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is over 10 km/s.",
+            "explanation":"The escape velocity from Earth is approximately 11.2 km/s, which is the speed needed to break free from Earth's gravitational pull."
+         },
+         {
+            "question":"What is a geostationary orbit?",
+            "answers":[
+               {
+                  "answer":"An orbit where a satellite remains fixed above one point on the equator",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"An orbit where a satellite moves in a polar path",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"An orbit where a satellite moves in an elliptical path",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"An orbit where a satellite moves in a highly inclined path",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves a satellite appearing stationary relative to the Earth's surface.",
+            "explanation":"A geostationary orbit is one where a satellite remains fixed above one point on the equator, matching the Earth's rotation."
+         },
+         {
+            "question":"What is the purpose of a Hohmann transfer orbit?",
+            "answers":[
+               {
+                  "answer":"To transfer between two orbits with minimal energy",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"To achieve escape velocity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To enter a geostationary orbit",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To perform a gravity assist maneuver",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is an efficient way to move between two circular orbits.",
+            "explanation":"A Hohmann transfer orbit is used to transfer between two orbits with minimal energy expenditure."
+         },
+         {
+            "question":"What is the significance of the periapsis in an orbit?",
+            "answers":[
+               {
+                  "answer":"It is the point closest to the central body",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It is the point farthest from the central body",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It is the average distance from the central body",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It is the point where the orbit crosses the equator",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is the nearest point in the orbit to the central body.",
+            "explanation":"The periapsis is the point in an orbit closest to the central body."
+         },
+         {
+            "question":"What is the Tsiolkovsky rocket equation used for?",
+            "answers":[
+               {
+                  "answer":"Calculating the change in velocity of a rocket",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Determining the orbital period of a satellite",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Measuring the gravitational force on a spacecraft",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Estimating the fuel efficiency of a rocket engine",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It relates to the velocity change and mass of a rocket.",
+            "explanation":"The Tsiolkovsky rocket equation is used for calculating the change in velocity of a rocket based on its mass and exhaust velocity."
+         },
+         {
+            "question":"What is the purpose of a gravity assist maneuver?",
+            "answers":[
+               {
+                  "answer":"To increase or decrease a spacecraft's velocity using a planet's gravity",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"To enter a stable orbit around a planet",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To perform a soft landing on a planetary surface",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To avoid collision with space debris",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves using a planet's gravitational field to alter the spacecraft's trajectory.",
+            "explanation":"A gravity assist maneuver is used to increase or decrease a spacecraft's velocity by using the gravitational field of a planet."
+         },
+         {
+            "question":"What is the orbital period of a satellite?",
+            "answers":[
+               {
+                  "answer":"The time it takes to complete one orbit around the central body",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"The time it takes to reach escape velocity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The time it takes to enter a geostationary orbit",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The time it takes to perform a gravity assist maneuver",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is the duration of one complete orbit.",
+            "explanation":"The orbital period of a satellite is the time it takes to complete one orbit around the central body."
+         },
+         {
+            "question":"What is the significance of the apogee in an orbit?",
+            "answers":[
+               {
+                  "answer":"It is the point farthest from the central body",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"It is the point closest to the central body",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It is the average distance from the central body",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It is the point where the orbit crosses the equator",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It is the farthest point in the orbit from the central body.",
+            "explanation":"The apogee is the point in an orbit farthest from the central body."
+         },
+         {
+            "question":"What is the purpose of a transfer orbit?",
+            "answers":[
+               {
+                  "answer":"To move a spacecraft from one orbit to another",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"To achieve escape velocity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To enter a stable orbit around a planet",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To perform a soft landing on a planetary surface",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves changing the spacecraft's orbit.",
+            "explanation":"A transfer orbit is used to move a spacecraft from one orbit to another, often with minimal energy expenditure."
+         }
+      ]
+   }
+]

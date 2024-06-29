@@ -1,0 +1,1106 @@
+[
+   {
+      "topic":"Book The Three-Body Problem",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"Who is the author of 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"Cixin Liu",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Ken Liu",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Haruki Murakami",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Neal Stephenson",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"This Chinese author is known for his hard science fiction works.",
+            "explanation":"The Three-Body Problem was written by Cixin Liu, a prominent Chinese science fiction author. It was translated into English by Ken Liu."
+         },
+         {
+            "question":"What historical event serves as the backdrop for the beginning of the novel?",
+            "answers":[
+               {
+                  "answer":"Cultural Revolution",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"World War II",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Moon Landing",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Cold War",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"This was a sociopolitical movement in China during the 1960s and 1970s.",
+            "explanation":"The novel begins during China's Cultural Revolution, which significantly impacts the protagonist's backstory and motivations."
+         },
+         {
+            "question":"What is the name of the alien civilization in the book?",
+            "answers":[
+               {
+                  "answer":"Trisolarans",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Martians",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Vogons",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Klingons",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Their name relates to the number of suns in their solar system.",
+            "explanation":"The alien civilization is called the Trisolarans, named after their home planet's three-sun system."
+         },
+         {
+            "question":"What scientific facility plays a crucial role in the early part of the book?",
+            "answers":[
+               {
+                  "answer":"Red Coast Base",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"SETI Institute",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"CERN",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"NASA",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's a secret Chinese listening post.",
+            "explanation":"Red Coast Base is a secret Chinese facility dedicated to SETI (Search for Extraterrestrial Intelligence) activities."
+         },
+         {
+            "question":"What unusual phenomenon do players experience in the virtual reality game 'Three Body'?",
+            "answers":[
+               {
+                  "answer":"Unpredictable day-night cycles",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Reverse gravity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Time travel",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Shape-shifting avatars",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's related to the planet's orbital mechanics.",
+            "explanation":"In the game, players experience chaotic and unpredictable day-night cycles due to the planet's orbit around three suns."
+         },
+         {
+            "question":"What is the 'sophon' in the context of the novel?",
+            "answers":[
+               {
+                  "answer":"A proton-sized supercomputer",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"An alien language",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A type of spacecraft",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A human-alien hybrid",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's a highly advanced technological creation by the aliens.",
+            "explanation":"Sophons are proton-sized supercomputers created by the Trisolarans to spy on and interfere with human scientific development."
+         },
+         {
+            "question":"What is the primary challenge faced by the Trisolaran civilization?",
+            "answers":[
+               {
+                  "answer":"Unpredictable planetary climate",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Overpopulation",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Lack of resources",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Internal conflicts",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's caused by their planet's unique orbital situation.",
+            "explanation":"The Trisolarans face extreme and unpredictable climate changes due to their planet's chaotic orbit around three suns, making long-term civilization development challenging."
+         },
+         {
+            "question":"What is the 'ETO' in the novel?",
+            "answers":[
+               {
+                  "answer":"Earth-Trisolaris Organization",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Extraterrestrial Technology Office",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Earth Telescope Observatory",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Exotic Theoretical Objects",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's a group of humans with a specific agenda regarding the aliens.",
+            "explanation":"The Earth-Trisolaris Organization (ETO) is a human group that supports the Trisolaran invasion of Earth."
+         },
+         {
+            "question":"What scientific principle does the novel suggest might be manipulated to create the sophons?",
+            "answers":[
+               {
+                  "answer":"Dimensional unfolding",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Nuclear fusion",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Quantum teleportation",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Antimatter conversion",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves manipulating the physical dimensions of particles.",
+            "explanation":"The novel suggests that sophons are created through 'dimensional unfolding', a process of manipulating subatomic particles to create complex structures in higher dimensions."
+         },
+         {
+            "question":"What is the significance of the title 'The Three-Body Problem'?",
+            "answers":[
+               {
+                  "answer":"It refers to a complex orbital mechanics problem",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"It's a metaphor for human-alien-nature relationships",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It describes a political conflict between three nations",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It's the name of an alien weapon",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's related to the alien planet's astronomical situation.",
+            "explanation":"The title refers to the three-body problem in orbital mechanics, which describes the complex and chaotic motion of three celestial bodies under mutual gravitational influence, mirroring the situation of the Trisolaran planet."
+         }
+      ]
+   },
+   {
+      "topic":"Quantum Entanglement",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"What is quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"A phenomenon where particles remain connected regardless of distance",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"A theory about the origin of the universe",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The process of splitting atoms",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A method for time travel",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's often described as 'spooky action at a distance'.",
+            "explanation":"Quantum entanglement is a phenomenon where two or more particles become correlated in such a way that the quantum state of each particle cannot be described independently, even when separated by a large distance."
+         },
+         {
+            "question":"Who famously referred to quantum entanglement as 'spooky action at a distance'?",
+            "answers":[
+               {
+                  "answer":"Albert Einstein",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Niels Bohr",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Werner Heisenberg",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Erwin Schrödinger",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"This physicist is known for his theory of relativity.",
+            "explanation":"Albert Einstein used this phrase to express his skepticism about quantum entanglement, which he viewed as inconsistent with his understanding of physics."
+         },
+         {
+            "question":"What principle does quantum entanglement seem to violate?",
+            "answers":[
+               {
+                  "answer":"Locality",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Conservation of energy",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Thermodynamics",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Gravity",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"This principle suggests that objects can only be influenced by their immediate surroundings.",
+            "explanation":"Quantum entanglement appears to violate locality, which states that an object is influenced directly only by its immediate surroundings. Entangled particles seem to influence each other instantaneously, regardless of distance."
+         },
+         {
+            "question":"What is the 'no-communication theorem' in relation to quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"Entanglement cannot be used to transmit information faster than light",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Entangled particles cannot communicate with each other",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"It's impossible to create entangled particles",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Quantum states cannot be accurately measured",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's related to the speed of information transfer.",
+            "explanation":"The no-communication theorem states that while entangled particles can influence each other instantly, this cannot be used to transmit information faster than the speed of light, preserving causality in special relativity."
+         },
+         {
+            "question":"Which experiment is famously used to demonstrate quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"EPR experiment",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Double-slit experiment",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Michelson-Morley experiment",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Stern-Gerlach experiment",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's named after the initials of three physicists.",
+            "explanation":"The EPR (Einstein-Podolsky-Rosen) experiment, proposed in 1935, is a thought experiment that highlights the paradoxical nature of quantum entanglement and has since been realized in various forms in actual experiments."
+         },
+         {
+            "question":"What is 'quantum teleportation' in the context of entanglement?",
+            "answers":[
+               {
+                  "answer":"Transferring quantum states between particles",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Physically moving particles instantly",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Creating copies of quantum particles",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Destroying and recreating particles at a distance",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It involves transferring information, not matter.",
+            "explanation":"Quantum teleportation is a process that uses quantum entanglement to transfer the quantum state of one particle to another particle at a distance, without physically moving the particle itself."
+         },
+         {
+            "question":"What is a potential application of quantum entanglement in technology?",
+            "answers":[
+               {
+                  "answer":"Quantum cryptography",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Faster-than-light communication",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Perpetual motion machines",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Time travel devices",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's related to secure communication.",
+            "explanation":"Quantum cryptography uses the principles of quantum entanglement to create secure communication channels that are theoretically impossible to eavesdrop on without detection."
+         },
+         {
+            "question":"What is 'entanglement swapping'?",
+            "answers":[
+               {
+                  "answer":"Entangling particles that have never interacted",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Breaking entanglement between particles",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Switching the spin of entangled particles",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Measuring entanglement without disturbing it",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's a method to extend the reach of entanglement.",
+            "explanation":"Entanglement swapping is a technique where two pairs of entangled particles can be used to create entanglement between two particles that have never directly interacted, useful for extending quantum networks."
+         },
+         {
+            "question":"What is the 'monogamy of entanglement'?",
+            "answers":[
+               {
+                  "answer":"A particle can't be fully entangled with multiple other particles simultaneously",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Entanglement only occurs between two particles",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Entangled particles can never be separated",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Only one type of particle can be entangled",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's about the limitations of entanglement relationships.",
+            "explanation":"The monogamy of entanglement principle states that if two quantum systems are maximally entangled, they cannot be entangled with any other system, limiting the 'sharing' of entanglement."
+         },
+         {
+            "question":"What is 'decoherence' in relation to quantum entanglement?",
+            "answers":[
+               {
+                  "answer":"The loss of quantum properties due to interaction with the environment",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"The process of creating entangled particles",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"A method for measuring entanglement",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The splitting of entangled particles",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's a major challenge in maintaining quantum states.",
+            "explanation":"Decoherence is the process by which quantum systems lose their quantum properties, including entanglement, due to interactions with their environment. It's a major challenge in quantum computing and other quantum technologies."
+         }
+      ]
+   },
+   {
+      "topic":"Dehydration and Rehydration",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"What is dehydration?",
+            "answers":[
+               {
+                  "answer":"Excessive loss of body water",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Excessive gain of body water",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Loss of body fat",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Gain of body fat",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's related to a decrease in body fluids.",
+            "explanation":"Dehydration occurs when your body loses more fluids than it takes in, resulting in insufficient water and other fluids to carry out normal bodily functions."
+         },
+         {
+            "question":"Which of the following is NOT a common symptom of mild dehydration?",
+            "answers":[
+               {
+                  "answer":"Increased blood pressure",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Thirst",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Dry mouth",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Decreased urine output",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Think about how dehydration affects the cardiovascular system.",
+            "explanation":"Mild dehydration typically causes decreased blood pressure, not increased. Other symptoms include thirst, dry mouth, and decreased urine output."
+         },
+         {
+            "question":"What percentage of body weight loss due to fluid loss is considered severe dehydration?",
+            "answers":[
+               {
+                  "answer":"More than 10%",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"More than 5%",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"More than 15%",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"More than 20%",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's a double-digit percentage.",
+            "explanation":"Severe dehydration is typically defined as a loss of more than 10% of body weight due to fluid loss. This level of dehydration is a medical emergency."
+         },
+         {
+            "question":"What is the primary goal of rehydration?",
+            "answers":[
+               {
+                  "answer":"To restore fluid balance in the body",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"To increase body temperature",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To decrease blood pressure",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To reduce hunger",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Think about what dehydration disrupts in the body.",
+            "explanation":"The primary goal of rehydration is to restore fluid balance in the body, replacing the water and electrolytes lost during dehydration."
+         },
+         {
+            "question":"Which of these is NOT typically included in oral rehydration solutions?",
+            "answers":[
+               {
+                  "answer":"Caffeine",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Sodium",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Glucose",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Potassium",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Think about substances that might worsen dehydration.",
+            "explanation":"Caffeine is not included in oral rehydration solutions as it can have a mild diuretic effect. Sodium, glucose, and potassium are common components of these solutions."
+         },
+         {
+            "question":"What is hypernatremia?",
+            "answers":[
+               {
+                  "answer":"Excessive sodium concentration in the blood",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Insufficient sodium in the blood",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Excessive potassium in the blood",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Insufficient potassium in the blood",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"The prefix 'hyper-' means excessive, and 'natr-' refers to sodium.",
+            "explanation":"Hypernatremia is a condition characterized by an excessive concentration of sodium in the blood, often resulting from dehydration."
+         },
+         {
+            "question":"Which of the following groups is most at risk for dehydration?",
+            "answers":[
+               {
+                  "answer":"Infants and young children",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Middle-aged adults",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Teenagers",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Adults in their 30s",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Think about which group might have difficulty communicating thirst or accessing fluids independently.",
+            "explanation":"Infants and young children are at highest risk for dehydration due to their smaller body weights, higher metabolic rates, and inability to communicate thirst or get drinks for themselves."
+         },
+         {
+            "question":"What is the recommended rate of rehydration for moderate dehydration in adults?",
+            "answers":[
+               {
+                  "answer":"50-100 mL per kg body weight over 2-4 hours",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"10-20 mL per kg body weight over 1 hour",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"200-300 mL per kg body weight over 6-8 hours",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"500 mL per hour regardless of body weight",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's a moderate amount over a few hours, based on body weight.",
+            "explanation":"For moderate dehydration in adults, the recommended rehydration rate is typically 50-100 mL per kg of body weight over 2-4 hours, adjusted based on ongoing losses and clinical response."
+         },
+         {
+            "question":"Which of these is NOT a common cause of dehydration?",
+            "answers":[
+               {
+                  "answer":"Overconsumption of water",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Diarrhea",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Excessive sweating",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Vomiting",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Think about what adds water to the body rather than removes it.",
+            "explanation":"Overconsumption of water does not cause dehydration; in fact, it can lead to overhydration. Diarrhea, excessive sweating, and vomiting are common causes of fluid loss leading to dehydration."
+         },
+         {
+            "question":"What is the term for the process of gradually reintroducing fluids to prevent complications in severe dehydration cases?",
+            "answers":[
+               {
+                  "answer":"Controlled rehydration",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Rapid infusion",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Hydration bombing",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Fluid overloading",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It implies a measured, careful approach to rehydration.",
+            "explanation":"Controlled rehydration is the process of carefully and gradually reintroducing fluids in cases of severe dehydration to prevent complications such as cerebral edema or heart failure."
+         }
+      ]
+   },
+   {
+      "topic":"Orbital Mechanics",
+      "difficulty":"Normal",
+      "questions":[
+         {
+            "question":"What is Kepler's First Law of Planetary Motion?",
+            "answers":[
+               {
+                  "answer":"The orbit of a planet is an ellipse with the Sun at one of the two foci",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Planets move faster when they are closer to the Sun",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The time required to trace out an area is proportional to that area",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The square of the orbital period is proportional to the cube of the semi-major axis",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It describes the shape of a planet's orbit.",
+            "explanation":"Kepler's First Law states that the orbit of each planet is an ellipse with the Sun at one of the two foci, rather than the perfect circles that were previously assumed."
+         },
+         {
+            "question":"What is the term for the point in an orbit where an object is closest to the body it's orbiting?",
+            "answers":[
+               {
+                  "answer":"Periapsis",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Apoapsis",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zenith",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Nadir",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"The prefix 'peri-' means near or close.",
+            "explanation":"Periapsis is the point in an orbit where an object is closest to the body it's orbiting. For Earth orbits, this is specifically called perigee, and for solar orbits, perihelion."
+         },
+         {
+            "question":"What is the escape velocity?",
+            "answers":[
+               {
+                  "answer":"The minimum speed needed to break free from a body's gravitational influence",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"The speed at which an object orbits another body",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The maximum speed an object can achieve in orbit",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"The speed of light in a vacuum",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's related to overcoming gravity.",
+            "explanation":"Escape velocity is the minimum speed that an object needs to achieve to break free from a body's gravitational influence without further propulsion."
+         },
+         {
+            "question":"What is the name of the imaginary line connecting the periapsis and apoapsis of an orbit?",
+            "answers":[
+               {
+                  "answer":"Line of apsides",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Orbital plane",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Ecliptic",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Radial vector",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's named after the two extreme points in an orbit.",
+            "explanation":"The line of apsides is the imaginary line connecting the periapsis and apoapsis (the closest and farthest points) of an elliptical orbit."
+         },
+         {
+            "question":"What is the Hohmann transfer orbit used for?",
+            "answers":[
+               {
+                  "answer":"To move between two circular orbits with minimum energy",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"To escape a planet's gravitational field",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To maintain a geostationary orbit",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"To enter a planet's atmosphere at high speed",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's an efficient way to change orbits.",
+            "explanation":"The Hohmann transfer orbit is an elliptical orbit used to transfer between two circular orbits of different radii in the same plane, using the least amount of propellant."
+         },
+         {
+            "question":"What is the term for the angle between the orbital plane and the reference plane?",
+            "answers":[
+               {
+                  "answer":"Inclination",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Eccentricity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Azimuth",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Declination",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It describes how tilted an orbit is relative to a reference plane.",
+            "explanation":"Inclination is the angle between the orbital plane and the reference plane. For example, the inclination of the Earth's equator relative to its orbital plane is about 23.5 degrees."
+         },
+         {
+            "question":"What is the term for the shape of an orbit, measured from 0 to 1?",
+            "answers":[
+               {
+                  "answer":"Eccentricity",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Ellipticity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Circularity",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Oblateness",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"A value of 0 represents a perfect circle, while 1 represents a parabola.",
+            "explanation":"Eccentricity is a measure of how much an orbit deviates from a perfect circle. It ranges from 0 (circular orbit) to 1 (parabolic trajectory)."
+         },
+         {
+            "question":"What is the term for the time it takes for an orbiting body to complete one full orbit?",
+            "answers":[
+               {
+                  "answer":"Orbital period",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Sidereal day",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Solar day",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Synodic period",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's the most basic measure of how long an orbit takes.",
+            "explanation":"The orbital period is the time it takes for an orbiting body to complete one full revolution around the central body."
+         },
+         {
+            "question":"What is the name of the point where a satellite's orbit crosses the equatorial plane moving from south to north?",
+            "answers":[
+               {
+                  "answer":"Ascending node",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Descending node",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Apogee",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Perigee",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's where the orbit 'ascends' relative to the equator.",
+            "explanation":"The ascending node is the point where a satellite's orbit crosses the equatorial plane moving from south to north. The opposite point is called the descending node."
+         },
+         {
+            "question":"What is the term for the gradual change in the orientation of a rotational axis, such as Earth's precession?",
+            "answers":[
+               {
+                  "answer":"Precession",
+                  "correct":true,
+                  "points":1
+               },
+               {
+                  "answer":"Nutation",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Libration",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Ablation",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"It's often described as a 'wobble' in Earth's rotational axis.",
+            "explanation":"Precession is the gradual change in the orientation of a rotational axis. For Earth, this results in a cycle of the rotational axis tracing out a cone shape over about 26,000 years."
+         }
+      ]
+   }
+]
