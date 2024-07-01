@@ -9,5 +9,5 @@
     "perplexity/technology"
   ],
   "claude": ["claude/three-body"],
-  "chatgpt": ["claude/povijest-kraljevi-gradovi"]
+  "chatgpt": ["chatgpt/povijest-kraljevi-gradovi"]
 }
