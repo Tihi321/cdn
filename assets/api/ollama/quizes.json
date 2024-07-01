@@ -1,13 +1,13 @@
 {
   "perplexity": [
     "perplexity/arts",
-    "perplexity/friends",
     "perplexity/geography",
     "perplexity/history-of-the-world",
     "perplexity/movies",
     "perplexity/pop-culture",
     "perplexity/science",
-    "perplexity/three-body"
+    "perplexity/technology"
   ],
-  "claude": ["claude/three-body"]
+  "claude": ["claude/three-body"],
+  "chatgpt": ["claude/povijest-kraljevi-gradovi"]
 }
