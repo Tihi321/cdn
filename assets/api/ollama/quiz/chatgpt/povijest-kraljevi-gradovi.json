@@ -1,234 +1,554 @@
 [
-  {
-    "topic": "Hrvatski kraljevi",
-    "difficulty": "normal",
-    "questions": [
-      {
-        "question": "Tko je bio prvi hrvatski kralj?",
-        "answers": [
-          { "answer": "Tomislav", "correct": true, "points": 5 },
-          { "answer": "Zvonimir", "correct": false, "points": 0 },
-          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 },
-          { "answer": "Stjepan Držislav", "correct": false, "points": 0 }
-        ],
-        "hint": "Vladao je od 925. godine.",
-        "explanation": "Tomislav je bio prvi hrvatski kralj koji je krunisan 925. godine."
-      },
-      {
-        "question": "Koji je hrvatski kralj poznat po tituli 'rex croatorum et dalmatinorum'?",
-        "answers": [
-          { "answer": "Petar Krešimir IV", "correct": true, "points": 5 },
-          { "answer": "Tomislav", "correct": false, "points": 0 },
-          { "answer": "Zvonimir", "correct": false, "points": 0 },
-          { "answer": "Trpimir", "correct": false, "points": 0 }
-        ],
-        "hint": "Vladao je u 11. stoljeću.",
-        "explanation": "Petar Krešimir IV nosio je titulu 'rex croatorum et dalmatinorum'."
-      },
-      {
-        "question": "Koji je kralj poznat po sukobu s papom i ekskomunikaciji?",
-        "answers": [
-          { "answer": "Dmitar Zvonimir", "correct": false, "points": 0 },
-          { "answer": "Stjepan Držislav", "correct": false, "points": 0 },
-          { "answer": "Petar Svačić", "correct": true, "points": 5 },
-          { "answer": "Tomislav", "correct": false, "points": 0 }
-        ],
-        "hint": "Posljednji je kralj narodne krvi.",
-        "explanation": "Petar Svačić je bio posljednji hrvatski kralj koji je sukobio s papom i bio ekskomuniciran."
-      },
-      {
-        "question": "Koji je kralj uveo krunidbu u Solinu?",
-        "answers": [
-          { "answer": "Tomislav", "correct": false, "points": 0 },
-          { "answer": "Zvonimir", "correct": true, "points": 5 },
-          { "answer": "Stjepan Držislav", "correct": false, "points": 0 },
-          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 }
-        ],
-        "hint": "Vladao je nakon Petra Krešimira IV.",
-        "explanation": "Dmitar Zvonimir uveo je krunidbu u Solinu."
-      },
-      {
-        "question": "Tko je bio posljednji kralj narodne krvi?",
-        "answers": [
-          { "answer": "Tomislav", "correct": false, "points": 0 },
-          { "answer": "Petar Svačić", "correct": true, "points": 5 },
-          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 },
-          { "answer": "Zvonimir", "correct": false, "points": 0 }
-        ],
-        "hint": "Poginuo je u borbi na planini Gvozd.",
-        "explanation": "Petar Svačić bio je posljednji hrvatski kralj narodne krvi, poginuo u bitci na planini Gvozd."
-      },
-      {
-        "question": "Koji je kralj uveo županijski sustav uprave?",
-        "answers": [
-          { "answer": "Stjepan Držislav", "correct": true, "points": 5 },
-          { "answer": "Tomislav", "correct": false, "points": 0 },
-          { "answer": "Zvonimir", "correct": false, "points": 0 },
-          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 }
-        ],
-        "hint": "Vladao je krajem 10. stoljeća.",
-        "explanation": "Stjepan Držislav uveo je županijski sustav uprave."
-      },
-      {
-        "question": "Koji je kralj prvi koristio titulu 'kralj Hrvatske i Dalmacije'?",
-        "answers": [
-          { "answer": "Tomislav", "correct": true, "points": 5 },
-          { "answer": "Zvonimir", "correct": false, "points": 0 },
-          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 },
-          { "answer": "Trpimir", "correct": false, "points": 0 }
-        ],
-        "hint": "Poznat je po pobjedi nad Mađarima.",
-        "explanation": "Tomislav je prvi koristio titulu 'kralj Hrvatske i Dalmacije' nakon pobjede nad Mađarima."
-      },
-      {
-        "question": "Koji je hrvatski kralj zaslužan za izgradnju Biograda na Moru?",
-        "answers": [
-          { "answer": "Petar Krešimir IV", "correct": true, "points": 5 },
-          { "answer": "Tomislav", "correct": false, "points": 0 },
-          { "answer": "Zvonimir", "correct": false, "points": 0 },
-          { "answer": "Stjepan Držislav", "correct": false, "points": 0 }
-        ],
-        "hint": "Poznat je kao 'Krešimir Veliki'.",
-        "explanation": "Petar Krešimir IV zaslužan je za izgradnju Biograda na Moru, koji je bio njegovo glavno sjedište."
-      },
-      {
-        "question": "Koji je kralj krunisan u Biogradu na Moru?",
-        "answers": [
-          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 },
-          { "answer": "Zvonimir", "correct": true, "points": 5 },
-          { "answer": "Stjepan Držislav", "correct": false, "points": 0 },
-          { "answer": "Tomislav", "correct": false, "points": 0 }
-        ],
-        "hint": "Njegova je krunidba bila u 11. stoljeću.",
-        "explanation": "Dmitar Zvonimir bio je krunisan u Biogradu na Moru u 11. stoljeću."
-      },
-      {
-        "question": "Koji je kralj uveden u povijest kao utemeljitelj hrvatskog kraljevstva?",
-        "answers": [
-          { "answer": "Tomislav", "correct": true, "points": 5 },
-          { "answer": "Zvonimir", "correct": false, "points": 0 },
-          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 },
-          { "answer": "Trpimir", "correct": false, "points": 0 }
-        ],
-        "hint": "Poznat je po bitci na planini Gvozd.",
-        "explanation": "Tomislav se smatra utemeljiteljem hrvatskog kraljevstva, poznat po pobjedi u bitci na planini Gvozd."
-      }
-    ]
-  },
-  {
-    "topic": "Hrvatski gradovi kroz povijest",
-    "difficulty": "normal",
-    "questions": [
-      {
-        "question": "Koji je grad bio sjedište hrvatskih kraljeva u 9. stoljeću?",
-        "answers": [
-          { "answer": "Nin", "correct": true, "points": 5 },
-          { "answer": "Split", "correct": false, "points": 0 },
-          { "answer": "Dubrovnik", "correct": false, "points": 0 },
-          { "answer": "Zadar", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi u Zadarskoj županiji.",
-        "explanation": "Nin je bio sjedište hrvatskih kraljeva u 9. stoljeću."
-      },
-      {
-        "question": "Koji je grad bio središte trgovine soli u srednjem vijeku?",
-        "answers": [
-          { "answer": "Pag", "correct": true, "points": 5 },
-          { "answer": "Šibenik", "correct": false, "points": 0 },
-          { "answer": "Rijeka", "correct": false, "points": 0 },
-          { "answer": "Pula", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi na otoku.",
-        "explanation": "Pag je bio poznat po trgovini soli u srednjem vijeku."
-      },
-      {
-        "question": "Koji je grad poznat ponajstarijem europskom teatru?",
-        "answers": [
-          { "answer": "Hvar", "correct": true, "points": 5 },
-          { "answer": "Dubrovnik", "correct": false, "points": 0 },
-          { "answer": "Zadar", "correct": false, "points": 0 },
-          { "answer": "Split", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad je na istoimenom otoku.",
-        "explanation": "Hvar je poznat po najstarijem europskom teatru, izgrađenom 1612. godine."
-      },
-      {
-        "question": "Koji je grad bio poznat po tiskari u 15. stoljeću?",
-        "answers": [
-          { "answer": "Senj", "correct": true, "points": 5 },
-          { "answer": "Zagreb", "correct": false, "points": 0 },
-          { "answer": "Dubrovnik", "correct": false, "points": 0 },
-          { "answer": "Split", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi u Primorsko-goranskoj županiji.",
-        "explanation": "Senj je bio poznat po tiskari koja je djelovala u 15. stoljeću."
-      },
-      {
-        "question": "Koji je grad poznat po renesansnom spomeniku Jurja Dalmatinca?",
-        "answers": [
-          { "answer": "Šibenik", "correct": true, "points": 5 },
-          { "answer": "Zadar", "correct": false, "points": 0 },
-          { "answer": "Split", "correct": false, "points": 0 },
-          { "answer": "Trogir", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi na obali Jadranskog mora.",
-        "explanation": "Šibenik je poznat po katedrali sv. Jakova, renesansnom spomeniku Jurja Dalmatinca."
-      },
-      {
-        "question": "Koji je grad poznat po obrani od Osmanlija u 16. stoljeću?",
-        "answers": [
-          { "answer": "Siget", "correct": true, "points": 5 },
-          { "answer": "Varaždin", "correct": false, "points": 0 },
-          { "answer": "Osijek", "correct": false, "points": 0 },
-          { "answer": "Zagreb", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi u južnoj Mađarskoj, ali ima važnu ulogu u hrvatskoj povijesti.",
-        "explanation": "Siget je poznat po obrani od Osmanlija pod vodstvom Nikole Šubića Zrinskog u 16. stoljeću."
-      },
-      {
-        "question": "Koji je grad bio glavni centar Ilirskih provincija?",
-        "answers": [
-          { "answer": "Ljubljana", "correct": false, "points": 0 },
-          { "answer": "Zadar", "correct": true, "points": 5 },
-          { "answer": "Rijeka", "correct": false, "points": 0 },
-          { "answer": "Pula", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi na obali Jadranskog mora i ima dugu povijest.",
-        "explanation": "Zadar je bio glavni centar Ilirskih provincija za vrijeme Napoleonove vlasti."
-      },
-      {
-        "question": "Koji je grad bio poznat kao 'Mali Beč' zbog svoje arhitekture?",
-        "answers": [
-          { "answer": "Varaždin", "correct": true, "points": 5 },
-          { "answer": "Osijek", "correct": false, "points": 0 },
-          { "answer": "Rijeka", "correct": false, "points": 0 },
-          { "answer": "Zagreb", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi u sjeverozapadnom dijelu Hrvatske.",
-        "explanation": "Varaždin je poznat kao 'Mali Beč' zbog svoje barokne arhitekture i kulturnog značaja."
-      },
-      {
-        "question": "Koji je grad poznat po Dioklecijanovoj palači?",
-        "answers": [
-          { "answer": "Split", "correct": true, "points": 5 },
-          { "answer": "Zadar", "correct": false, "points": 0 },
-          { "answer": "Dubrovnik", "correct": false, "points": 0 },
-          { "answer": "Pula", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad je središte Splitsko-dalmatinske županije.",
-        "explanation": "Split je poznat po Dioklecijanovoj palači, izgrađenoj u 4. stoljeću."
-      },
-      {
-        "question": "Koji je grad bio poznat po srednjovjekovnoj trgovačkoj mreži i zidinama?",
-        "answers": [
-          { "answer": "Dubrovnik", "correct": true, "points": 5 },
-          { "answer": "Zadar", "correct": false, "points": 0 },
-          { "answer": "Šibenik", "correct": false, "points": 0 },
-          { "answer": "Split", "correct": false, "points": 0 }
-        ],
-        "hint": "Grad se nalazi na jugu Hrvatske i poznat je po svojoj Republici.",
-        "explanation": "Dubrovnik je poznat po svojoj srednjovjekovnoj trgovačkoj mreži i obrambenim zidinama."
-      }
-    ]
-  }
+   {
+      "topic":"Hrvatski kraljevi",
+      "difficulty":"normal",
+      "questions":[
+         {
+            "question":"Tko je bio prvi hrvatski kralj?",
+            "answers":[
+               {
+                  "answer":"Tomislav",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Stjepan Držislav",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Vladao je od 925. godine.",
+            "explanation":"Tomislav je bio prvi hrvatski kralj koji je krunisan 925. godine."
+         },
+         {
+            "question":"Koji je hrvatski kralj poznat po tituli 'rex croatorum et dalmatinorum'?",
+            "answers":[
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Tomislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Trpimir",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Vladao je u 11. stoljeću.",
+            "explanation":"Petar Krešimir IV nosio je titulu 'rex croatorum et dalmatinorum'."
+         },
+         {
+            "question":"Koji je kralj poznat po sukobu s papom i ekskomunikaciji?",
+            "answers":[
+               {
+                  "answer":"Dmitar Zvonimir",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Stjepan Držislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Petar Svačić",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Tomislav",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Posljednji je kralj narodne krvi.",
+            "explanation":"Petar Svačić je bio posljednji hrvatski kralj koji je sukobio s papom i bio ekskomuniciran."
+         },
+         {
+            "question":"Koji je kralj uveo krunidbu u Solinu?",
+            "answers":[
+               {
+                  "answer":"Tomislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Stjepan Držislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Vladao je nakon Petra Krešimira IV.",
+            "explanation":"Dmitar Zvonimir uveo je krunidbu u Solinu."
+         },
+         {
+            "question":"Tko je bio posljednji kralj narodne krvi?",
+            "answers":[
+               {
+                  "answer":"Tomislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Petar Svačić",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Poginuo je u borbi na planini Gvozd.",
+            "explanation":"Petar Svačić bio je posljednji hrvatski kralj narodne krvi, poginuo u bitci na planini Gvozd."
+         },
+         {
+            "question":"Koji je kralj uveo županijski sustav uprave?",
+            "answers":[
+               {
+                  "answer":"Stjepan Držislav",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Tomislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Vladao je krajem 10. stoljeća.",
+            "explanation":"Stjepan Držislav uveo je županijski sustav uprave."
+         },
+         {
+            "question":"Koji je kralj prvi koristio titulu 'kralj Hrvatske i Dalmacije'?",
+            "answers":[
+               {
+                  "answer":"Tomislav",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Trpimir",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Poznat je po pobjedi nad Mađarima.",
+            "explanation":"Tomislav je prvi koristio titulu 'kralj Hrvatske i Dalmacije' nakon pobjede nad Mađarima."
+         },
+         {
+            "question":"Koji je hrvatski kralj zaslužan za izgradnju Biograda na Moru?",
+            "answers":[
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Tomislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Stjepan Držislav",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Poznat je kao 'Krešimir Veliki'.",
+            "explanation":"Petar Krešimir IV zaslužan je za izgradnju Biograda na Moru, koji je bio njegovo glavno sjedište."
+         },
+         {
+            "question":"Koji je kralj krunisan u Biogradu na Moru?",
+            "answers":[
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Stjepan Držislav",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Tomislav",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Njegova je krunidba bila u 11. stoljeću.",
+            "explanation":"Dmitar Zvonimir bio je krunisan u Biogradu na Moru u 11. stoljeću."
+         },
+         {
+            "question":"Koji je kralj uveden u povijest kao utemeljitelj hrvatskog kraljevstva?",
+            "answers":[
+               {
+                  "answer":"Tomislav",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Zvonimir",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Petar Krešimir IV",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Trpimir",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Poznat je po bitci na planini Gvozd.",
+            "explanation":"Tomislav se smatra utemeljiteljem hrvatskog kraljevstva, poznat po pobjedi u bitci na planini Gvozd."
+         }
+      ]
+   },
+   {
+      "topic":"Hrvatski gradovi kroz povijest",
+      "difficulty":"normal",
+      "questions":[
+         {
+            "question":"Koji je grad bio sjedište hrvatskih kraljeva u 9. stoljeću?",
+            "answers":[
+               {
+                  "answer":"Nin",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Split",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Dubrovnik",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zadar",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi u Zadarskoj županiji.",
+            "explanation":"Nin je bio sjedište hrvatskih kraljeva u 9. stoljeću."
+         },
+         {
+            "question":"Koji je grad bio središte trgovine soli u srednjem vijeku?",
+            "answers":[
+               {
+                  "answer":"Pag",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Šibenik",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Rijeka",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Pula",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi na otoku.",
+            "explanation":"Pag je bio poznat po trgovini soli u srednjem vijeku."
+         },
+         {
+            "question":"Koji je grad poznat po najstarijem europskom teatru?",
+            "answers":[
+               {
+                  "answer":"Hvar",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Dubrovnik",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zadar",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Split",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad je na istoimenom otoku.",
+            "explanation":"Hvar je poznat po najstarijem europskom teatru, izgrađenom 1612. godine."
+         },
+         {
+            "question":"Koji je grad bio poznat po tiskari u 15. stoljeću?",
+            "answers":[
+               {
+                  "answer":"Senj",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Zagreb",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Dubrovnik",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Split",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi u Primorsko-goranskoj županiji.",
+            "explanation":"Senj je bio poznat po tiskari koja je djelovala u 15. stoljeću."
+         },
+         {
+            "question":"Koji je grad poznat po renesansnom spomeniku Jurja Dalmatinca?",
+            "answers":[
+               {
+                  "answer":"Šibenik",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Zadar",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Split",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Trogir",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi na obali Jadranskog mora.",
+            "explanation":"Šibenik je poznat po katedrali sv. Jakova, renesansnom spomeniku Jurja Dalmatinca."
+         },
+         {
+            "question":"Koji je grad poznat po obrani od Osmanlija u 16. stoljeću?",
+            "answers":[
+               {
+                  "answer":"Siget",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Varaždin",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Osijek",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zagreb",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi u južnoj Mađarskoj, ali ima važnu ulogu u hrvatskoj povijesti.",
+            "explanation":"Siget je poznat po obrani od Osmanlija pod vodstvom Nikole Šubića Zrinskog u 16. stoljeću."
+         },
+         {
+            "question":"Koji je grad bio glavni centar Ilirskih provincija?",
+            "answers":[
+               {
+                  "answer":"Ljubljana",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zadar",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Rijeka",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Pula",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi na obali Jadranskog mora i ima dugu povijest.",
+            "explanation":"Zadar je bio glavni centar Ilirskih provincija za vrijeme Napoleonove vlasti."
+         },
+         {
+            "question":"Koji je grad bio poznat kao 'Mali Beč' zbog svoje arhitekture?",
+            "answers":[
+               {
+                  "answer":"Varaždin",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Osijek",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Rijeka",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Zagreb",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi u sjeverozapadnom dijelu Hrvatske.",
+            "explanation":"Varaždin je poznat kao 'Mali Beč' zbog svoje barokne arhitekture i kulturnog značaja."
+         },
+         {
+            "question":"Koji je grad poznat po Dioklecijanovoj palači?",
+            "answers":[
+               {
+                  "answer":"Split",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Zadar",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Dubrovnik",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Pula",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad je središte Splitsko-dalmatinske županije.",
+            "explanation":"Split je poznat po Dioklecijanovoj palači, izgrađenoj u 4. stoljeću."
+         },
+         {
+            "question":"Koji je grad bio poznat po srednjovjekovnoj trgovačkoj mreži i zidinama?",
+            "answers":[
+               {
+                  "answer":"Dubrovnik",
+                  "correct":true,
+                  "points":5
+               },
+               {
+                  "answer":"Zadar",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Šibenik",
+                  "correct":false,
+                  "points":0
+               },
+               {
+                  "answer":"Split",
+                  "correct":false,
+                  "points":0
+               }
+            ],
+            "hint":"Grad se nalazi na jugu Hrvatske i poznat je po svojoj Republici.",
+            "explanation":"Dubrovnik je poznat po svojoj srednjovjekovnoj trgovačkoj mreži i obrambenim zidinama."
+         }
+      ]
+   }
 ]
