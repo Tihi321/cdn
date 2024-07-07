@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cdn": "cpy assets/api/ public && cpy assets/images/ public && cpy assets/music/ public && cpy assets/books/ public",
+    "cdn": "cpy assets/api/ public && cpy assets/images/ public && cpy assets/music/ public && cpy assets/sfx/ public && cpy assets/books/ public",
     "netlify": "cpy netlify.toml public",
     "generate": "ts-node src/index.ts",
     "index": "cpy index.html public",
