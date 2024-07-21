@@ -1,6 +1,6 @@
 [
   {
-    "topic": "Povijest (Dolazak hrvata|Hrvatska u doba kraljeva|Hrvatska u doba knezova|Rimske provinsije u hrvatskoj)",
+    "topic": "Povijest",
     "difficulty": "Normal",
     "questions": [
       {
@@ -215,7 +215,7 @@
     ]
   },
   {
-    "topic": "Posvijest (Pacta conventa|Hrvatsko Ugarska nagodba|Vazne bitke poput Sigeta|Pobuna Zrinsko Frankopaskih|Hrvatski narodni preporod)",
+    "topic": "Povijest",
     "difficulty": "Normal",
     "questions": [
       {
@@ -438,7 +438,7 @@
     ]
   },
   {
-    "topic": "Povijest (Bascanska ploca|Zapisi poput vinodolskog zakonika)",
+    "topic": "Povijest",
     "difficulty": "Normal",
     "questions": [
       {
@@ -684,7 +684,7 @@
     ]
   },
   {
-    "topic": "Povijest (Povijest Osijeka|Povijest Zagreba|Dubrovacka republika)",
+    "topic": "Povijest",
     "difficulty": "Normal",
     "questions": [
       {
