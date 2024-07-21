@@ -1,13 +1,8 @@
 {
-  "perplexity": [
-    "perplexity/arts",
-    "perplexity/geography",
-    "perplexity/history-of-the-world",
-    "perplexity/movies",
-    "perplexity/pop-culture",
-    "perplexity/science",
-    "perplexity/technology"
-  ],
-  "claude": ["claude/three-body"],
-  "chatgpt": ["chatgpt/povijest-kraljevi-gradovi"]
+  "hrvatski-opceniti": ["hrvatski-opceniti/hrvatska-povijest"],
+  "svjetski-opceniti": [
+    "svjetski-opceniti/geografija",
+    "svjetski-opceniti/umjetnost",
+    "svjetski-opceniti/znanost"
+  ]
 }

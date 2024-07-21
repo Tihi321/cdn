@@ -1,0 +1,2187 @@
+[
+  {
+    "topic": "Znanost",
+    "difficulty": "Normalno",
+    "questions": [
+      {
+        "question": "Koji dio mozga je primarno odgovoran za pamćenje i učenje?",
+        "answers": [
+          {
+            "answer": "Hipokampus",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Mali mozak",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Amigdala",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Talamus",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj dio mozga ima ključnu ulogu u formiranju novih sjećanja.",
+        "explanation": "Hipokampus je ključan za formiranje novih sjećanja i učenje. Oštećenje hipokampusa može dovesti do nemogućnosti stvaranja novih sjećanja."
+      },
+      {
+        "question": "Koji neurotransmiter se često naziva 'hormonom sreće'?",
+        "answers": [
+          {
+            "answer": "Serotonin",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Dopamin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Noradrenalin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "GABA",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj neurotransmiter igra važnu ulogu u regulaciji raspoloženja i osjećaja zadovoljstva.",
+        "explanation": "Serotonin se često naziva 'hormonom sreće' zbog svoje uloge u regulaciji raspoloženja, iako je to pojednostavljeno objašnjenje njegove kompleksne funkcije."
+      },
+      {
+        "question": "Koji poznati eksperiment je pokazao specijalizaciju lijeve i desne hemisfere mozga?",
+        "answers": [
+          {
+            "answer": "Split-brain eksperiment",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Pavlovljev eksperiment",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Milgramov eksperiment",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stanfordski zatvorski eksperiment",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj eksperiment je uključivao pacijente kojima je prekinuta veza između moždanih hemisfera.",
+        "explanation": "Split-brain eksperiment, koji su proveli Roger Sperry i Michael Gazzaniga, pokazao je specijalizaciju hemisfera mozga kod pacijenata s presječenim corpus callosumom."
+      },
+      {
+        "question": "Što označava pojam 'neuroplastičnost'?",
+        "answers": [
+          {
+            "answer": "Sposobnost mozga da se mijenja i reorganizira",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Krutost neuronskih veza",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Elastičnost moždanog tkiva",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Brzina neuronske komunikacije",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj pojam se odnosi na adaptivnu sposobnost mozga.",
+        "explanation": "Neuroplastičnost je sposobnost mozga da se mijenja i reorganizira stvaranjem novih neuronskih veza tijekom života, što je ključno za učenje i oporavak od ozljeda."
+      },
+      {
+        "question": "Koja je nova metoda liječenja pokazala obećavajuće rezultate u liječenju depresije?",
+        "answers": [
+          {
+            "answer": "Transkranijalna magnetska stimulacija (TMS)",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Lobotomija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Elektrokonvulzivna terapija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Akupunktura",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova metoda koristi magnetska polja za stimulaciju određenih područja mozga.",
+        "explanation": "Transkranijalna magnetska stimulacija (TMS) je neinvazivna metoda koja koristi magnetska polja za stimulaciju određenih područja mozga i pokazala je obećavajuće rezultate u liječenju depresije."
+      },
+      {
+        "question": "Koja je funkcija amigdale u mozgu?",
+        "answers": [
+          {
+            "answer": "Obrada emocija i emocionalnih reakcija",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Kontrola motoričkih funkcija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Regulacija tjelesne temperature",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proizvodnja hormona",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova struktura igra ključnu ulogu u našem emocionalnom životu.",
+        "explanation": "Amigdala je ključna za obradu emocija, posebice straha i agresije, te igra važnu ulogu u emocionalnom učenju i pamćenju."
+      },
+      {
+        "question": "Koji neurotransmiter je primarno odgovoran za regulaciju ciklusa spavanja i budnosti?",
+        "answers": [
+          {
+            "answer": "Melatonin",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Adrenalin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Acetilkolin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Glicin",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj hormon se često naziva 'hormonom spavanja'.",
+        "explanation": "Melatonin, koji proizvodi epifiza, ključan je za regulaciju cirkadijanog ritma i ciklusa spavanja i budnosti."
+      },
+      {
+        "question": "Koji je eksperiment pokazao važnost kritičnog perioda u razvoju vida?",
+        "answers": [
+          {
+            "answer": "Eksperiment s mačjim vidom Hubela i Wiesela",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Skinnerov eksperiment s golubovima",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Harlowin eksperiment s majmunima",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Lashleyev eksperiment s labirintima",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj eksperiment je uključivao zatvaranje jednog oka mladim mačkama tijekom razvoja.",
+        "explanation": "Hubel i Wiesel su pokazali da zatvaranje jednog oka mačkama tijekom kritičnog perioda razvoja dovodi do trajnih promjena u vizualnom korteksu, naglašavajući važnost vizualnog iskustva u ranom razvoju."
+      },
+      {
+        "question": "Što je 'dugotrajna potencijacija' (LTP) u kontekstu učenja i pamćenja?",
+        "answers": [
+          {
+            "answer": "Pojačanje sinaptičke veze između neurona",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Smanjenje broja neurona tijekom starenja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Povećanje volumena mozga",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proces stvaranja novih neurona",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces je ključan za formiranje dugotrajnih sjećanja.",
+        "explanation": "Dugotrajna potencijacija (LTP) je proces kojim se pojačavaju sinaptičke veze između neurona, što je temelj za formiranje dugotrajnih sjećanja i učenje."
+      },
+      {
+        "question": "Koja je uloga corpus callosuma u mozgu?",
+        "answers": [
+          {
+            "answer": "Povezivanje lijeve i desne hemisfere mozga",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Kontrola ravnoteže",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Regulacija disanja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Obrada vizualnih informacija",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova struktura omogućuje komunikaciju između dvije polovice mozga.",
+        "explanation": "Corpus callosum je snop živčanih vlakana koji povezuje lijevu i desnu hemisferu mozga, omogućujući koordinaciju i integraciju informacija između njih."
+      },
+      {
+        "question": "Koji neurotransmiter je primarno povezan s osjećajem nagrade i motivacije?",
+        "answers": [
+          {
+            "answer": "Dopamin",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Serotonin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Noradrenalin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Glutamat",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj neurotransmiter igra ključnu ulogu u sustavu nagrade u mozgu.",
+        "explanation": "Dopamin je ključan neurotransmiter u sustavu nagrade mozga, povezan s osjećajem užitka, motivacije i učenja kroz pozitivno potkrepljenje."
+      },
+      {
+        "question": "Koji je glavni simptom Parkinsonove bolesti?",
+        "answers": [
+          {
+            "answer": "Tremor u mirovanju",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Gubitak pamćenja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Halucinacije",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Epileptički napadi",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj simptom se često manifestira kao nevoljno drhtanje ruku ili nogu.",
+        "explanation": "Tremor u mirovanju je karakterističan simptom Parkinsonove bolesti, uzrokovan gubitkom dopaminergičkih neurona u supstanciji nigri."
+      },
+      {
+        "question": "Što je 'neurogeneza' u odraslom mozgu?",
+        "answers": [
+          {
+            "answer": "Stvaranje novih neurona",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Odumiranje starih neurona",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Migracija neurona",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Promjena oblika neurona",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces se dugo smatrao nemogućim u odraslom mozgu.",
+        "explanation": "Neurogeneza je proces stvaranja novih neurona, koji se, suprotno ranijim vjerovanjima, događa i u odraslom mozgu, posebno u hipokampusu i olfaktornom bulbusu."
+      },
+      {
+        "question": "Koja je funkcija malog mozga (cerebelluma)?",
+        "answers": [
+          {
+            "answer": "Koordinacija pokreta i ravnoteža",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Obrada emocija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Regulacija tjelesne temperature",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kontrola govora",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova struktura igra ključnu ulogu u preciznosti naših pokreta.",
+        "explanation": "Mali mozak ili cerebellum je ključan za koordinaciju pokreta, održavanje ravnoteže i motoričko učenje."
+      },
+      {
+        "question": "Koja je uloga prefrontalnog korteksa u mozgu?",
+        "answers": [
+          {
+            "answer": "Izvršne funkcije i donošenje odluka",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Obrada zvučnih informacija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kontrola pokreta očiju",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Regulacija tjelesne temperature",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo područje mozga je ključno za planiranje i kompleksno razmišljanje.",
+        "explanation": "Prefrontalni korteks je odgovoran za izvršne funkcije poput planiranja, donošenja odluka, radne memorije i inhibicije impulsa."
+      },
+      {
+        "question": "Što je 'zrcalni neuron'?",
+        "answers": [
+          {
+            "answer": "Neuron koji se aktivira pri izvođenju i promatranju radnje",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Neuron koji reflektira svjetlost",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Neuron koji prenosi signale u oba smjera",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Neuron koji se dijeli na dvije stanice",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovi neuroni igraju važnu ulogu u učenju imitacijom i empatiji.",
+        "explanation": "Zrcalni neuroni se aktiviraju i kada osoba izvodi radnju i kada promatra drugu osobu kako izvodi istu radnju, što je važno za učenje, empatiju i socijalnu kogniciju."
+      },
+      {
+        "question": "Koja je glavna funkcija hipotalamusa?",
+        "answers": [
+          {
+            "answer": "Regulacija homeostaze i endokrinog sustava",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Obrada vizualnih informacija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Koordinacija pokreta",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Formiranje dugoročnih sjećanja",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova struktura je ključna za održavanje ravnoteže u tijelu.",
+        "explanation": "Hipotalamus regulira mnoge aspekte homeostaze, uključujući tjelesnu temperaturu, glad, žeđ i cirkadijani ritam, te kontrolira endokrini sustav putem hipofize."
+      },
+      {
+        "question": "Što je 'sinaptička plasičnost'?",
+        "answers": [
+          {
+            "answer": "Sposobnost sinapsi da mijenjaju svoju snagu",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Elastičnost sinaptičke membrane",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Brzina sinaptičkog prijenosa",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Veličina sinaptičke pukotine",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen je ključan za učenje i pamćenje.",
+        "explanation": "Sinaptička plasičnost je sposobnost sinapsi da mijenjaju svoju snagu ovisno o aktivnosti, što je temelj učenja i pamćenja na staničnoj razini."
+      },
+      {
+        "question": "Koji je glavni neurotransmiter u autonomnom živčanom sustavu?",
+        "answers": [
+          {
+            "answer": "Acetilkolin",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Dopamin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Serotonin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "GABA",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj neurotransmiter je ključan za funkciju parasimpatičkog živčanog sustava.",
+        "explanation": "Acetilkolin je glavni neurotransmiter u autonomnom živčanom sustavu, posebno važan u parasimpatičkom dijelu i na neuromuskularnim spojevima."
+      }
+    ]
+  },
+  {
+    "topic": "Znanost",
+    "difficulty": "Normalno",
+    "questions": [
+      {
+        "question": "Što opisuje Heisenbergovo načelo neodređenosti?",
+        "answers": [
+          {
+            "answer": "Nemogućnost preciznog mjerenja položaja i impulsa čestice istovremeno",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Brzinu svjetlosti u vakuumu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Odnos mase i energije",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Gravitacijsku konstantu",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo načelo postavlja fundamentalno ograničenje na preciznost mjerenja određenih parova fizikalnih svojstava.",
+        "explanation": "Heisenbergovo načelo neodređenosti tvrdi da nije moguće istovremeno precizno odrediti položaj i impuls čestice, što je temeljno ograničenje u kvantnoj mehanici."
+      },
+      {
+        "question": "Što predstavlja Schrödingerova jednadžba?",
+        "answers": [
+          {
+            "answer": "Temeljnu jednadžbu kvantne mehanike koja opisuje promjenu kvantnog stanja",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Jednadžbu za izračun energije fotona",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Formulu za izračun mase elektrona",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Jednadžbu za određivanje brzine svjetlosti",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova jednadžba je osnova za razumijevanje ponašanja kvantnih sustava.",
+        "explanation": "Schrödingerova jednadžba je temeljna jednadžba kvantne mehanike koja opisuje kako se kvantno stanje sustava mijenja s vremenom."
+      },
+      {
+        "question": "Što je 'kvantno spletanje'?",
+        "answers": [
+          {
+            "answer": "Fenomen gdje su čestice povezane neovisno o udaljenosti",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Proces stvaranja novih čestica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Metoda mjerenja mase kvarkova",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Teorija o postanku svemira",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen Einstein je nazvao 'sablasno djelovanje na daljinu'.",
+        "explanation": "Kvantno spletanje je fenomen u kojem su kvantna stanja dviju ili više čestica međusobno ovisna, čak i kada su čestice prostorno odvojene."
+      },
+      {
+        "question": "Što opisuje 'valna funkcija' u kvantnoj mehanici?",
+        "answers": [
+          {
+            "answer": "Matematički opis kvantnog stanja sustava",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Oblik elektronske orbite",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Putanju čestice u magnetskom polju",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Frekvenciju svjetlosti",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova funkcija sadrži sve moguće informacije o kvantnom sustavu.",
+        "explanation": "Valna funkcija je matematički opis kvantnog stanja sustava koji sadrži sve moguće informacije o sustavu koje se mogu znati."
+      },
+      {
+        "question": "Što je 'kvantni tuneliranje'?",
+        "answers": [
+          {
+            "answer": "Prolazak čestice kroz potencijalnu barijeru",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Stvaranje crnih rupa",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proces fuzije u zvijezdama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Putovanje kroz vrijeme",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen omogućuje česticama da 'prođu' kroz prepreke koje klasično ne bi mogle prijeći.",
+        "explanation": "Kvantno tuneliranje je kvantni fenomen gdje čestica može proći kroz potencijalnu barijeru koju klasično ne bi mogla prijeći, što je važno za mnoge procese u prirodi i tehnologiji."
+      },
+      {
+        "question": "Što je 'superponiran' u misaonom eksperimentu Schrödingerove mačke?",
+        "answers": [
+          {
+            "answer": "Stanje mačke (živa i mrtva istovremeno)",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Boja mačke",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Veličina kutije",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vrsta otrova",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj eksperiment ilustrira paradoks kvantne superpozicije na makroskopskoj razini.",
+        "explanation": "U misaonom eksperimentu Schrödingerove mačke, stanje mačke (živa ili mrtva) je superponirano, ilustrirajući kako kvantna superpozicija može dovesti do paradoksalnih situacija kada se primijeni na makroskopske objekte."
+      },
+      {
+        "question": "Koja je osnovna ideja Bohrovog modela atoma?",
+        "answers": [
+          {
+            "answer": "Elektroni kruže oko jezgre u diskretnim orbitama",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Atomi su nedjeljive čestice",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Elektroni su valovi, ne čestice",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Protoni se mogu pretvoriti u neutrone",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj model je uveo koncept kvantiziranih energetskih razina.",
+        "explanation": "Bohrov model atoma pretpostavlja da elektroni kruže oko jezgre u diskretnim orbitama s određenim energetskim razinama, što je bio važan korak prema razumijevanju kvantne prirode atoma."
+      },
+      {
+        "question": "Što je 'kvantna teleportacija'?",
+        "answers": [
+          {
+            "answer": "Prijenos kvantnog stanja na daljinu",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Trenutno putovanje čestica kroz svemir",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stvaranje identičnih kopija kvantnih čestica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Pretvaranje materije u energiju",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces koristi kvantno spletanje za prijenos informacija.",
+        "explanation": "Kvantna teleportacija je proces kojim se kvantno stanje može prenijeti s jedne lokacije na drugu korištenjem kvantnog spletanja i klasične komunikacije, bez fizičkog prijenosa samih čestica."
+      },
+      {
+        "question": "Koji je glavni princip Paulijevog načela isključenja?",
+        "answers": [
+          {
+            "answer": "Dva fermiona ne mogu zauzimati isto kvantno stanje",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Svi elektroni imaju istu energiju",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Protoni i neutroni su identični čestice",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Atomi ne mogu dijeliti elektrone",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo načelo je ključno za razumijevanje elektronske konfiguracije atoma.",
+        "explanation": "Paulijevo načelo isključenja kaže da dva fermiona (npr. elektrona) ne mogu zauzimati isto kvantno stanje unutar kvantnog sustava, što je ključno za razumijevanje strukture atoma i materije."
+      },
+      {
+        "question": "Što je 'kvantna superpozicija'?",
+        "answers": [
+          {
+            "answer": "Stanje u kojem čestica može biti u više stanja istovremeno",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Preklapanje dva atoma",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stapanje dva fotona",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stvaranje antimaterije",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj koncept je ključan za razumijevanje kvantnih računala.",
+        "explanation": "Kvantna superpozicija je stanje u kojem kvantni sustav može postojati u više različitih stanja istovremeno, što je temelj za mnoge kvantne fenomene i primjene poput kvantnog računarstva."
+      },
+      {
+        "question": "Što je 'kvantna dekoherencija'?",
+        "answers": [
+          {
+            "answer": "Gubitak kvantnih svojstava zbog interakcije s okolinom",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Stvaranje novih kvantnih čestica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proces hlađenja atoma do apsolutne nule",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Spajanje dva kvantna sustava",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen objašnjava zašto ne vidimo kvantne efekte u svakodnevnom životu.",
+        "explanation": "Kvantna dekoherencija je proces kojim kvantni sustavi gube svoja kvantna svojstva zbog interakcije s okolinom, što objašnjava prijelaz iz kvantnog u klasični svijet."
+      },
+      {
+        "question": "Što je 'kvantna kriptografija'?",
+        "answers": [
+          {
+            "answer": "Metoda šifriranja koja koristi kvantna svojstva za sigurnu komunikaciju",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Način skrivanja informacija u atomima",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tehnika za čitanje misli pomoću kvantnih senzora",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Metoda za predviđanje budućnosti koristeći kvantnu neodređenost",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tehnologija obećava apsolutno sigurnu komunikaciju.",
+        "explanation": "Kvantna kriptografija je metoda šifriranja koja koristi kvantna svojstva, poput kvantnog spletanja i načela neodređenosti, za postizanje teoretski neprobojne sigurnosti u komunikaciji."
+      },
+      {
+        "question": "Što je 'kvantni bit' ili 'qubit'?",
+        "answers": [
+          {
+            "answer": "Osnovna jedinica informacije u kvantnom računarstvu",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Najmanja moguća čestica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Jedinica za mjerenje kvantne energije",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vrsta kvantnog mikroskopa",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo je kvantni ekvivalent klasičnog bita.",
+        "explanation": "Qubit je osnovna jedinica informacije u kvantnom računarstvu, analogna bitu u klasičnom računarstvu, ali može postojati u superpoziciji stanja 0 i 1."
+      },
+      {
+        "question": "Koji je glavni princip Kopenhagenske interpretacije kvantne mehanike?",
+        "answers": [
+          {
+            "answer": "Valna funkcija kolabira pri mjerenju",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Sve čestice su određene u svakom trenutku",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Postoje beskonačno mnogi paralelni svemiri",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vrijeme teče unatrag na kvantnoj razini",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova interpretacija naglašava ulogu promatrača u kvantnim mjerenjima.",
+        "explanation": "Kopenhagenska interpretacija tvrdi da valna funkcija kolabira pri mjerenju, pretvarajući kvantnu superpoziciju u jedno određeno stanje, naglašavajući ulogu promatrača u kvantnoj mehanici."
+      },
+      {
+        "question": "Što je 'kvantni efekt tuneliranja'?",
+        "answers": [
+          {
+            "answer": "Prolazak čestice kroz energetsku barijeru",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Stvaranje tunela kroz prostor-vrijeme",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Povezivanje udaljenih galaksija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kopanje tunela kroz planete",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj efekt omogućuje česticama da 'prođu' kroz prepreke koje klasično ne bi mogle prijeći.",
+        "explanation": "Kvantni efekt tuneliranja omogućuje česticama da prođu kroz energetske barijere koje klasično ne bi mogle prijeći, što je važno za mnoge procese u prirodi i tehnologiji."
+      },
+      {
+        "question": "Što je 'kvantna točka'?",
+        "answers": [
+          {
+            "answer": "Nanostruktura koja ograničava kretanje elektrona u tri dimenzije",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Najmanja moguća točka u prostoru",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Mjesto gdje se susreću paralelni svemiri",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Točka u kojoj prestaju vrijediti kvantni zakoni",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ove strukture se često nazivaju 'umjetnim atomima'.",
+        "explanation": "Kvantne točke su nanostrukture koje ograničavaju kretanje elektrona u sve tri prostorne dimenzije, stvarajući diskretne energetske razine slične onima u atomima."
+      },
+      {
+        "question": "Što je 'kvantni Zeno efekt'?",
+        "answers": [
+          {
+            "answer": "Usporavanje kvantnog sustava čestim mjerenjima",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Ubrzanje kvantnih čestica do brzine svjetlosti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stvaranje beskonačno male crne rupe",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Zaustavljanje vremena na kvantnoj razini",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj efekt je nazvan po grčkom filozofu poznatom po paradoksima o kretanju.",
+        "explanation": "Kvantni Zeno efekt je fenomen u kojem česta opažanja kvantnog sustava usporavaju određene kvantne prijelaze, što je analogno Zenonovom paradoksu o nemogućnosti kretanja."
+      },
+      {
+        "question": "Koja je glavna ideja iza 'kvantne termodinamike'?",
+        "answers": [
+          {
+            "answer": "Primjena termodinamičkih principa na kvantne sustave",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Korištenje topline za stvaranje kvantnih čestica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hlađenje svemira do apsolutne nule",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Pretvaranje topline u kvantnu informaciju",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo područje istražuje kako se termodinamički zakoni primjenjuju na kvantnoj razini.",
+        "explanation": "Kvantna termodinamika proučava kako se termodinamički principi primjenjuju na kvantne sustave, istražujući koncepte poput entropije i topline na kvantnoj razini."
+      },
+      {
+        "question": "Što je 'kvantna gravitacija'?",
+        "answers": [
+          {
+            "answer": "Teorija koja pokušava ujediniti kvantnu mehaniku i opću teoriju relativnosti",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Gravitacija između pojedinačnih atoma",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Antigravitacijski efekt kvantnih čestica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Teorija o nastanku crnih rupa",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo je jedno od najvećih otvorenih pitanja u suvremenoj fizici.",
+        "explanation": "Kvantna gravitacija je teoretsko područje koje nastoji ujediniti principe kvantne mehanike s Einsteinovom općom teorijom relativnosti, tražeći kvantnu teoriju gravitacije."
+      },
+      {
+        "question": "Što je 'kvantno ispreplitanje'?",
+        "answers": [
+          {
+            "answer": "Fenomen gdje su čestice povezane neovisno o udaljenosti",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Miješanje različitih vrsta kvantnih čestica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proces stvaranja antimaterije",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Način komunikacije između paralelnih svemira",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Einstein je ovaj fenomen nazvao 'sablasno djelovanje na daljinu'.",
+        "explanation": "Kvantno ispreplitanje je fenomen u kojem su kvantna stanja dvije ili više čestica međusobno ovisna, čak i kada su čestice prostorno odvojene na velike udaljenosti."
+      }
+    ]
+  },
+  {
+    "topic": "Znanost",
+    "difficulty": "Normalno",
+    "questions": [
+      {
+        "question": "Što je DNA?",
+        "answers": [
+          {
+            "answer": "Molekula koja sadrži genetske upute za razvoj i funkcioniranje živih organizama",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Protein koji regulira stanični metabolizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hormon koji kontrolira rast",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Enzim koji razgrađuje masti",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova molekula ima oblik dvostruke uzvojnice.",
+        "explanation": "DNA (deoksiribonukleinska kiselina) je molekula koja sadrži genetske upute potrebne za razvoj, funkcioniranje i reprodukciju svih poznatih živih organizama i mnogih virusa."
+      },
+      {
+        "question": "Što je gen?",
+        "answers": [
+          {
+            "answer": "Osnovna jedinica nasljeđivanja koja se sastoji od sekvence DNA",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Protein koji kontrolira stanični ciklus",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dio stanice gdje se odvija transkripcija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Molekula koja prenosi energiju u stanici",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova jedinica sadrži upute za stvaranje specifičnih proteina.",
+        "explanation": "Gen je osnovna jedinica nasljeđivanja u živim organizmima. To je segment DNA koji sadrži informacije potrebne za stvaranje funkcionalnog produkta, obično proteina."
+      },
+      {
+        "question": "Što je RNA?",
+        "answers": [
+          {
+            "answer": "Molekula slična DNA koja sudjeluje u sintezi proteina",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Enzim koji kopira DNA",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hormon koji regulira rast stanica",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Protein koji popravlja oštećenu DNA",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova molekula je obično jednolančana, za razliku od DNA.",
+        "explanation": "RNA (ribonukleinska kiselina) je molekula slična DNA, ali obično jednolančana. Ima ključnu ulogu u sintezi proteina i regulaciji gena."
+      },
+      {
+        "question": "Što je genom?",
+        "answers": [
+          {
+            "answer": "Cjelokupni genetski materijal organizma",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Skup svih proteina u stanici",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Organ koji proizvodi hormone",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dio stanice gdje se odvija sinteza proteina",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj pojam obuhvaća sve gene i ne-kodirajuće sekvence DNA organizma.",
+
+        "explanation": "Genom je cjelokupni genetski materijal organizma, koji uključuje sve gene i ne-kodirajuće sekvence DNA. To je kompletni set genetskih uputa potrebnih za razvoj i funkcioniranje organizma."
+      },
+      {
+        "question": "Što je CRISPR tehnologija?",
+        "answers": [
+          {
+            "answer": "Metoda za precizno uređivanje gena",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Tehnika za kloniranje organizama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Metoda za sekvenciranje DNA",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Način proizvodnje sintetičkih proteina",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tehnologija koristi enzim Cas9 za precizno rezanje DNA.",
+        "explanation": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) je revolucionarna tehnologija za precizno uređivanje gena, koja omogućuje znanstvenicima da modificiraju DNA sekvence s velikom preciznošću."
+      },
+      {
+        "question": "Što je epigenetika?",
+        "answers": [
+          {
+            "answer": "Proučavanje nasljednih promjena u ekspresiji gena koje ne uključuju promjene u DNA sekvenci",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Proučavanje mutacija u DNA",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Analiza evolucije gena kroz vrijeme",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Istraživanje interakcija između različitih vrsta",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo područje istražuje kako okolišni faktori mogu utjecati na ekspresiju gena.",
+        "explanation": "Epigenetika proučava nasljedne promjene u funkciji gena koje se događaju bez promjena u DNA sekvenci. Ove promjene mogu biti uzrokovane okolišnim faktorima i mogu se prenositi na sljedeće generacije."
+      },
+      {
+        "question": "Što je replikacija DNA?",
+        "answers": [
+          {
+            "answer": "Proces stvaranja identične kopije DNA molekule",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Spajanje DNA i RNA molekula",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Razgradnja DNA molekule",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Pretvaranje DNA u proteine",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces je ključan za dijeljenje stanica i prenošenje genetske informacije.",
+        "explanation": "Replikacija DNA je proces u kojem se DNA molekula udvostručuje, stvarajući dvije identične kopije. To je ključno za dijeljenje stanica i prenošenje genetske informacije na stanice kćeri."
+      },
+      {
+        "question": "Što je transkripcija u genetici?",
+        "answers": [
+          {
+            "answer": "Proces stvaranja RNA kopije gena",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Premještanje gena unutar kromosoma",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Spajanje dva različita gena",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Uklanjanje gena iz DNA",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces je prvi korak u ekspresiji gena.",
+        "explanation": "Transkripcija je proces u kojem se informacija iz DNA kopira u RNA. To je prvi korak u ekspresiji gena, gdje se genetska informacija 'prepisuje' u oblik koji se može koristiti za sintezu proteina."
+      },
+      {
+        "question": "Što je translacija u genetici?",
+        "answers": [
+          {
+            "answer": "Proces sinteze proteina prema uputama mRNA",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Premještanje DNA iz jezgre u citoplazmu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Prevođenje genetskog koda iz jednog jezika u drugi",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Prenos genetskog materijala između različitih vrsta",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces se odvija na ribosomima.",
+        "explanation": "Translacija je proces u kojem se genetska informacija sadržana u mRNA koristi za sintezu proteina. To je završni korak u ekspresiji gena, gdje se 'jezik' nukleinskih kiselina prevodi u 'jezik' proteina."
+      },
+      {
+        "question": "Što je genetski inženjering?",
+        "answers": [
+          {
+            "answer": "Manipulacija genima ili DNA organizma kako bi se dobila željena svojstva",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Proučavanje nasljednih bolesti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kloniranje cijelih organizama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stvaranje sintetičkih kromosoma",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tehnologija se koristi za stvaranje GMO-a.",
+        "explanation": "Genetski inženjering je skup tehnika koje se koriste za manipulaciju genima ili DNA organizma kako bi se dobila željena svojstva. To uključuje dodavanje, uklanjanje ili mijenjanje specifičnih gena."
+      },
+      {
+        "question": "Što je PCR (lančana reakcija polimeraze)?",
+        "answers": [
+          {
+            "answer": "Metoda za brzo umnožavanje specifičnih DNA sekvenci",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Tehnika za spajanje različitih DNA molekula",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proces razgradnje DNA",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Metoda za određivanje strukture proteina",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova metoda se često koristi u forenzici i dijagnostici.",
+        "explanation": "PCR (Polymerase Chain Reaction) je laboratorijska tehnika koja se koristi za brzo umnožavanje specifičnih DNA sekvenci. Ova metoda je revolucionirala molekularnu biologiju i ima široku primjenu u medicini, forenzici i genetskim istraživanjima."
+      },
+      {
+        "question": "Što je genomsko sekvenciranje?",
+        "answers": [
+          {
+            "answer": "Određivanje potpunog DNA slijeda organizma",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Brojanje kromosoma u stanici",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Analiza proteinskog sastava stanice",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Mjerenje brzine mutacija u genomu",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces daje potpuni 'nacrt' genetskog materijala organizma.",
+        "explanation": "Genomsko sekvenciranje je proces određivanja potpunog DNA slijeda genoma organizma. Ovo omogućuje znanstvenicima da identificiraju i mapiraju sve gene unutar genoma."
+      },
+      {
+        "question": "Što je genetski polimorfizam?",
+        "answers": [
+          {
+            "answer": "Postojanje višestrukih alela gena u populaciji",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Proces stvaranja novih gena",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Promjena oblika kromosoma",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Gubitak genetskog materijala",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen doprinosi genetskoj raznolikosti u populaciji.",
+        "explanation": "Genetski polimorfizam je postojanje više od jednog alela (varijante) gena na istom lokusu u populaciji. To je važan izvor genetske varijabilnosti i ključno je za evoluciju i adaptaciju."
+      },
+      {
+        "question": "Što je genetska rekombinacija?",
+        "answers": [
+          {
+            "answer": "Razmjena genetskog materijala između kromosoma",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Stvaranje identičnih kopija gena",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Popravak oštećene DNA",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Uklanjanje štetnih mutacija",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj proces se događa tijekom mejoze i doprinosi genetskoj raznolikosti.",
+        "explanation": "Genetska rekombinacija je proces razmjene genetskog materijala između kromosoma, najčešće tijekom mejoze. To stvara nove kombinacije alela i doprinosi genetskoj raznolikosti potomstva."
+      },
+      {
+        "question": "Što je epigenetska modifikacija?",
+        "answers": [
+          {
+            "answer": "Promjene u ekspresiji gena koje ne uključuju promjene u DNA sekvenci",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Promjene u strukturi DNA molekule",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stvaranje novih gena",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Uklanjanje nepotrebnih gena iz genoma",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ove modifikacije mogu uključivati metilaciju DNA ili modifikacije histona.",
+        "explanation": "Epigenetske modifikacije su promjene u ekspresiji gena koje ne uključuju promjene u DNA sekvenci. One mogu uključivati metilaciju DNA, modifikacije histona i druge mehanizme koji utječu na to kako se geni čitaju i eksprimiraju."
+      },
+      {
+        "question": "Što je farmakogenomika?",
+        "answers": [
+          {
+            "answer": "Proučavanje kako genetske varijacije utječu na odgovor na lijekove",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Stvaranje lijekova pomoću genetskog inženjeringa",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Liječenje genetskih bolesti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Analiza genetskog sastava farmaceutskih tvrtki",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo područje ima za cilj personalizirati medicinske tretmane.",
+        "explanation": "Farmakogenomika je studija o tome kako genetske varijacije utječu na individualni odgovor na lijekove. Cilj je optimizirati izbor lijekova i doziranje na temelju genetskog profila pacijenta, vodeći prema personaliziranoj medicini."
+      },
+      {
+        "question": "Što je genetski mozaicizam?",
+        "answers": [
+          {
+            "answer": "Pojava različitih genetskih sastava u različitim stanicama ili tkivima istog organizma",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Nasumično raspoređivanje gena u genomu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stvaranje umjetnih genoma",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proces kojim se geni aktiviraju i deaktiviraju",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen može rezultirati različitim genetskim sastavom u različitim dijelovima tijela.",
+        "explanation": "Genetski mozaicizam je pojava gdje pojedinac ima dvije ili više populacije stanica s različitim genotipovima. To može biti rezultat mutacija koje se događaju nakon začeća i može dovesti do različitih genetskih sastava u različitim tkivima ili organima istog organizma."
+      },
+      {
+        "question": "Što je genetski drift?",
+        "answers": [
+          {
+            "answer": "Slučajna promjena u učestalosti alela u populaciji",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Namjerno mijenjanje gena u laboratoriju",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kretanje gena između različitih vrsta",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Evolucija novih gena",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen je posebno izražen u malim populacijama.",
+        "explanation": "Genetski drift je slučajna promjena u učestalosti alela u populaciji, posebno izražena u malim populacijama. To je jedan od mehanizama evolucije, koji može dovesti do gubitka genetske raznolikosti ili fiksacije određenih alela bez obzira na njihovu adaptivnu vrijednost."
+      },
+      {
+        "question": "Što je genomska medicina?",
+        "answers": [
+          {
+            "answer": "Primjena genomskih informacija u dijagnostici i liječenju bolesti",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Liječenje bolesti mijenjanjem genoma pacijenta",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stvaranje lijekova pomoću genetski modificiranih organizama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proučavanje evolucije ljudskog genoma",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo područje koristi informacije iz cijelog genoma za personalizirani pristup zdravlju.",
+        "explanation": "Genomska medicina je područje koje koristi genomske informacije pojedinca za dijagnostiku, prevenciju i liječenje bolesti. Ona omogućuje personalizirani pristup zdravstvenoj skrbi baziran na jedinstvenom genetskom profilu svake osobe."
+      },
+      {
+        "question": "Što je genetska predispozicija?",
+        "answers": [
+          {
+            "answer": "Povećana vjerojatnost razvoja određene bolesti zbog genetskih faktora",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Naslijeđena otpornost na bolesti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sposobnost gena da mutira",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tendencija gena da se prenose na sljedeću generaciju",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj koncept ne znači da će osoba sigurno razviti bolest, već da ima povećan rizik.",
+        "explanation": "Genetska predispozicija se odnosi na povećanu vjerojatnost razvoja određene bolesti ili stanja zbog prisutnosti specifičnih genetskih varijanti. Međutim, to ne znači da će osoba sigurno razviti bolest, jer često i okolišni faktori igraju važnu ulogu."
+      },
+      {
+        "question": "Što je genetska terapija?",
+        "answers": [
+          {
+            "answer": "Liječenje ili prevencija bolesti unošenjem genetskog materijala u stanice pacijenta",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Liječenje bolesti pomoću genetski modificiranih lijekova",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Uklanjanje štetnih gena iz ljudskog genoma",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Terapija koja koristi genetski modificirane organizme",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova metoda pokušava ispraviti genetske pogreške koje uzrokuju bolesti.",
+        "explanation": "Genetska terapija je eksperimentalna tehnika koja koristi gene za liječenje ili prevenciju bolesti. Uključuje unošenje genetskog materijala u stanice pacijenta kako bi se ispravio genetski defekt ili dodala nova funkcija stanicama."
+      }
+    ]
+  },
+  {
+    "topic": "Znanost",
+    "difficulty": "Normalno",
+    "questions": [
+      {
+        "question": "Što je efekt staklenika?",
+        "answers": [
+          {
+            "answer": "Zagrijavanje Zemljine površine i atmosfere zbog zadržavanja toplinske energije",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Hlađenje Zemljine površine zbog odbijanja sunčeve svjetlosti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Proces stvaranja oblaka u atmosferi",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kruženje vode u atmosferi",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj efekt je ključan za održavanje temperature na Zemlji pogodne za život.",
+        "explanation": "Efekt staklenika je proces kojim atmosfera Zemlje zadržava toplinu koja dolazi od Sunca. Staklenički plinovi poput CO2 i vodene pare apsorbiraju i emitiraju infracrveno zračenje, zagrijavajući površinu Zemlje i donju atmosferu."
+      },
+      {
+        "question": "Što je El Niño?",
+        "answers": [
+          {
+            "answer": "Klimatski fenomen karakteriziran zagrijavanjem površine istočnog Pacifika",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Snažan vjetar koji puše u Andama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Periodično hlađenje Atlantskog oceana",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sezonski monsun u jugoistočnoj Aziji",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen može uzrokovati značajne promjene u obrascima vremena diljem svijeta.",
+        "explanation": "El Niño je klimatski fenomen karakteriziran neuobičajenim zagrijavanjem površinskih voda u istočnom tropskom Pacifiku. Može uzrokovati značajne promjene u obrascima vremena diljem svijeta, uključujući suše, poplave i ekstremne temperature."
+      },
+      {
+        "question": "Što je atmosferski tlak?",
+        "answers": [
+          {
+            "answer": "Težina stupca zraka iznad određene točke na Zemljinoj površini",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Količina vlage u zraku",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Brzina vjetra na velikim visinama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Temperatura zraka na razini mora",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj parametar se mjeri barometrom.",
+        "explanation": "Atmosferski tlak je težina stupca zraka koji se proteže od površine Zemlje do vrha atmosfere. Varijacije u atmosferskom tlaku su ključne za predviđanje vremena i formiranje vremenskih sustava."
+      },
+      {
+        "question": "Što je jet stream?",
+        "answers": [
+          {
+            "answer": "Snažna zračna struja u višim slojevima atmosfere",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Podzemni tok vode",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Morska struja u Atlantskom oceanu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vrsta oblaka na velikim visinama",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ove struje imaju značajan utjecaj na kretanje vremenskih sustava.",
+        "explanation": "Jet stream je snažna, uska zračna struja koja se kreće na velikim visinama u atmosferi, obično na granici između troposfere i stratosfere. Ove struje imaju značajan utjecaj na vremenske obrasce i kretanje vremenskih sustava."
+      },
+      {
+        "question": "Što je ciklon?",
+        "answers": [
+          {
+            "answer": "Područje niskog atmosferskog tlaka oko kojeg kruže vjetrovi",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vrsta tornada",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Snažan vjetar u pustinjama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Oluja s grmljavinom",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovi sustavi često donose oblačno i kišovito vrijeme.",
+        "explanation": "Ciklon je područje niskog atmosferskog tlaka oko kojeg vjetrovi kruže u smjeru suprotnom od kazaljke na satu na sjevernoj hemisferi (u smjeru kazaljke na satu na južnoj). Cikloni su često povezani s oblačnim i kišovitim vremenom."
+      },
+      {
+        "question": "Što je albedo?",
+        "answers": [
+          {
+            "answer": "Mjera reflektivnosti površine",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vrsta vjetra u polarnim regijama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Metoda mjerenja temperature mora",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Instrument za mjerenje vlažnosti zraka",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj parametar igra važnu ulogu u Zemljinom energetskom balansu.",
+        "explanation": "Albedo je mjera reflektivnosti površine, izražena kao omjer reflektiranog i primljenog zračenja. Visok albedo znači da površina reflektira većinu dolaznog sunčevog zračenja, što ima značajan utjecaj na klimu i temperaturu površine."
+      },
+      {
+        "question": "Što je La Niña?",
+        "answers": [
+          {
+            "answer": "Klimatski fenomen karakteriziran hlađenjem površine istočnog Pacifika",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vruć vjetar u Sahari",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Razdoblje intenzivnih uragana u Atlantiku",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ledeno doba u geološkoj povijesti",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen je suprotan El Niñu.",
+        "explanation": "La Niña je klimatski fenomen karakteriziran neuobičajenim hlađenjem površinskih voda u istočnom tropskom Pacifiku. To je suprotno od El Niña i može uzrokovati značajne promjene u globalnim vremenskim obrascima."
+      },
+      {
+        "question": "Što je troposfera?",
+        "answers": [
+          {
+            "answer": "Najniži sloj Zemljine atmosfere",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Sloj atmosfere s najviše ozona",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Područje između dva klimatska pojasa",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sloj Zemljine kore ispod oceana",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "U ovom sloju se odvija većina vremenskih pojava.",
+        "explanation": "Troposfera je najniži sloj Zemljine atmosfere, koji se proteže od površine Zemlje do visine od oko 10-15 km. U ovom sloju se odvija većina vremenskih pojava i nalazi se gotovo sva vodena para atmosfere."
+      },
+      {
+        "question": "Što je monsun?",
+        "answers": [
+          {
+            "answer": "Sezonski vjetar koji mijenja smjer",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vrsta tropske oluje",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Period suše u tropskim područjima",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Snažna morska struja",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovi vjetrovi su posebno izraženi u južnoj Aziji.",
+        "explanation": "Monsun je sezonski vjetar koji mijenja smjer između ljeta i zime. Najpoznatiji su azijski monsuni koji donose obilne kiše tijekom ljetnih mjeseci i suho vrijeme zimi, značajno utječući na klimu i poljoprivredu u regiji."
+      },
+      {
+        "question": "Što je ozonski omotač?",
+        "answers": [
+          {
+            "answer": "Sloj atmosfere bogat ozonom koji štiti Zemlju od UV zračenja",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Sloj leda na polovima",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Magla koja se formira iznad oceana",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sloj prašine u atmosferi",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj sloj je ključan za zaštitu života na Zemlji od štetnog zračenja.",
+        "explanation": "Ozonski omotač je sloj u stratosferi bogat ozonom (O3) koji apsorbira većinu štetnog ultraljubičastog (UV) zračenja Sunca. Ovaj sloj je ključan za zaštitu života na Zemlji od štetnih učinaka UV zračenja."
+      },
+      {
+        "question": "Što je globalno zatopljenje?",
+        "answers": [
+          {
+            "answer": "Dugoročno povećanje prosječne temperature Zemljine atmosfere i oceana",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Kratkoročno zagrijavanje uzrokovano vulkanskim erupcijama",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Prirodni ciklus zagrijavanja i hlađenja Zemlje",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Zagrijavanje samo polarnih regija",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen je uglavnom uzrokovan ljudskim aktivnostima koje povećavaju koncentraciju stakleničkih plinova.",
+        "explanation": "Globalno zatopljenje je dugoročno povećanje prosječne temperature Zemljine atmosfere i oceana, prvenstveno uzrokovano ljudskim aktivnostima koje povećavaju emisije stakleničkih plinova. Ovo dovodi do klimatskih promjena i ima značajne posljedice na ekosustave i ljudsko društvo."
+      },
+      {
+        "question": "Što je tornado?",
+        "answers": [
+          {
+            "answer": "Snažno rotirajući stupac zraka koji se proteže od olujnog oblaka do tla",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Snažan vjetar koji puše s planina",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Velika oluja na moru",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Pješčana oluja u pustinji",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovi fenomeni su najčešći u 'Tornado Alley' u SAD-u.",
+        "explanation": "Tornado je snažno rotirajući stupac zraka koji se proteže od olujnog oblaka (obično kumulonimbusa) do tla. Tornadi su poznati po svojoj razornoj snazi i mogu uzrokovati značajnu štetu u kratkom vremenu."
+      },
+      {
+        "question": "Što je Coriolisov efekt?",
+        "answers": [
+          {
+            "answer": "Prividno skretanje objekata u pokretu zbog Zemljine rotacije",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Zagrijavanje atmosfere zbog trenja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Efekt koji uzrokuje plime i oseke",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Promjena boje neba tijekom zalaska sunca",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj efekt ima značajan utjecaj na kretanje vjetrova i oceanskih struja.",
+        "explanation": "Coriolisov efekt je prividno skretanje objekata u pokretu zbog Zemljine rotacije. Ovaj efekt uzrokuje skretanje vjetrova udesno na sjevernoj hemisferi i ulijevo na južnoj hemisferi, što značajno utječe na globalne vremenske obrasce i oceansku cirkulaciju."
+      },
+      {
+        "question": "Što je stratosfera?",
+        "answers": [
+          {
+            "answer": "Drugi glavni sloj Zemljine atmosfere, iznad troposfere",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Sloj atmosfere najbliži Zemljinoj površini",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Područje gdje se formiraju oblaci",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sloj atmosfere s najviše vodene pare",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj sloj sadrži ozonski omotač.",
+        "explanation": "Stratosfera je drugi glavni sloj Zemljine atmosfere, koji se nalazi iznad troposfere i proteže se od oko 10-50 km nadmorske visine. Ovaj sloj sadrži ozonski omotač i karakterizira ga povećanje temperature s visinom."
+      },
+      {
+        "question": "Što je atmosferska rijeka?",
+        "answers": [
+          {
+            "answer": "Uski pojas atmosfere koji prenosi veliku količinu vodene pare",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Rijeka koja teče iznad oblaka",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tok zraka u stratosferi",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kretanje ledenjaka u atmosferi",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovi fenomeni mogu uzrokovati obilne kiše i poplave kada dođu do kopna.",
+        "explanation": "Atmosferska rijeka je uski pojas atmosfere koji prenosi veliku količinu vodene pare iz tropskih područja prema polovima. Kada ove 'rijeke' dođu do kopna, mogu uzrokovati obilne kiše i poplave, igrajući važnu ulogu u globalnom vodenom ciklusu."
+      },
+      {
+        "question": "Što je meteorološki satelit?",
+        "answers": [
+          {
+            "answer": "Satelit koji prati vremenske uvjete i klimatske promjene",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Satelit koji prenosi televizijski signal",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Umjetni mjesec koji kruži oko Zemlje",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Satelit koji mjeri gravitaciju Zemlje",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovi sateliti pružaju ključne podatke za vremenske prognoze.",
+        "explanation": "Meteorološki sateliti su umjetni sateliti dizajnirani za praćenje vremenskih uvjeta i klimatskih promjena na Zemlji. Oni pružaju vitalne podatke za vremenske prognoze, uključujući slike oblaka, temperature površine, vlažnost i mnoge druge atmosferske parametre."
+      },
+      {
+        "question": "Što je klimatski model?",
+        "answers": [
+          {
+            "answer": "Računalni program koji simulira klimatski sustav Zemlje",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Fizički model Zemlje korišten u laboratorijima",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Teorija o nastanku klime",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Statistička analiza prošlih klimatskih podataka",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovi modeli se koriste za predviđanje budućih klimatskih promjena.",
+        "explanation": "Klimatski model je složeni računalni program koji koristi matematičke jednadžbe za simulaciju klimatskog sustava Zemlje, uključujući atmosferu, oceane, kopno i led. Ovi modeli se koriste za razumijevanje trenutne klime i predviđanje budućih klimatskih promjena."
+      },
+      {
+        "question": "Što je El Niño Southern Oscillation (ENSO)?",
+        "answers": [
+          {
+            "answer": "Ciklički obrazac klimatskih varijacija u tropskom Pacifiku",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vrsta tropskog ciklona u Atlantskom oceanu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Metoda predviđanja vremena",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vrsta vjetra u Andama",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen uključuje El Niño i La Niña faze.",
+        "explanation": "El Niño Southern Oscillation (ENSO) je ciklički obrazac klimatskih varijacija u tropskom Pacifiku koji uključuje El Niño (zagrijavanje) i La Niña (hlađenje) faze. ENSO ima značajan utjecaj na globalne vremenske obrasce i može uzrokovati ekstremne vremenske događaje diljem svijeta."
+      },
+      {
+        "question": "Što je urbani toplinski otok?",
+        "answers": [
+          {
+            "answer": "Područje grada koje je značajno toplije od okolnih ruralnih područja",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Umjetni otok izgrađen u urbanom području",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Topla struja zraka iznad grada",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Područje grada s najviše sunčeve svjetlosti",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen je posljedica urbanizacije i ljudskih aktivnosti.",
+        "explanation": "Urbani toplinski otok je fenomen gdje je urbano područje značajno toplije od okolnih ruralnih područja zbog ljudskih aktivnosti i urbanizacije. Faktori koji doprinose ovom efektu uključuju tamne površine koje apsorbiraju toplinu, smanjenu vegetaciju, zgrade koje blokiraju vjetar i ispuštanje topline iz zgrada i vozila."
+      },
+      {
+        "question": "Što je atmosferska inverzija?",
+        "answers": [
+          {
+            "answer": "Stanje u atmosferi gdje temperatura raste s visinom umjesto da pada",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Obrtanje smjera vjetra",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Promjena boje neba tijekom zalaska sunca",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Naglo snižavanje temperature",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj fenomen može uzrokovati zadržavanje zagađenja blizu površine Zemlje.",
+        "explanation": "Atmosferska inverzija je stanje u atmosferi gdje temperatura raste s visinom umjesto da pada, što je suprotno od normalnog stanja. Ovo može uzrokovati zadržavanje zagađenja i magle blizu površine Zemlje, jer topli zrak iznad sprječava miješanje i disperziju hladnijeg zraka pri tlu."
+      }
+    ]
+  }
+]

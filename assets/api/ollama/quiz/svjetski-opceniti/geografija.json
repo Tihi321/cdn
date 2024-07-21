@@ -1,0 +1,1053 @@
+[
+  {
+    "topic": "Geografija",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koji je najviši planinski vrh na svijetu?",
+        "answers": [
+          { "answer": "Mount Everest", "correct": true, "points": 10 },
+          { "answer": "K2", "correct": false, "points": 0 },
+          { "answer": "Kančendžanga", "correct": false, "points": 0 },
+          { "answer": "Makalu", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se na granici Nepala i Tibeta.",
+        "explanation": "Mount Everest, visok 8848 metara, najviši je planinski vrh na svijetu i dio je planinskog lanca Himalaja."
+      },
+      {
+        "question": "Koja je najduža rijeka na svijetu?",
+        "answers": [
+          { "answer": "Nil", "correct": true, "points": 10 },
+          { "answer": "Amazona", "correct": false, "points": 0 },
+          { "answer": "Yangtze", "correct": false, "points": 0 },
+          { "answer": "Mississippi", "correct": false, "points": 0 }
+        ],
+        "hint": "Teče kroz nekoliko afričkih zemalja.",
+        "explanation": "Nil je najduža rijeka na svijetu s duljinom od oko 6650 kilometara, protječe kroz 11 afričkih zemalja."
+      },
+      {
+        "question": "Koji od navedenih nije tip tektonske ploče?",
+        "answers": [
+          { "answer": "Kontinentalna ploča", "correct": false, "points": 0 },
+          { "answer": "Oceanska ploča", "correct": false, "points": 0 },
+          { "answer": "Transformna ploča", "correct": true, "points": 10 },
+          { "answer": "Konvergentna ploča", "correct": false, "points": 0 }
+        ],
+        "hint": "Razmislite o vrstama granica tektonskih ploča.",
+        "explanation": "Transformna ploča nije vrsta tektonske ploče, već tip granice između ploča. Glavne vrste tektonskih ploča su kontinentalne i oceanske."
+      },
+      {
+        "question": "Koja klimatska zona karakterizira područja oko ekvatora?",
+        "answers": [
+          { "answer": "Tropska", "correct": true, "points": 10 },
+          { "answer": "Umjerena", "correct": false, "points": 0 },
+          { "answer": "Polarna", "correct": false, "points": 0 },
+          { "answer": "Mediteranska", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova zona ima visoke temperature i obilne padaline tijekom cijele godine.",
+        "explanation": "Tropska klimatska zona karakterizira područja oko ekvatora, s visokim temperaturama i obilnim padalinama tijekom cijele godine."
+      },
+      {
+        "question": "Koji je najveći ocean na Zemlji?",
+        "answers": [
+          { "answer": "Tihi ocean", "correct": true, "points": 10 },
+          { "answer": "Atlantski ocean", "correct": false, "points": 0 },
+          { "answer": "Indijski ocean", "correct": false, "points": 0 },
+          { "answer": "Južni ocean", "correct": false, "points": 0 }
+        ],
+        "hint": "Pokriva gotovo trećinu Zemljine površine.",
+        "explanation": "Tihi ocean je najveći i najdublji ocean na Zemlji, pokrivajući površinu od oko 165 milijuna kvadratnih kilometara."
+      },
+      {
+        "question": "Koji je najaktivniji vulkan u Europi?",
+        "answers": [
+          { "answer": "Etna", "correct": true, "points": 10 },
+          { "answer": "Vezuv", "correct": false, "points": 0 },
+          { "answer": "Stromboli", "correct": false, "points": 0 },
+          { "answer": "Hekla", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se na Siciliji.",
+        "explanation": "Etna, smještena na istočnoj obali Sicilije, je najaktivniji vulkan u Europi s čestim erupcijama."
+      },
+      {
+        "question": "Koji je najveći biom na kopnu?",
+        "answers": [
+          { "answer": "Tajga", "correct": true, "points": 10 },
+          { "answer": "Tundra", "correct": false, "points": 0 },
+          { "answer": "Tropska kišna šuma", "correct": false, "points": 0 },
+          { "answer": "Savana", "correct": false, "points": 0 }
+        ],
+        "hint": "Poznata i kao borealna šuma.",
+        "explanation": "Tajga ili borealna šuma je najveći kopneni biom, koji se proteže kroz sjeverne dijelove Sjeverne Amerike, Europe i Azije."
+      },
+      {
+        "question": "Koji proces oblikuje U-doline?",
+        "answers": [
+          { "answer": "Glacijacija", "correct": true, "points": 10 },
+          { "answer": "Erozija vjetrom", "correct": false, "points": 0 },
+          { "answer": "Riječna erozija", "correct": false, "points": 0 },
+          { "answer": "Krška erozija", "correct": false, "points": 0 }
+        ],
+        "hint": "Povezano je s ledenjacima.",
+        "explanation": "U-doline su oblikovane procesom glacijacije, gdje ledenjaci erodiraju tlo i stijene stvarajući karakterističan U-oblik."
+      },
+      {
+        "question": "Koja je najveća delta na svijetu?",
+        "answers": [
+          { "answer": "Delta Gangesa-Brahmaputre", "correct": true, "points": 10 },
+          { "answer": "Delta Nila", "correct": false, "points": 0 },
+          { "answer": "Delta Mississippija", "correct": false, "points": 0 },
+          { "answer": "Delta Amazone", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Bangladešu i Indiji.",
+        "explanation": "Delta Gangesa-Brahmaputre je najveća delta na svijetu, pokrivajući površinu od oko 105.000 kvadratnih kilometara u Bangladešu i dijelu Indije."
+      },
+      {
+        "question": "Koji fenomen uzrokuje El Niño?",
+        "answers": [
+          {
+            "answer": "Zagrijavanje površinskih voda Tihog oceana",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Hlađenje površinskih voda Atlantskog oceana",
+            "correct": false,
+            "points": 0
+          },
+          { "answer": "Pojačana vulkanska aktivnost", "correct": false, "points": 0 },
+          { "answer": "Povećana solarna aktivnost", "correct": false, "points": 0 }
+        ],
+        "hint": "Povezan je s promjenama temperature oceana.",
+        "explanation": "El Niño je uzrokovan zagrijavanjem površinskih voda istočnog Tihog oceana, što dovodi do značajnih promjena u obrascima vremena diljem svijeta."
+      },
+      {
+        "question": "Koja je najmanja pustinja na svijetu?",
+        "answers": [
+          { "answer": "Carcross Desert", "correct": true, "points": 10 },
+          { "answer": "Sahara", "correct": false, "points": 0 },
+          { "answer": "Gobi", "correct": false, "points": 0 },
+          { "answer": "Atacama", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Kanadi.",
+        "explanation": "Carcross Desert u Yukonu, Kanada, smatra se najmanjom pustinjom na svijetu s površinom od samo 2,6 kvadratnih kilometara."
+      },
+      {
+        "question": "Koji je najdublji canyon na svijetu?",
+        "answers": [
+          { "answer": "Yarlung Tsangpo Grand Canyon", "correct": true, "points": 10 },
+          { "answer": "Grand Canyon", "correct": false, "points": 0 },
+          { "answer": "Copper Canyon", "correct": false, "points": 0 },
+          { "answer": "Colca Canyon", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Tibetu.",
+        "explanation": "Yarlung Tsangpo Grand Canyon u Tibetu je najdublji canyon na svijetu s prosječnom dubinom od oko 5000 metara."
+      },
+      {
+        "question": "Koji je najveći koraljni greben na svijetu?",
+        "answers": [
+          { "answer": "Veliki koraljni greben", "correct": true, "points": 10 },
+          { "answer": "Belize Barrier Reef", "correct": false, "points": 0 },
+          { "answer": "New Caledonia Barrier Reef", "correct": false, "points": 0 },
+          { "answer": "Red Sea Coral Reef", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se uz obalu Australije.",
+        "explanation": "Veliki koraljni greben uz obalu Australije je najveći koraljni greben na svijetu, protežući se na više od 2300 kilometara."
+      },
+      {
+        "question": "Koji proces uzrokuje nastanak gejzira?",
+        "answers": [
+          { "answer": "Podzemna vulkanska aktivnost", "correct": true, "points": 10 },
+          { "answer": "Plimni valovi", "correct": false, "points": 0 },
+          { "answer": "Erozija vjetrom", "correct": false, "points": 0 },
+          { "answer": "Ledenjačka aktivnost", "correct": false, "points": 0 }
+        ],
+        "hint": "Povezano je s vrućom vodom pod tlakom.",
+        "explanation": "Gejziri nastaju kada podzemna vulkanska aktivnost zagrijava vodu do točke ključanja, stvarajući tlak koji uzrokuje erupciju vode i pare."
+      },
+      {
+        "question": "Koja je najveća svjetska delta koja se ne ulijeva u ocean?",
+        "answers": [
+          { "answer": "Delta Okavango", "correct": true, "points": 10 },
+          { "answer": "Delta Volge", "correct": false, "points": 0 },
+          { "answer": "Delta Dunava", "correct": false, "points": 0 },
+          { "answer": "Delta Mekonga", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Botswani.",
+        "explanation": "Delta Okavango u Botswani je najveća unutarnja delta na svijetu, koja se ne ulijeva u ocean već se širi u pustinju Kalahari."
+      },
+      {
+        "question": "Koji je najveći ledenjak u Europi?",
+        "answers": [
+          { "answer": "Vatnajökull", "correct": true, "points": 10 },
+          { "answer": "Aletsch", "correct": false, "points": 0 },
+          { "answer": "Jostedalsbreen", "correct": false, "points": 0 },
+          { "answer": "Mer de Glace", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se na Islandu.",
+        "explanation": "Vatnajökull na Islandu je najveći ledenjak u Europi po volumenu, pokrivajući površinu od oko 8100 kvadratnih kilometara."
+      },
+      {
+        "question": "Koja je najviša aktivna vulkanska planina na Zemlji?",
+        "answers": [
+          { "answer": "Ojos del Salado", "correct": true, "points": 10 },
+          { "answer": "Mauna Loa", "correct": false, "points": 0 },
+          { "answer": "Mount Erebus", "correct": false, "points": 0 },
+          { "answer": "Klyuchevskaya Sopka", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se na granici Čilea i Argentine.",
+        "explanation": "Ojos del Salado, visok 6893 metra, je najviša aktivna vulkanska planina na Zemlji, smještena na granici Čilea i Argentine."
+      },
+      {
+        "question": "Koji je najveći sliv slatke vode na svijetu?",
+        "answers": [
+          { "answer": "Amazona", "correct": true, "points": 10 },
+          { "answer": "Nil", "correct": false, "points": 0 },
+          { "answer": "Mississippi", "correct": false, "points": 0 },
+          { "answer": "Kongo", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Južnoj Americi.",
+        "explanation": "Sliv Amazone je najveći sliv slatke vode na svijetu, pokrivajući površinu od oko 7 milijuna kvadratnih kilometara."
+      },
+      {
+        "question": "Koji proces uzrokuje nastanak fjordova?",
+        "answers": [
+          { "answer": "Glacijalna erozija", "correct": true, "points": 10 },
+          { "answer": "Riječna erozija", "correct": false, "points": 0 },
+          { "answer": "Vulkanska aktivnost", "correct": false, "points": 0 },
+          { "answer": "Tektonsko uzdizanje", "correct": false, "points": 0 }
+        ],
+        "hint": "Povezano je s ledenjacima i morem.",
+        "explanation": "Fjordovi nastaju glacijalnom erozijom, gdje ledenjaci produbljuju i proširuju riječne doline koje kasnije postaju ispunjene morskom vodom."
+      },
+      {
+        "question": "Koji je najveći tropski kišni bazen na svijetu?",
+        "answers": [
+          { "answer": "Amazonski bazen", "correct": true, "points": 10 },
+          { "answer": "Kongo bazen", "correct": false, "points": 0 },
+          { "answer": "Jugoistočna Azija", "correct": false, "points": 0 },
+          { "answer": "Madagaskar", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Južnoj Americi.",
+        "explanation": "Amazonski bazen je najveći tropski kišni bazen na svijetu, pokrivajući površinu od oko 5,5 milijuna kvadratnih kilometara."
+      }
+    ]
+  },
+  {
+    "topic": "Geografija",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koja je najmanja država na svijetu po površini?",
+        "answers": [
+          { "answer": "Vatikan", "correct": true, "points": 10 },
+          { "answer": "Monako", "correct": false, "points": 0 },
+          { "answer": "San Marino", "correct": false, "points": 0 },
+          { "answer": "Lihtenštajn", "correct": false, "points": 0 }
+        ],
+        "hint": "To je grad-država unutar Rima.",
+        "explanation": "Vatikan, s površinom od samo 0,44 kvadratna kilometra, je najmanja neovisna država na svijetu."
+      },
+      {
+        "question": "Koja država ima najviše susjeda?",
+        "answers": [
+          { "answer": "Kina", "correct": true, "points": 10 },
+          { "answer": "Rusija", "correct": false, "points": 0 },
+          { "answer": "Brazil", "correct": false, "points": 0 },
+          { "answer": "Njemačka", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova država graniči s 14 zemalja.",
+        "explanation": "Kina dijeli kopnenu granicu s 14 zemalja, što je čini državom s najviše susjeda na svijetu."
+      },
+      {
+        "question": "Koji je glavni grad Australije?",
+        "answers": [
+          { "answer": "Canberra", "correct": true, "points": 10 },
+          { "answer": "Sydney", "correct": false, "points": 0 },
+          { "answer": "Melbourne", "correct": false, "points": 0 },
+          { "answer": "Brisbane", "correct": false, "points": 0 }
+        ],
+        "hint": "Nije najveći grad u zemlji.",
+        "explanation": "Canberra je glavni grad Australije, izgrađen kao kompromis između rivalskih gradova Sydneya i Melbournea."
+      },
+      {
+        "question": "Koja je najveća svjetska trgovinska organizacija?",
+        "answers": [
+          { "answer": "Svjetska trgovinska organizacija (WTO)", "correct": true, "points": 10 },
+          { "answer": "Međunarodni monetarni fond (IMF)", "correct": false, "points": 0 },
+          { "answer": "Svjetska banka", "correct": false, "points": 0 },
+          {
+            "answer": "Organizacija za ekonomsku suradnju i razvoj (OECD)",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Bavi se regulacijom međunarodne trgovine.",
+        "explanation": "Svjetska trgovinska organizacija (WTO) je najveća međunarodna organizacija koja se bavi pravilima trgovine između država."
+      },
+      {
+        "question": "Koja država ima najveće rezerve nafte na svijetu?",
+        "answers": [
+          { "answer": "Venezuela", "correct": true, "points": 10 },
+          { "answer": "Saudijska Arabija", "correct": false, "points": 0 },
+          { "answer": "Iran", "correct": false, "points": 0 },
+          { "answer": "Rusija", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Južnoj Americi.",
+        "explanation": "Venezuela ima najveće potvrđene rezerve nafte na svijetu, s procijenjenih 300 milijardi barela."
+      },
+      {
+        "question": "Koja je najmnogoljudnija zemlja bez izlaza na more?",
+        "answers": [
+          { "answer": "Etiopija", "correct": true, "points": 10 },
+          { "answer": "Afganistan", "correct": false, "points": 0 },
+          { "answer": "Nepal", "correct": false, "points": 0 },
+          { "answer": "Uzbekistan", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Africi.",
+        "explanation": "Etiopija, s populacijom od preko 100 milijuna stanovnika, je najmnogoljudnija zemlja bez izlaza na more."
+      },
+      {
+        "question": "Koja organizacija upravlja Antarktikom?",
+        "answers": [
+          { "answer": "Antarktički ugovor", "correct": true, "points": 10 },
+          { "answer": "Ujedinjeni narodi", "correct": false, "points": 0 },
+          { "answer": "NATO", "correct": false, "points": 0 },
+          { "answer": "Europska unija", "correct": false, "points": 0 }
+        ],
+        "hint": "To je međunarodni sporazum potpisan 1959. godine.",
+        "explanation": "Antarktički ugovor, potpisan 1959. godine, upravlja aktivnostima i istraživanjima na Antarktiku, osiguravajući njegovo korištenje isključivo u miroljubive svrhe."
+      },
+      {
+        "question": "Koja je najveća svjetska burza po tržišnoj kapitalizaciji?",
+        "answers": [
+          { "answer": "New York Stock Exchange (NYSE)", "correct": true, "points": 10 },
+          { "answer": "NASDAQ", "correct": false, "points": 0 },
+          { "answer": "Japan Exchange Group", "correct": false, "points": 0 },
+          { "answer": "London Stock Exchange", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se na Wall Streetu.",
+        "explanation": "New York Stock Exchange (NYSE) je najveća svjetska burza po tržišnoj kapitalizaciji, smještena na Wall Streetu u New Yorku."
+      },
+      {
+        "question": "Koja zemlja ima najviše vremenska zona?",
+        "answers": [
+          { "answer": "Francuska", "correct": true, "points": 10 },
+          { "answer": "Rusija", "correct": false, "points": 0 },
+          { "answer": "SAD", "correct": false, "points": 0 },
+          { "answer": "Kina", "correct": false, "points": 0 }
+        ],
+        "hint": "Uključuje i prekomorske teritorije.",
+        "explanation": "Francuska, uključujući svoje prekomorske teritorije, ima najviše vremenskih zona - 12, što je više od bilo koje druge zemlje."
+      },
+      {
+        "question": "Koja je najstarija postojeća međunarodna organizacija?",
+        "answers": [
+          {
+            "answer": "Međunarodna telekomunikacijska unija (ITU)",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Ujedinjeni narodi (UN)", "correct": false, "points": 0 },
+          { "answer": "Međunarodni Crveni križ", "correct": false, "points": 0 },
+          { "answer": "Svjetska poštanska unija", "correct": false, "points": 0 }
+        ],
+        "hint": "Osnovana je 1865. godine.",
+        "explanation": "Međunarodna telekomunikacijska unija (ITU), osnovana 1865. godine, je najstarija postojeća međunarodna organizacija."
+      },
+      {
+        "question": "Koja država ima najveći BDP po glavi stanovnika?",
+        "answers": [
+          { "answer": "Luksemburg", "correct": true, "points": 10 },
+          { "answer": "Švicarska", "correct": false, "points": 0 },
+          { "answer": "Norveška", "correct": false, "points": 0 },
+          { "answer": "Singapur", "correct": false, "points": 0 }
+        ],
+        "hint": "To je mala europska zemlja poznata po financijskom sektoru.",
+        "explanation": "Luksemburg ima najveći BDP po glavi stanovnika na svijetu, uglavnom zbog svog jakog financijskog sektora i male populacije."
+      },
+      {
+        "question": "Koja je najduža kopnena granica između dvije države?",
+        "answers": [
+          { "answer": "Kanada - SAD", "correct": true, "points": 10 },
+          { "answer": "Rusija - Kazahstan", "correct": false, "points": 0 },
+          { "answer": "Kina - Mongolija", "correct": false, "points": 0 },
+          { "answer": "Argentina - Čile", "correct": false, "points": 0 }
+        ],
+        "hint": "Proteže se kroz Sjevernu Ameriku.",
+        "explanation": "Granica između Kanade i SAD-a je najduža kopnena granica između dvije države, duga oko 8.891 kilometar."
+      },
+      {
+        "question": "Koja je najveća svjetska slobodna trgovinska zona po broju stanovnika?",
+        "answers": [
+          {
+            "answer": "Afrička kontinentalna zona slobodne trgovine (AfCFTA)",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Europska unija (EU)", "correct": false, "points": 0 },
+          {
+            "answer": "Sjevernoamerički sporazum o slobodnoj trgovini (NAFTA)",
+            "correct": false,
+            "points": 0
+          },
+          { "answer": "Azijsko-pacifički gospodarski forum (APEC)", "correct": false, "points": 0 }
+        ],
+        "hint": "Osnovana je 2018. godine i uključuje većinu afričkih zemalja.",
+        "explanation": "Afrička kontinentalna zona slobodne trgovine (AfCFTA), koja uključuje 54 od 55 afričkih zemalja, je najveća svjetska slobodna trgovinska zona po broju stanovnika."
+      },
+      {
+        "question": "Koja država ima najveću ekskluzivnu ekonomsku zonu (EEZ)?",
+        "answers": [
+          { "answer": "Francuska", "correct": true, "points": 10 },
+          { "answer": "SAD", "correct": false, "points": 0 },
+          { "answer": "Rusija", "correct": false, "points": 0 },
+          { "answer": "Australija", "correct": false, "points": 0 }
+        ],
+        "hint": "Uključuje brojne prekomorske teritorije.",
+        "explanation": "Francuska, zahvaljujući svojim brojnim prekomorskim teritorijima, ima najveću ekskluzivnu ekonomsku zonu na svijetu, koja pokriva oko 11,7 milijuna kvadratnih kilometara."
+      },
+      {
+        "question": "Koji je najveći svjetski proizvođač zlata?",
+        "answers": [
+          { "answer": "Kina", "correct": true, "points": 10 },
+          { "answer": "Australija", "correct": false, "points": 0 },
+          { "answer": "Rusija", "correct": false, "points": 0 },
+          { "answer": "SAD", "correct": false, "points": 0 }
+        ],
+        "hint": "Također je i najveći svjetski potrošač zlata.",
+        "explanation": "Kina je najveći svjetski proizvođač zlata, proizvodeći oko 380 tona godišnje, a ujedno je i najveći svjetski potrošač zlata."
+      },
+      {
+        "question": "Koja je najmanja suverena država u Africi?",
+        "answers": [
+          { "answer": "Sejšeli", "correct": true, "points": 10 },
+          { "answer": "Gambija", "correct": false, "points": 0 },
+          { "answer": "Sveti Toma i Princip", "correct": false, "points": 0 },
+          { "answer": "Komori", "correct": false, "points": 0 }
+        ],
+        "hint": "To je otočna država u Indijskom oceanu.",
+        "explanation": "Sejšeli, s površinom od samo 455 kvadratnih kilometara, su najmanja suverena država u Africi."
+      },
+      {
+        "question": "Koja je najveća svjetska organizacija za zaštitu okoliša?",
+        "answers": [
+          {
+            "answer": "Program Ujedinjenih naroda za okoliš (UNEP)",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Greenpeace", "correct": false, "points": 0 },
+          { "answer": "World Wildlife Fund (WWF)", "correct": false, "points": 0 },
+          { "answer": "The Nature Conservancy", "correct": false, "points": 0 }
+        ],
+        "hint": "Osnovana je od strane UN-a 1972. godine.",
+        "explanation": "Program Ujedinjenih naroda za okoliš (UNEP), osnovan 1972. godine, je vodeća globalna organizacija za zaštitu okoliša i koordinira aktivnosti UN-a vezane za okoliš."
+      },
+      {
+        "question": "Koja država ima najveći broj otoka?",
+        "answers": [
+          { "answer": "Švedska", "correct": true, "points": 10 },
+          { "answer": "Indonezija", "correct": false, "points": 0 },
+          { "answer": "Filipini", "correct": false, "points": 0 },
+          { "answer": "Grčka", "correct": false, "points": 0 }
+        ],
+        "hint": "Većina otoka se nalazi u Baltičkom moru.",
+        "explanation": "Švedska ima najveći broj otoka od svih zemalja svijeta, s procijenjenih 267.570 otoka, iako je većina njih nenaseljena."
+      },
+      {
+        "question": "Koja je najveća svjetska organizacija za mikrokreditiranje?",
+        "answers": [
+          { "answer": "Grameen Bank", "correct": true, "points": 10 },
+          { "answer": "BRAC", "correct": false, "points": 0 },
+          { "answer": "Kiva", "correct": false, "points": 0 },
+          { "answer": "Accion International", "correct": false, "points": 0 }
+        ],
+        "hint": "Osnovana je u Bangladešu 1983. godine.",
+        "explanation": "Grameen Bank, osnovan 1983. godine u Bangladešu od strane Muhammada Yunusa, je najveća svjetska organizacija za mikrokreditiranje, poznata po pružanju malih zajmova siromašnima bez kolaterala."
+      }
+    ]
+  },
+  {
+    "topic": "Geografija",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koji je najrašireniji jezik na svijetu po broju izvornih govornika?",
+        "answers": [
+          { "answer": "Mandarinski kineski", "correct": true, "points": 10 },
+          { "answer": "Španjolski", "correct": false, "points": 0 },
+
+          { "answer": "Engleski", "correct": false, "points": 0 },
+          { "answer": "Hindi", "correct": false, "points": 0 }
+        ],
+        "hint": "Govori se prvenstveno u najmnogoljudnijoj zemlji svijeta.",
+        "explanation": "Mandarinski kineski je najrašireniji jezik na svijetu po broju izvornih govornika, s preko 900 milijuna govornika, većinom u Kini."
+      },
+      {
+        "question": "Koja je najveća svjetska religija po broju sljedbenika?",
+        "answers": [
+          { "answer": "Kršćanstvo", "correct": true, "points": 10 },
+          { "answer": "Islam", "correct": false, "points": 0 },
+          { "answer": "Hinduizam", "correct": false, "points": 0 },
+          { "answer": "Budizam", "correct": false, "points": 0 }
+        ],
+        "hint": "Ima oko 2,4 milijarde sljedbenika diljem svijeta.",
+        "explanation": "Kršćanstvo je najveća svjetska religija s oko 2,4 milijarde sljedbenika, što čini oko 31% svjetske populacije."
+      },
+      {
+        "question": "Koja zemlja ima najviše UNESCO-vih lokaliteta svjetske baštine?",
+        "answers": [
+          { "answer": "Italija", "correct": true, "points": 10 },
+          { "answer": "Kina", "correct": false, "points": 0 },
+          { "answer": "Španjolska", "correct": false, "points": 0 },
+          { "answer": "Francuska", "correct": false, "points": 0 }
+        ],
+        "hint": "Poznata je po svojoj bogatoj povijesti i umjetnosti.",
+        "explanation": "Italija ima najviše UNESCO-vih lokaliteta svjetske baštine, s 55 priznatih lokaliteta, što odražava njezinu bogatu kulturnu i prirodnu baštinu."
+      },
+      {
+        "question": "Koja je najveća etnička grupa na svijetu?",
+        "answers": [
+          { "answer": "Han Kinezi", "correct": true, "points": 10 },
+          { "answer": "Indo-Arijci", "correct": false, "points": 0 },
+          { "answer": "Arapi", "correct": false, "points": 0 },
+          { "answer": "Latinoamerikanci", "correct": false, "points": 0 }
+        ],
+        "hint": "Čine većinu stanovništva najmnogoljudnije zemlje svijeta.",
+        "explanation": "Han Kinezi su najveća etnička grupa na svijetu, čineći oko 18% svjetske populacije i oko 92% populacije Kine."
+      },
+      {
+        "question": "Koja zemlja ima najviše službenih jezika?",
+        "answers": [
+          { "answer": "Zimbabve", "correct": true, "points": 10 },
+          { "answer": "Indija", "correct": false, "points": 0 },
+          { "answer": "Južnoafrička Republika", "correct": false, "points": 0 },
+          { "answer": "Švicarska", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova afrička zemlja službeno priznaje 16 jezika.",
+        "explanation": "Zimbabve službeno priznaje 16 jezika, uključujući engleski, shona, ndebele i nekoliko manjinskih jezika, čineći ga zemljom s najviše službenih jezika."
+      },
+      {
+        "question": "Koji je najposjećeniji muzej na svijetu?",
+        "answers": [
+          { "answer": "Louvre", "correct": true, "points": 10 },
+          { "answer": "Britanski muzej", "correct": false, "points": 0 },
+          { "answer": "Metropolitanski muzej umjetnosti", "correct": false, "points": 0 },
+          { "answer": "Vatikanski muzeji", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Parizu i dom je Mona Lise.",
+        "explanation": "Louvre u Parizu je najposjećeniji muzej na svijetu, s preko 10 milijuna posjetitelja godišnje, poznat po mnogim remek-djelima uključujući Mona Lisu."
+      },
+      {
+        "question": "Koja je najveća migracijska ruta na svijetu?",
+        "answers": [
+          { "answer": "Meksiko - SAD", "correct": true, "points": 10 },
+          { "answer": "Sirija - Turska", "correct": false, "points": 0 },
+          { "answer": "Indija - Ujedinjeni Arapski Emirati", "correct": false, "points": 0 },
+          { "answer": "Kina - SAD", "correct": false, "points": 0 }
+        ],
+        "hint": "Uključuje dvije susjedne zemlje u Sjevernoj Americi.",
+        "explanation": "Migracijska ruta Meksiko - SAD je najveća na svijetu, s milijunima ljudi koji godišnje prelaze granicu, bilo legalno ili ilegalno."
+      },
+      {
+        "question": "Koji je najstariji kontinuirano naseljeni grad na svijetu?",
+        "answers": [
+          { "answer": "Damask", "correct": true, "points": 10 },
+          { "answer": "Jerihon", "correct": false, "points": 0 },
+          { "answer": "Atena", "correct": false, "points": 0 },
+          { "answer": "Byblos", "correct": false, "points": 0 }
+        ],
+        "hint": "Glavni je grad Sirije.",
+        "explanation": "Damask, glavni grad Sirije, smatra se najstarijim kontinuirano naseljenim gradom na svijetu, s dokazima o naseljenosti koji datiraju iz najmanje 11. tisućljeća pr. Kr."
+      },
+      {
+        "question": "Koja je najveća svjetska filmska industrija po broju produciranih filmova godišnje?",
+        "answers": [
+          { "answer": "Bollywood", "correct": true, "points": 10 },
+          { "answer": "Hollywood", "correct": false, "points": 0 },
+          { "answer": "Nollywood", "correct": false, "points": 0 },
+          { "answer": "Kineska filmska industrija", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Mumbaiju, Indija.",
+        "explanation": "Bollywood, smješten u Mumbaiju, Indija, je najveća svjetska filmska industrija po broju produciranih filmova godišnje, s prosječno preko 1000 filmova godišnje."
+      },
+      {
+        "question": "Koji je najrašireniji sustav pisma na svijetu?",
+        "answers": [
+          { "answer": "Latinica", "correct": true, "points": 10 },
+          { "answer": "Kinesko pismo", "correct": false, "points": 0 },
+          { "answer": "Arapsko pismo", "correct": false, "points": 0 },
+          { "answer": "Ćirilica", "correct": false, "points": 0 }
+        ],
+        "hint": "Koristi se u većini europskih jezika.",
+        "explanation": "Latinica je najrašireniji sustav pisma na svijetu, koji se koristi za pisanje većine europskih jezika, kao i mnogih drugih jezika diljem svijeta."
+      },
+      {
+        "question": "Koja zemlja ima najvišu stopu pismenosti na svijetu?",
+        "answers": [
+          { "answer": "Sjeverna Koreja", "correct": true, "points": 10 },
+          { "answer": "Finska", "correct": false, "points": 0 },
+          { "answer": "Japan", "correct": false, "points": 0 },
+          { "answer": "Norveška", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova zemlja tvrdi da ima 100% stopu pismenosti.",
+        "explanation": "Prema službenim podacima, Sjeverna Koreja tvrdi da ima 100% stopu pismenosti, iako je teško neovisno potvrditi ove podatke zbog zatvorenosti zemlje."
+      },
+      {
+        "question": "Koja je najstarija postojeća sveučilišna zgrada na svijetu?",
+        "answers": [
+          { "answer": "Sveučilište Al-Karaouine", "correct": true, "points": 10 },
+          { "answer": "Sveučilište u Bologni", "correct": false, "points": 0 },
+          { "answer": "Sveučilište u Oxfordu", "correct": false, "points": 0 },
+          { "answer": "Sveučilište Al-Azhar", "correct": false, "points": 0 }
+        ],
+        "hint": "Nalazi se u Fesu, Maroko.",
+        "explanation": "Sveučilište Al-Karaouine u Fesu, Maroko, osnovano 859. godine, smatra se najstarijom postojećom sveučilišnom zgradom na svijetu koja još uvijek funkcionira kao obrazovna institucija."
+      },
+      {
+        "question": "Koji je najveći godišnji kulturni festival na svijetu?",
+        "answers": [
+          { "answer": "Kumbh Mela", "correct": true, "points": 10 },
+          { "answer": "Karneval u Rio de Janeiru", "correct": false, "points": 0 },
+          { "answer": "Oktoberfest", "correct": false, "points": 0 },
+          { "answer": "Mardi Gras", "correct": false, "points": 0 }
+        ],
+        "hint": "Ovaj hinduistički festival okuplja milijune hodočasnika u Indiji.",
+        "explanation": "Kumbh Mela, hinduistički festival koji se održava svake tri godine u Indiji, smatra se najvećim mirnim okupljanjem ljudi na svijetu, s preko 120 milijuna posjetitelja tijekom festivala 2013. godine."
+      },
+      {
+        "question": "Koja zemlja ima najveći broj različitih etničkih grupa?",
+        "answers": [
+          { "answer": "Papua Nova Gvineja", "correct": true, "points": 10 },
+          { "answer": "Indija", "correct": false, "points": 0 },
+          { "answer": "Indonezija", "correct": false, "points": 0 },
+          { "answer": "Nigerija", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova zemlja ima preko 800 različitih jezika.",
+        "explanation": "Papua Nova Gvineja ima najveću etničku raznolikost na svijetu, s preko 800 različitih etničkih grupa i jezika, što odražava njezinu izoliranu geografiju i dugu povijest."
+      },
+      {
+        "question": "Koja je najmanje naseljena država na svijetu (ne računajući ovisne teritorije)?",
+        "answers": [
+          { "answer": "Vatikan", "correct": true, "points": 10 },
+          { "answer": "Tuvalu", "correct": false, "points": 0 },
+          { "answer": "Nauru", "correct": false, "points": 0 },
+          { "answer": "San Marino", "correct": false, "points": 0 }
+        ],
+        "hint": "To je grad-država koja je središte Katoličke Crkve.",
+        "explanation": "Vatikan, s populacijom od oko 825 stanovnika, je najmanje naseljena suverena država na svijetu."
+      },
+      {
+        "question": "Koja zemlja ima najveći postotak vegetarijanaca u populaciji?",
+        "answers": [
+          { "answer": "Indija", "correct": true, "points": 10 },
+          { "answer": "Izrael", "correct": false, "points": 0 },
+          { "answer": "Tajvan", "correct": false, "points": 0 },
+          { "answer": "Italija", "correct": false, "points": 0 }
+        ],
+        "hint": "Vegetarijanstvo je usko povezano s nekoliko religija u ovoj zemlji.",
+        "explanation": "Indija ima najveći postotak vegetarijanaca u populaciji, s procjenama koje variraju od 20% do 40% populacije, što je povezano s hinduističkim, džainističkim i budističkim tradicijama."
+      },
+      {
+        "question": "Koji je najstariji postojeći pisani ustav na svijetu?",
+        "answers": [
+          { "answer": "Ustav Sjedinjenih Američkih Država", "correct": true, "points": 10 },
+          { "answer": "Magna Carta", "correct": false, "points": 0 },
+          { "answer": "Francuski ustav", "correct": false, "points": 0 },
+          { "answer": "Ustav San Marina", "correct": false, "points": 0 }
+        ],
+        "hint": "Napisan je 1787. godine.",
+        "explanation": "Ustav Sjedinjenih Američkih Država, napisan 1787. godine i ratificiran 1788., je najstariji postojeći pisani ustav za suverenu državu na svijetu."
+      },
+      {
+        "question": "Koja zemlja ima najviše UNESCO-vih nematerijalnih kulturnih dobara?",
+        "answers": [
+          { "answer": "Kina", "correct": true, "points": 10 },
+          { "answer": "Japan", "correct": false, "points": 0 },
+          { "answer": "Francuska", "correct": false, "points": 0 },
+          { "answer": "Italija", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova zemlja ima bogatu tradiciju u umjetnosti, obrtu i izvedbenim umjetnostima.",
+        "explanation": "Kina ima najviše UNESCO-vih nematerijalnih kulturnih dobara, s 42 priznata elementa, što odražava njezinu bogatu i raznoliku kulturnu baštinu."
+      },
+      {
+        "question": "Koji je najstariji aktivni parlament na svijetu?",
+        "answers": [
+          { "answer": "Althing (Island)", "correct": true, "points": 10 },
+          { "answer": "Parlament Ujedinjenog Kraljevstva", "correct": false, "points": 0 },
+          { "answer": "Kongres Sjedinjenih Američkih Država", "correct": false, "points": 0 },
+          { "answer": "Švicarska Savezna skupština", "correct": false, "points": 0 }
+        ],
+        "hint": "Osnovan je 930. godine na Islandu.",
+        "explanation": "Althing, nacionalni parlament Islanda, osnovan 930. godine, smatra se najstarijim aktivnim parlamentom na svijetu."
+      }
+    ]
+  },
+  {
+    "topic": "Geografija",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koji je najčešće korišteni koordinatni sustav za određivanje položaja na Zemlji?",
+        "answers": [
+          { "answer": "Geografska širina i dužina", "correct": true, "points": 10 },
+          { "answer": "UTM koordinate", "correct": false, "points": 0 },
+          { "answer": "Kartezijanske koordinate", "correct": false, "points": 0 },
+          { "answer": "Polarne koordinate", "correct": false, "points": 0 }
+        ],
+        "hint": "Koristi stupnjeve za mjerenje u davljenosti od ekvatora i nultog meridijana.",
+        "explanation": "Geografska širina i dužina je najčešće korišteni koordinatni sustav za određivanje položaja na Zemlji, gdje se širina mjeri od ekvatora, a dužina od nultog meridijana."
+      },
+      {
+        "question": "Koja je najčešće korištena kartografska projekcija za svjetske karte?",
+        "answers": [
+          { "answer": "Mercatorova projekcija", "correct": true, "points": 10 },
+          { "answer": "Robinsonova projekcija", "correct": false, "points": 0 },
+          { "answer": "Mollweideova projekcija", "correct": false, "points": 0 },
+          { "answer": "Goodeova homolosinusna projekcija", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova cilindrična projekcija čuva kutove, ali iskrivljuje površine.",
+        "explanation": "Mercatorova projekcija je najčešće korištena kartografska projekcija za svjetske karte, posebno u navigaciji, zbog očuvanja kutova iako iskrivljuje površine na višim geografskim širinama."
+      },
+      {
+        "question": "Što označava skala 1:50,000 na karti?",
+        "answers": [
+          {
+            "answer": "1 cm na karti predstavlja 50,000 cm u stvarnosti",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "1 inč na karti predstavlja 50,000 inča u stvarnosti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "1 m na karti predstavlja 50,000 m u stvarnosti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "1 km na karti predstavlja 50,000 km u stvarnosti",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Razmjer se uvijek odnosi na istu mjernu jedinicu.",
+        "explanation": "Skala 1:50,000 znači da 1 jedinica na karti predstavlja 50,000 istih jedinica u stvarnosti. U metričkom sustavu, to znači da 1 cm na karti predstavlja 50,000 cm (ili 500 m) u stvarnosti."
+      },
+      {
+        "question": "Koji je glavni nedostatak Mercatorove projekcije?",
+        "answers": [
+          {
+            "answer": "Iskrivljenje površina na višim geografskim širinama",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Ne prikazuje cijelu Zemljinu površinu", "correct": false, "points": 0 },
+          { "answer": "Iskrivljuje oblike kontinenata", "correct": false, "points": 0 },
+          { "answer": "Ne čuva kutove", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova projekcija čini polarna područja neproporcionalno velikima.",
+        "explanation": "Glavni nedostatak Mercatorove projekcije je značajno iskrivljenje površina na višim geografskim širinama, čineći polarna područja neproporcionalno velikima u usporedbi s ekvatorijalnim područjima."
+      },
+      {
+        "question": "Što je GPS?",
+        "answers": [
+          { "answer": "Globalni pozicijski sustav", "correct": true, "points": 10 },
+          { "answer": "Geografski projekcijski sustav", "correct": false, "points": 0 },
+          { "answer": "Globalni kartografski sustav", "correct": false, "points": 0 },
+          { "answer": "Geostacionarni satelitski sustav", "correct": false, "points": 0 }
+        ],
+        "hint": "Koristi mrežu satelita za određivanje položaja na Zemlji.",
+        "explanation": "GPS (Global Positioning System) je globalni navigacijski satelitski sustav koji pruža geolokaciju i vremenske informacije GPS prijemniku bilo gdje na Zemlji gdje postoji neometana linija vidljivosti do četiri ili više GPS satelita."
+      },
+      {
+        "question": "Što je azimut u navigaciji?",
+        "answers": [
+          {
+            "answer": "Kut između smjera sjevera i željenog smjera",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Udaljenost između dvije točke na karti", "correct": false, "points": 0 },
+          { "answer": "Visina iznad razine mora", "correct": false, "points": 0 },
+          { "answer": "Brzina kretanja objekta", "correct": false, "points": 0 }
+        ],
+        "hint": "Mjeri se u stupnjevima od 0° do 360°.",
+        "explanation": "Azimut je kut u horizontalnoj ravnini između referentnog smjera (obično sjever) i linije do promatrane točke, mjeren u smjeru kazaljke na satu od referentnog smjera."
+      },
+      {
+        "question": "Što je izohipsa na topografskoj karti?",
+        "answers": [
+          {
+            "answer": "Linija koja povezuje točke iste nadmorske visine",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Linija koja povezuje točke iste temperature",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Linija koja povezuje točke istog atmosferskog tlaka",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Linija koja povezuje točke iste količine padalina",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Koristi se za prikazivanje reljefa na kartama.",
+        "explanation": "Izohipsa ili konturna linija je linija na karti koja povezuje točke iste nadmorske visine, omogućujući prikaz trodimenzionalnog reljefa na dvodimenzionalnoj karti."
+      },
+      {
+        "question": "Što je Greenwich Mean Time (GMT)?",
+        "answers": [
+          { "answer": "Vrijeme na nultom meridijanu", "correct": true, "points": 10 },
+          { "answer": "Prosječno vrijeme svih vremenskih zona", "correct": false, "points": 0 },
+          { "answer": "Vrijeme izlaska sunca u Greenwichu", "correct": false, "points": 0 },
+          { "answer": "Standardno vrijeme za međunarodne letove", "correct": false, "points": 0 }
+        ],
+        "hint": "Povezano je s opservatorijem u Greenwichu, London.",
+        "explanation": "Greenwich Mean Time (GMT) je srednje sunčevo vrijeme na nultom ili prvom meridijanu koji prolazi kroz Kraljevski opservatorij u Greenwichu u Londonu, Engleska."
+      },
+      {
+        "question": "Koja je razlika između topografske i tematske karte?",
+        "answers": [
+          {
+            "answer": "Topografske karte prikazuju fizičke značajke terena, tematske prikazuju specifične teme",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Topografske karte su uvijek digitalne, tematske su uvijek papirnate",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Topografske karte su za vojne svrhe, tematske za civilne",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Topografske karte su crno-bijele, tematske su u boji",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Razmislite o glavnoj svrsi svake vrste karte.",
+        "explanation": "Topografske karte prikazuju fizičke značajke terena kao što su reljef, vodene površine i vegetacija, dok tematske karte prikazuju specifične teme ili pojave poput populacije, klime ili ekonomskih aktivnosti."
+      },
+      {
+        "question": "Što je datum u kartografiji?",
+        "answers": [
+          {
+            "answer": "Referentni elipsoid i njegov položaj u odnosu na Zemlju",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Datum izrade karte", "correct": false, "points": 0 },
+          { "answer": "Vremensko razdoblje koje karta prikazuje", "correct": false, "points": 0 },
+          { "answer": "Sustav označavanja koordinata", "correct": false, "points": 0 }
+        ],
+        "hint": "Važan je za precizno određivanje položaja na Zemlji.",
+        "explanation": "U kartografiji, datum je referentni elipsoid koji aproksimira oblik Zemlje i njegov položaj u odnosu na središte Zemlje, korišten za precizno određivanje geografskih koordinata."
+      },
+      {
+        "question": "Što je kartografska generalizacija?",
+        "answers": [
+          {
+            "answer": "Proces pojednostavljivanja i sažimanja informacija na karti",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Povećavanje detalja na karti", "correct": false, "points": 0 },
+          { "answer": "Dodavanje boja na kartu", "correct": false, "points": 0 },
+          { "answer": "Proces digitalizacije papirnatih karata", "correct": false, "points": 0 }
+        ],
+        "hint": "Ovo je posebno važno pri izradi karata manjeg mjerila.",
+        "explanation": "Kartografska generalizacija je proces pojednostavljivanja prikaza geografskih značajki pri smanjenju mjerila karte, uključujući odabir, pojednostavljivanje, kombiniranje i ponekad preuveličavanje značajki."
+      },
+      {
+        "question": "Što je izoterma na meteorološkoj karti?",
+        "answers": [
+          {
+            "answer": "Linija koja povezuje točke iste temperature",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Linija koja povezuje točke istog atmosferskog tlaka",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Linija koja povezuje točke iste količine padalina",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Linija koja povezuje točke iste nadmorske visine",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Često se koristi za prikaz temperaturnih obrazaca.",
+        "explanation": "Izoterma je linija na meteorološkoj karti koja povezuje točke iste temperature, omogućujući vizualizaciju temperaturnih obrazaca i promjena."
+      },
+      {
+        "question": "Što je kartogram?",
+        "answers": [
+          {
+            "answer": "Tematska karta koja prikazuje statističke podatke preko administrativnih jedinica",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Karta koja prikazuje samo ceste i puteve", "correct": false, "points": 0 },
+          {
+            "answer": "Karta koja prikazuje samo topografske značajke",
+            "correct": false,
+            "points": 0
+          },
+          { "answer": "Digitalna karta za navigaciju", "correct": false, "points": 0 }
+        ],
+        "hint": "Često se koristi za prikaz demografskih ili ekonomskih podataka.",
+        "explanation": "Kartogram je vrsta tematske karte koja prikazuje statističke podatke preko geografskih područja, često mijenjajući veličinu ili boju područja proporcionalno prikazanim podacima."
+      },
+      {
+        "question": "Što je deklinacija u navigaciji?",
+        "answers": [
+          {
+            "answer": "Kut između magnetskog i geografskog sjevera",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Kut između smjera kretanja i sjevera", "correct": false, "points": 0 },
+          {
+            "answer": "Razlika između stvarne i procijenjene pozicije",
+            "correct": false,
+            "points": 0
+          },
+          { "answer": "Nagib Zemljine osi", "correct": false, "points": 0 }
+        ],
+        "hint": "Važna je pri korištenju magnetskog kompasa.",
+        "explanation": "Magnetska deklinacija je kut između magnetskog sjevera (smjer koji pokazuje kompas) i pravog geografskog sjevera, koji varira ovisno o lokaciji na Zemlji i mijenja se tijekom vremena."
+      },
+      {
+        "question": "Što je GIS?",
+        "answers": [
+          { "answer": "Geografski informacijski sustav", "correct": true, "points": 10 },
+          { "answer": "Globalni internetski sustav", "correct": false, "points": 0 },
+          { "answer": "Generalni indeks satelita", "correct": false, "points": 0 },
+          { "answer": "Grafički interface sustav", "correct": false, "points": 0 }
+        ],
+        "hint": "Koristi se za analizu i vizualizaciju prostornih podataka.",
+        "explanation": "GIS (Geografski informacijski sustav) je sustav dizajniran za prikupljanje, pohranu, manipulaciju, analizu i vizualizaciju svih vrsta geografskih i prostornih podataka."
+      },
+      {
+        "question": "Što je ortofoto?",
+        "answers": [
+          {
+            "answer": "Zračna fotografija geometrijski ispravljena da odgovara karti",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Satelitska snimka visoke rezolucije", "correct": false, "points": 0 },
+          { "answer": "3D model terena", "correct": false, "points": 0 },
+          { "answer": "Karta izrađena pomoću lasera", "correct": false, "points": 0 }
+        ],
+        "hint": "Često se koristi kao podloga za druge kartografske podatke.",
+        "explanation": "Ortofoto je zračna fotografija koja je geometrijski ispravljena ('ortorektificirana') tako da odgovara mjerilu i projekciji karte, eliminirajući distorzije uzrokovane perspektivom kamere i terenom."
+      },
+      {
+        "question": "Što je triangulacija u kartografiji?",
+        "answers": [
+          {
+            "answer": "Metoda određivanja položaja točke mjerenjem kutova",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Metoda crtanja trokuta na kartama", "correct": false, "points": 0 },
+          { "answer": "Proces dijeljenja karte na jednake trokute", "correct": false, "points": 0 },
+          {
+            "answer": "Tehnika mjerenja udaljenosti između tri točke",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ključna je za geodetska mjerenja.",
+        "explanation": "Triangulacija je metoda određivanja položaja točke mjerenjem kutova do nje s poznate osnovice, često korištena u geodeziji i kartografiji za precizno određivanje položaja točaka na Zemljinoj površini."
+      },
+      {
+        "question": "Što je kartografski znak?",
+        "answers": [
+          {
+            "answer": "Grafički simbol koji predstavlja objekt ili pojavu na karti",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Potpis kartografa na karti", "correct": false, "points": 0 },
+          { "answer": "Oznaka mjerila karte", "correct": false, "points": 0 },
+          {
+            "answer": "Koordinatna mreža na karti",
+            "correct": false,
+
+            "points": 0
+          }
+        ],
+        "hint": "Ovi simboli pomažu u čitanju i interpretaciji karata.",
+        "explanation": "Kartografski znak je grafički simbol koji se koristi na kartama za predstavljanje različitih objekata, pojava ili koncepata. Ovi znakovi mogu biti točkasti, linijski ili površinski i često su objašnjeni u legendi karte."
+      },
+      {
+        "question": "Što je ekvator?",
+        "answers": [
+          {
+            "answer": "Zamišljena linija koja dijeli Zemlju na sjevernu i južnu polutku",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Linija koja povezuje Sjeverni i Južni pol", "correct": false, "points": 0 },
+          { "answer": "Granica između dva oceana", "correct": false, "points": 0 },
+          { "answer": "Linija koja označava nultu nadmorsku visinu", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova linija predstavlja 0° geografske širine.",
+        "explanation": "Ekvator je zamišljena linija koja okružuje Zemlju na polovici udaljenosti između Sjevernog i Južnog pola, dijeleći planet na sjevernu i južnu polutku. Predstavlja 0° geografske širine."
+      },
+      {
+        "question": "Što je kartografska projekcija?",
+        "answers": [
+          {
+            "answer": "Metoda prikazivanja zakrivljene površine Zemlje na ravnoj površini",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Proces crtanja karte", "correct": false, "points": 0 },
+          { "answer": "Tehnika povećavanja detalja na karti", "correct": false, "points": 0 },
+          { "answer": "Metoda određivanja mjerila karte", "correct": false, "points": 0 }
+        ],
+        "hint": "Ova metoda uvijek uključuje određenu vrstu distorzije.",
+        "explanation": "Kartografska projekcija je matematička transformacija koja se koristi za prikazivanje zakrivljene površine Zemlje na ravnoj površini karte. Sve projekcije uključuju određenu vrstu distorzije oblika, površine, udaljenosti ili smjera."
+      },
+      {
+        "question": "Što je paralela u geografiji?",
+        "answers": [
+          {
+            "answer": "Zamišljena linija koja okružuje Zemlju paralelno s ekvatorom",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Linija koja povezuje Sjeverni i Južni pol", "correct": false, "points": 0 },
+          { "answer": "Granica između dvije države", "correct": false, "points": 0 },
+          { "answer": "Linija koja označava nultu nadmorsku visinu", "correct": false, "points": 0 }
+        ],
+        "hint": "Ove linije označavaju geografsku širinu.",
+        "explanation": "Paralele su zamišljene linije koje okružuju Zemlju paralelno s ekvatorom. One označavaju geografsku širinu i protežu se od 0° na ekvatoru do 90° na polovima."
+      }
+    ]
+  }
+]

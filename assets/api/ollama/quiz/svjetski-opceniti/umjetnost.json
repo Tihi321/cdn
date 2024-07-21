@@ -1,0 +1,2187 @@
+[
+  {
+    "topic": "Umjetnost",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koji je hrvatski umjetnik poznat po svojoj seriji slika 'Ciklus o Kerempuhu'?",
+        "answers": [
+          {
+            "answer": "Krsto Hegedušić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Ivan Meštrović",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vlaho Bukovac",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Julije Knifer",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je bio jedan od osnivača grupe 'Zemlja'.",
+        "explanation": "Krsto Hegedušić je poznat po svom ciklusu slika 'Ciklus o Kerempuhu', inspiriranom djelom Miroslava Krleže. Njegova umjetnost često je prikazivala socijalne teme i život seljaka."
+      },
+      {
+        "question": "Koji umjetnički pravac karakteriziraju geometrijski oblici i uporaba primarnih boja?",
+        "answers": [
+          {
+            "answer": "De Stijl",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Impresionizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nadrealizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ekspresionizam",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj pravac je nastao u Nizozemskoj početkom 20. stoljeća.",
+        "explanation": "De Stijl, što znači 'Stil' na nizozemskom, karakterizira uporaba samo ravnih linija, pravokutnih oblika i primarnih boja uz crnu i bijelu. Piet Mondrian je bio jedan od najpoznatijih predstavnika ovog pravca."
+      },
+      {
+        "question": "Koja tehnika digitalnog slikarstva omogućuje stvaranje slika korištenjem piksela?",
+        "answers": [
+          {
+            "answer": "Pixel art",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vektorska grafika",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "3D modeliranje",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Fraktalna umjetnost",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tehnika često se koristi u retro video igrama.",
+        "explanation": "Pixel art je digitalna umjetnička tehnika gdje se slike stvaraju na razini piksela. Popularna je u retro igrama i indie umjetnosti zbog svog prepoznatljivog izgleda."
+      },
+      {
+        "question": "Koji je hrvatski kipar autor skulpture 'Povijesni Hrvati' na Trgu kralja Tomislava u Zagrebu?",
+        "answers": [
+          {
+            "answer": "Ivan Meštrović",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Antun Augustinčić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Frano Kršinić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Robert Frangeš-Mihanović",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj kipar je također autor Grgura Ninskog u Splitu.",
+        "explanation": "Ivan Meštrović, jedan od najznačajnijih hrvatskih kipara, autor je skulpture 'Povijesni Hrvati' na Trgu kralja Tomislava u Zagrebu, kao i mnogih drugih poznatih skulptura diljem Hrvatske i svijeta."
+      },
+      {
+        "question": "Koji je umjetnički pokret nastao kao reakcija na apstraktni ekspresionizam, vraćajući se figurativnom slikarstvu?",
+        "answers": [
+          {
+            "answer": "Pop art",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Kubizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Futurizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dadaizam",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj pokret je često koristio motive iz masovne kulture i reklama.",
+        "explanation": "Pop art je nastao 1950-ih kao reakcija na apstraktni ekspresionizam, vraćajući se figurativnom prikazu i koristeći motive iz popularne kulture, reklama i masovnih medija. Andy Warhol je jedan od najpoznatijih predstavnika ovog pokreta."
+      },
+      {
+        "question": "Koja je hrvatska slikarica poznata po svojim naivnim prikazima seoskog života u Podravini?",
+        "answers": [
+          {
+            "answer": "Mira Kovačević-Ovčačik",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Slava Raškaj",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nasta Rojc",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Katarina Henc",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Njezina djela često prikazuju žene u narodnim nošnjama i seoske krajolike.",
+        "explanation": "Mira Kovačević-Ovčačik je istaknuta predstavnica hrvatske naive, poznata po svojim živopisnim prikazima seoskog života u Podravini, često s motivima žena u narodnim nošnjama i idiličnim krajolicima."
+      },
+      {
+        "question": "Koji je umjetnički pravac karakteriziran iskrivljenim oblicima i intenzivnim bojama kao izrazom unutarnjih emocija?",
+        "answers": [
+          {
+            "answer": "Ekspresionizam",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Impresionizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Realizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Minimalizam",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj pravac je nastao početkom 20. stoljeća u Njemačkoj.",
+        "explanation": "Ekspresionizam je umjetnički pravac koji naglašava subjektivno iskustvo i emocije, često prikazane kroz iskrivljene oblike i intenzivne boje. Edvard Munch je jedan od najpoznatijih ekspresionista."
+      },
+      {
+        "question": "Koja je tehnika u likovnoj umjetnosti karakterizirana lijepljenjem različitih materijala na površinu?",
+        "answers": [
+          {
+            "answer": "Kolaž",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Akvarel",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Freska",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Bakropis",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tehnika često koristi izrezane papire, novinske isječke i druge materijale.",
+        "explanation": "Kolaž je tehnika u kojoj se različiti materijali, najčešće papir, lijepe na podlogu stvarajući novu cjelinu. Ovu tehniku su često koristili kubisti poput Picassa i Braquea."
+      },
+      {
+        "question": "Koji je hrvatski umjetnik poznat po svojim minimalističkim 'meandrima'?",
+        "answers": [
+          {
+            "answer": "Julije Knifer",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Edo Murtić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vjenceslav Richter",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ivan Kožarić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Njegovo najpoznatije djelo je crno-bijeli geometrijski uzorak.",
+        "explanation": "Julije Knifer je hrvatski umjetnik poznat po svojim 'meandrima', minimalističkim kompozicijama crno-bijelih geometrijskih oblika koje je stvarao tijekom cijele svoje karijere."
+      },
+      {
+        "question": "Koja je umjetnička grupa osnovana u Zagrebu 1950-ih, poznata po eksperimentalnom pristupu umjetnosti?",
+        "answers": [
+          {
+            "answer": "EXAT 51",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Zemlja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Gorgona",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Biafra",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ime grupe je skraćenica za 'Eksperimentalni atelje'.",
+        "explanation": "EXAT 51 (Eksperimentalni atelje) bila je umjetnička grupa osnovana u Zagrebu 1950. godine. Zalagali su se za apstraktnu umjetnost i sintezu svih oblika vizualnih umjetnosti."
+      },
+      {
+        "question": "Koja je tehnika slikanja karakteristična po nanošenju boje u sitnim točkicama?",
+        "answers": [
+          {
+            "answer": "Pointilizam",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Sfumato",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Chiaroscuro",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Impasto",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovu tehniku je razvio Georges Seurat krajem 19. stoljeća.",
+        "explanation": "Pointilizam je tehnika slikanja u kojoj se boja nanosi u sitnim točkicama koje se iz daljine stapaju u cjelovitu sliku. Georges Seurat i Paul Signac su najpoznatiji predstavnici ove tehnike."
+      },
+      {
+        "question": "Koji je hrvatski kipar autor skulpture 'Prizemljeno Sunce' na zagrebačkom Trgu Nikole Šubića Zrinskog?",
+        "answers": [
+          {
+            "answer": "Ivan Kožarić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Dušan Džamonja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vojin Bakić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Branko Ružić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Skulptura je poznata i pod nazivom 'Kugla'.",
+        "explanation": "Ivan Kožarić je autor skulpture 'Prizemljeno Sunce', poznate i kao 'Kugla', koja se nalazi na Trgu Nikole Šubića Zrinskog (Zrinjevcu) u Zagrebu. Ova zlatna kugla postala je jedan od prepoznatljivih simbola grada."
+      },
+      {
+        "question": "Koji je umjetnički pokret nastao u Italiji početkom 20. stoljeća, slaveći brzinu, tehnologiju i modernost?",
+        "answers": [
+          {
+            "answer": "Futurizam",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Kubizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nadrealizam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Art Nouveau",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj pokret je često prikazivao dinamiku i pokret u svojim djelima.",
+        "explanation": "Futurizam je avangardni umjetnički pokret nastao u Italiji početkom 20. stoljeća. Slavio je brzinu, tehnologiju i modernost, često prikazujući dinamiku i pokret u svojim djelima. Filippo Tommaso Marinetti je napisao Futuristički manifest 1909. godine."
+      },
+      {
+        "question": "Koja je hrvatska slikarica poznata po svojim akvarelima cvijeća i pejzaža, unatoč tome što je bila gluha i nijema?",
+        "answers": [
+          {
+            "answer": "Slava Raškaj",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Nasta Rojc",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Anka Krizmanić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Cata Dujšin-Ribar",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Njezini najpoznatiji radovi uključuju slike lopoča.",
+        "explanation": "Slava Raškaj bila je hrvatska slikarica poznata po svojim akvarelima, posebno prikazima cvijeća i pejzaža. Unatoč tome što je bila gluha i nijema, ostavila je značajan trag u hrvatskoj umjetnosti krajem 19. i početkom 20. stoljeća."
+      },
+      {
+        "question": "Koja se umjetnička tehnika koristi za stvaranje trodimenzionalnih slika koje se mijenjaju ovisno o kutu gledanja?",
+        "answers": [
+          {
+            "answer": "Holografija",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Litografija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Serigrafija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Bakropis",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tehnika koristi lasersku tehnologiju za stvaranje iluzije dubine.",
+        "explanation": "Holografija je tehnika stvaranja trodimenzionalnih slika korištenjem lasera. Hologrami daju iluziju dubine i mijenjaju se ovisno o kutu gledanja, stvarajući dojam trodimenzionalnosti."
+      },
+      {
+        "question": "Koji je hrvatski umjetnik poznat po svojim geometrijskim apstrakcijama i optičkim iluzijama?",
+        "answers": [
+          {
+            "answer": "Miroslav Šutej",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Edo Murtić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vjenceslav Richter",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Josip Vaništa",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Njegove radove karakterizira uporaba živih boja i preciznih geometrijskih oblika.",
+        "explanation": "Miroslav Šutej bio je hrvatski umjetnik poznat po svojim geometrijskim apstrakcijama i optičkim iluzijama. Njegovi radovi često koriste žive boje i precizne geometrijske oblike, stvarajući dinamične vizualne efekte."
+      },
+      {
+        "question": "Koja je umjetnička tehnika karakterizirana upotrebom malih, obojenih staklenih ili kamenih kockica za stvaranje slike?",
+        "answers": [
+          {
+            "answer": "Mozaik",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vitraj",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Intarzija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Freska",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tehnika je često korištena u antičkoj rimskoj umjetnosti.",
+        "explanation": "Mozaik je umjetnička tehnika u kojoj se male, obojene staklene ili kamene kockice (tesere) slažu kako bi stvorile sliku ili uzorak. Ova tehnika je bila posebno popularna u antičkoj rimskoj umjetnosti, ali se koristi i danas."
+      },
+      {
+        "question": "Koji je hrvatski slikar autor ciklusa 'Šuma'?",
+        "answers": [
+          {
+            "answer": "Zlatko Šulentić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Emanuel Vidović",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ljubo Babić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Oton Gliha",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj ciklus slika nastao je inspiriran Gorskim kotarom.",
+        "explanation": "Zlatko Šulentić je autor ciklusa 'Šuma', inspiriranog pejzažima Gorskog kotara. Ovaj ciklus predstavlja značajan doprinos hrvatskom pejzažnom slikarstvu 20. stoljeća."
+      },
+      {
+        "question": "Koja je umjetnička grupa djelovala u Zagrebu 1960-ih, poznata po konceptualnom pristupu umjetnosti?",
+        "answers": [
+          {
+            "answer": "Gorgona",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "EXAT 51",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Zemlja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Biafra",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova grupa je izdavala anti-časopis istog imena.",
+        "explanation": "Gorgona je bila umjetnička grupa koja je djelovala u Zagrebu 1960-ih. Poznata je po svom konceptualnom pristupu umjetnosti i izdavanju anti-časopisa 'Gorgona'. Članovi su uključivali Josipa Vaništu, Julija Knifera i druge značajne umjetnike."
+      }
+    ]
+  },
+  {
+    "topic": "Umjetnost",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koji je najstariji javni muzej u Hrvatskoj?",
+        "answers": [
+          {
+            "answer": "Arheološki muzej u Splitu",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Muzej grada Zagreba",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hrvatski povijesni muzej",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Muzej Slavonije u Osijeku",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej je osnovan 1820. godine.",
+        "explanation": "Arheološki muzej u Splitu, osnovan 1820. godine, najstariji je javni muzej u Hrvatskoj. Smješten je u povijesnoj palači Papalić i sadrži značajnu zbirku antičkih artefakata."
+      },
+      {
+        "question": "Koji je poznati francuski muzej smješten u bivšoj željezničkoj postaji?",
+        "answers": [
+          {
+            "answer": "Musée d'Orsay",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Louvre",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Centre Pompidou",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Musée Rodin",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej je poznat po svojoj kolekciji impresionističke umjetnosti.",
+        "explanation": "Musée d'Orsay u Parizu smješten je u bivšoj željezničkoj postaji Gare d'Orsay. Poznat je po svojoj kolekciji impresionističke i post-impresionističke umjetnosti, uključujući djela Moneta, Van Gogha i Renoira."
+      },
+      {
+        "question": "Koji hrvatski grad je poznat po svojoj rimskoj areni iz 1. stoljeća?",
+        "answers": [
+          {
+            "answer": "Pula",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Split",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Zadar",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dubrovnik",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova arena je jedan od najbolje očuvanih rimskih amfiteatara na svijetu.",
+        "explanation": "Pula je poznata po svojoj rimskoj areni iz 1. stoljeća, koja je jedan od najbolje očuvanih rimskih amfiteatara na svijetu. Arena se i danas koristi za razne kulturne događaje i koncerte."
+      },
+      {
+        "question": "Koja je najstarija kulturna institucija u Hrvatskoj, osnovana 1861. godine?",
+        "answers": [
+          {
+            "answer": "Hrvatska akademija znanosti i umjetnosti",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Matica hrvatska",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hrvatsko narodno kazalište u Zagrebu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sveučilište u Zagrebu",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova institucija je prvotno nosila ime Jugoslavenska akademija znanosti i umjetnosti.",
+        "explanation": "Hrvatska akademija znanosti i umjetnosti (HAZU) osnovana je 1861. godine kao Jugoslavenska akademija znanosti i umjetnosti. To je najstarija kulturna institucija u Hrvatskoj i najviša znanstvena i umjetnička institucija u zemlji."
+      },
+      {
+        "question": "Koji je poznati muzej u New Yorku posvećen modernoj i suvremenoj umjetnosti?",
+        "answers": [
+          {
+            "answer": "Museum of Modern Art (MoMA)",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Metropolitan Museum of Art",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Guggenheim Museum",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Whitney Museum of American Art",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej je poznat po svojoj kolekciji koja uključuje 'Zvjezdanu noć' Vincenta van Gogha.",
+        "explanation": "Museum of Modern Art (MoMA) u New Yorku je jedan od najutjecajnijih muzeja moderne i suvremene umjetnosti u svijetu. Osnovan 1929. godine, sadrži važna djela umjetnika poput Picassa, Van Gogha, Warhola i mnogih drugih."
+      },
+      {
+        "question": "Koji je poznati hrvatski spomenik kulture izgrađen u 16. stoljeću kao obrambeni zid protiv Osmanlija?",
+        "answers": [
+          {
+            "answer": "Zidine Stona",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Dubrovačke zidine",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tvrđava sv. Nikole u Šibeniku",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tvrđava Klis",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ove zidine su poznate po proizvodnji soli u blizini.",
+        "explanation": "Zidine Stona izgrađene su u 14. stoljeću kako bi zaštitile grad Ston i njegove vrijedne solane od osmanskih napada. S duljinom od 5,5 km, one su drugi najduži obrambeni zid u Europi, nakon Kineskog zida."
+      },
+      {
+        "question": "Koja je poznata galerija u Londonu posvećena britanskoj umjetnosti od 16. stoljeća do danas?",
+        "answers": [
+          {
+            "answer": "Tate Britain",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "National Gallery",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Saatchi Gallery",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Royal Academy of Arts",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova galerija je dio grupe Tate galerija.",
+        "explanation": "Tate Britain, smještena u Londonu, posvećena je britanskoj umjetnosti od 1500. godine do danas. Osnovana 1897. godine, dio je grupe Tate galerija koja uključuje i Tate Modern, Tate Liverpool i Tate St Ives."
+      },
+      {
+        "question": "Koja je najstarija kulturna institucija u Zagrebu, osnovana 1846. godine?",
+        "answers": [
+          {
+            "answer": "Matica hrvatska",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Hrvatsko narodno kazalište",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Muzej grada Zagreba",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Zagrebačko sveučilište",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova institucija je odigrala ključnu ulogu u očuvanju hrvatskog jezika i kulture.",
+        "explanation": "Matica hrvatska, osnovana 1846. godine, najstarija je kulturna institucija u Zagrebu. Odigrala je ključnu ulogu u promicanju hrvatske kulture, jezika i književnosti te je i danas aktivna u izdavaštvu i organizaciji kulturnih događanja."
+      },
+      {
+        "question": "Koji je poznati ruski muzej smješten u bivšoj carskoj palači?",
+        "answers": [
+          {
+            "answer": "Ermitaž",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Tretjakovska galerija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Puškinov muzej",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ruski muzej",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej se nalazi u Sankt Peterburgu i jedan je od najvećih na svijetu.",
+        "explanation": "Ermitaž u Sankt Peterburgu jedan je od najvećih i najstarijih muzeja na svijetu. Smješten je u bivšoj carskoj Zimskoj palači i sadrži preko tri milijuna umjetničkih djela i artefakata iz cijelog svijeta."
+      },
+      {
+        "question": "Koji hrvatski grad je poznat po svojoj katedrali sv. Jakova, UNESCO-vom spomeniku svjetske baštine?",
+        "answers": [
+          {
+            "answer": "Šibenik",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Zadar",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Trogir",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dubrovnik",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova katedrala je jedinstvena po svojoj kamenom svodu i kupoli.",
+        "explanation": "Katedrala sv. Jakova u Šibeniku, izgrađena u 15. i 16. stoljeću, jedinstvena je po svojoj konstrukciji s kamenim svodom i kupolom. Uvrštena je na UNESCO-v popis svjetske baštine 2000. godine."
+      },
+      {
+        "question": "Koji je poznati muzej u Amsterdamu posvećen nizozemskom post-impresionističkom slikaru?",
+        "answers": [
+          {
+            "answer": "Van Gogh Museum",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Rijksmuseum",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Stedelijk Museum",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Rembrandt House Museum",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej sadrži najveću kolekciju djela umjetnika poznatog po 'Zvjezdanoj noći'.",
+        "explanation": "Van Gogh Museum u Amsterdamu posvećen je životu i radu Vincenta van Gogha. Sadrži najveću kolekciju njegovih slika i crteža na svijetu, uključujući mnoga njegova najpoznatija djela."
+      },
+      {
+        "question": "Koja je poznata kulturna manifestacija u Dubrovniku osnovana 1950. godine?",
+        "answers": [
+          {
+            "answer": "Dubrovačke ljetne igre",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Splitsko ljeto",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Pulski filmski festival",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Varaždinske barokne večeri",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova manifestacija se održava svake godine od srpnja do kolovoza.",
+        "explanation": "Dubrovačke ljetne igre su godišnji festival koji se održava od 1950. godine. Tijekom festivalskog razdoblja, cijeli grad Dubrovnik postaje pozornica za razne kazališne predstave, koncerte i druge kulturne događaje."
+      },
+      {
+        "question": "Koji je poznati muzej u Rimu posvećen antičkoj rimskoj umjetnosti i artefaktima?",
+        "answers": [
+          {
+            "answer": "Kapitolinski muzeji",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vatikanski muzeji",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Galerija Borghese",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nacionalni rimski muzej",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzejski kompleks nalazi se na Kapitolskom brežuljku.",
+        "explanation": "Kapitolinski muzeji, smješteni na Kapitolskom brežuljku u Rimu, najstariji su javni muzeji na svijetu. Osnovani 1471. godine, sadrže važnu zbirku antičke rimske umjetnosti i artefakata."
+      },
+      {
+        "question": "Koji hrvatski otok je poznat po svojim crkvama i samostanima, uključujući samostan sv. Marije iz 12. stoljeća?",
+        "answers": [
+          {
+            "answer": "Mljet",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Hvar",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Korčula",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Rab",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj otok je poznat i po svom Nacionalnom parku koji obuhvaća njegovo zapadno područje.",
+        "explanation": "Otok Mljet poznat je po svojim brojnim crkvama i samostanima, od kojih je najpoznatiji benediktinski samostan sv. Marije iz 12. stoljeća, smješten na otočiću usred Velikog jezera u Nacionalnom parku Mljet."
+      },
+      {
+        "question": "Koji je poznati umjetnički muzej u Madridu, poznat po svojoj kolekciji španjolske umjetnosti?",
+        "answers": [
+          {
+            "answer": "Museo del Prado",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Museo Reina Sofía",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Museo Thyssen-Bornemisza",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Museo de América",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej sadrži značajnu kolekciju djela Velázqueza i Goye.",
+        "explanation": "Museo del Prado u Madridu jedan je od najvažnijih umjetničkih muzeja na svijetu. Poznat je po svojoj izvanrednoj kolekciji španjolske umjetnosti, uključujući značajna djela Velázqueza, Goye, El Greca i mnogih drugih."
+      },
+      {
+        "question": "Koja je najstarija kazališna institucija u Hrvatskoj, osnovana 1860. godine?",
+        "answers": [
+          {
+            "answer": "Hrvatsko narodno kazalište u Zagrebu",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Hrvatsko narodno kazalište u Osijeku",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hrvatsko narodno kazalište u Splitu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hrvatsko narodno kazalište Ivana pl. Zajca u Rijeci",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova institucija se nalazi na Trgu Republike Hrvatske u Zagrebu.",
+        "explanation": "Hrvatsko narodno kazalište u Zagrebu, osnovano 1860. godine, najstarija je kazališna institucija u Hrvatskoj. Smješteno je u impozantnoj neobaroknoj zgradi na Trgu Republike Hrvatske i dom je opere, baleta i drame."
+      },
+      {
+        "question": "Koji je poznati arheološki lokalitet u Grčkoj, nekadašnje središte delfskog proročišta?",
+        "answers": [
+          {
+            "answer": "Delfi",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Olimpija",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Mikena",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Knos",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovo mjesto je u antičkoj Grčkoj smatrano 'pupkom svijeta'.",
+        "explanation": "Delfi su poznati arheološki lokalitet u Grčkoj, nekada središte delfskog proročišta posvećenog bogu Apolonu. U antičkoj Grčkoj, Delfi su smatrani 'pupkom svijeta' i bili su važno vjersko i kulturno središte."
+      },
+      {
+        "question": "Koji hrvatski grad je poznat po svojoj baroknoj tvrđavi iz 18. stoljeća, jednoj od najvećih u Europi?",
+        "answers": [
+          {
+            "answer": "Slavonski Brod",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Osijek",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vukovar",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Varaždin",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova tvrđava je izgrađena kao obrana od Osmanskog Carstva na rijeci Savi.",
+        "explanation": "Slavonski Brod je poznat po svojoj impresivnoj baroknoj tvrđavi iz 18. stoljeća, jednoj od najvećih u Europi. Tvrđava je izgrađena kao dio obrambenog sustava protiv Osmanskog Carstva na rijeci Savi."
+      },
+      {
+        "question": "Koji je poznati muzej u Beču posvećen austrijskoj umjetnosti 19. i 20. stoljeća?",
+        "answers": [
+          {
+            "answer": "Belvedere",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Kunsthistorisches Museum",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Albertina",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Leopold Museum",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej je smješten u baroknoj palači i sadrži najveću kolekciju Gustava Klimta.",
+        "explanation": "Belvedere u Beču je muzej smješten u baroknoj palači, poznat po svojoj kolekciji austrijske umjetnosti 19. i 20. stoljeća. Sadrži najveću kolekciju djela Gustava Klimta, uključujući njegov čuveni 'Poljubac'."
+      },
+      {
+        "question": "Koja je najstarija kulturna institucija u Splitu, osnovana 1826. godine?",
+        "answers": [
+          {
+            "answer": "Arheološki muzej u Splitu",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Hrvatsko narodno kazalište u Splitu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Galerija umjetnina",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Muzej grada Splita",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj muzej sadrži značajnu zbirku antičkih artefakata iz Salone.",
+        "explanation": "Arheološki muzej u Splitu, osnovan 1826. godine, najstarija je kulturna institucija u Splitu. Poznat je po svojoj bogatoj zbirci antičkih artefakata, posebno onih iz obližnje rimske Salone."
+      }
+    ]
+  },
+  {
+    "topic": "Umjetnosti",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koji je popularni hrvatski glazbeni festival osnovan 2013. godine u Tisnom?",
+        "answers": [
+          {
+            "answer": "Love International",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Ultra Europe",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "INmusic festival",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Outlook Festival",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj festival je nasljednik popularnog Garden Festivala.",
+        "explanation": "Love International je popularni glazbeni festival koji se održava u Tisnom od 2013. godine. Nastao je kao nasljednik Garden Festivala i poznat je po svojoj elektroničkoj i house glazbi."
+      },
+      {
+        "question": "Koji je poznati hrvatski ulični umjetnik autor murala 'Plavi kit' u Zagrebu?",
+        "answers": [
+          {
+            "answer": "Lonac",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "OKO",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Lunar",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Bare",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim hiper-realističnim muralima.",
+        "explanation": "Lonac je poznati hrvatski ulični umjetnik čiji je mural 'Plavi kit' u Zagrebu postao jedna od najprepoznatljivijih gradskih atrakcija. Poznat je po svojim hiper-realističnim i često animiranim muralima."
+      },
+      {
+        "question": "Koja je popularna hrvatska serija, prikazivana od 2005. do 2008. godine, doživjela međunarodni uspjeh?",
+        "answers": [
+          {
+            "answer": "Bitange i princeze",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Lud, zbunjen, normalan",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Naša mala klinika",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Odmori se, zaslužio si",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova humoristična serija prati život pet prijatelja u Zagrebu.",
+        "explanation": "'Bitange i princeze' je popularna hrvatska humoristična serija koja je prikazivana od 2005. do 2008. godine. Serija je stekla kultni status u Hrvatskoj i regiji te je doživjela međunarodni uspjeh, uključujući prikazivanje u nekoliko europskih zemalja."
+      },
+      {
+        "question": "Koji je poznati hrvatski digitalni umjetnik poznat po svojim 3D animacijama i vizualnim efektima?",
+        "answers": [
+          {
+            "answer": "Milivoj Popović",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Ivan Marušić Klif",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Davor Sanvincenti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Igor Ruf",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat pod nadimkom 'Vector Meldrew'.",
+        "explanation": "Milivoj Popović, poznat pod umjetničkim imenom 'Vector Meldrew', je hrvatski digitalni umjetnik čije su 3D animacije i vizualni efekti stekli međunarodno priznanje. Njegov rad često kombinira apstraktne oblike s realističnim teksturama."
+      },
+      {
+        "question": "Koji je popularni hrvatski glazbeni duo poznat po svojim elektroničkim i eksperimentalnim kompozicijama?",
+        "answers": [
+          {
+            "answer": "Nipplepeople",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Silente",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Elemental",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Detour",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj duo je poznat po tome što nastupa s maskama koje prekrivaju cijelo lice.",
+        "explanation": "Nipplepeople je hrvatski glazbeni duo poznat po svojim elektroničkim i eksperimentalnim kompozicijama. Njihov identitet je tajna, a na nastupima uvijek nose maske koje prekrivaju cijelo lice, što je postalo njihov zaštitni znak."
+      },
+      {
+        "question": "Koji je popularni hrvatski modni dizajner poznat po svojim avangardnim kreacijama i suradnji s međunarodnim brendovima?",
+        "answers": [
+          {
+            "answer": "Damir Doma",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Robert Sever",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Aleksandra Dojčinović",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Juraj Zigman",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj dizajner je karijeru izgradio u Parizu i Milanu.",
+        "explanation": "Damir Doma je hrvatski modni dizajner koji je stekao međunarodno priznanje svojim avangardnim kreacijama. Nakon školovanja u Berlinu i Münchenu, karijeru je izgradio u Parizu i Milanu, surađujući s mnogim poznatim brendovima."
+      },
+      {
+        "question": "Koji je popularni hrvatski filmski festival posvećen animiranom filmu?",
+        "answers": [
+          {
+            "answer": "Animafest Zagreb",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Zagreb Film Festival",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Motovun Film Festival",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Pula Film Festival",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj festival je drugi najstariji festival animiranog filma u svijetu.",
+        "explanation": "Animafest Zagreb je međunarodni festival animiranog filma koji se održava u Zagrebu od 1972. godine. To je drugi najstariji festival animiranog filma u svijetu i jedan od najuglednijih događaja te vrste."
+      },
+      {
+        "question": "Koja je popularna hrvatska glazbena platforma za streaming i otkrivanje nove glazbe?",
+        "answers": [
+          {
+            "answer": "Deezer",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Spotify",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tidal",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Apple Music",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova platforma je posebno popularna u Hrvatskoj i regiji.",
+        "explanation": "Deezer je glazbena streaming platforma koja je posebno popularna u Hrvatskoj i regiji. Iako nije hrvatska tvrtka, Deezer je stekao veliku popularnost zbog svoje ponude lokalnog sadržaja i suradnje s domaćim glazbenicima."
+      },
+      {
+        "question": "Koji je poznati hrvatski influencer i YouTuber poznat po svojim humorističnim videima i podcast emisijama?",
+        "answers": [
+          {
+            "answer": "Marko Mrkić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Davor Gerbus",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Maša Zibar",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Matija Lazić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj influencer je poznat po svojoj emisiji 'Podcast Inkubator'.",
+        "explanation": "Marko Mrkić je poznati hrvatski influencer i YouTuber. Poznat je po svojim humorističnim videima i kao jedan od voditelja popularnog 'Podcast Inkubator'-a, koji je jedan od najslušanijih podcasta u regiji."
+      },
+      {
+        "question": "Koji je popularni hrvatski glazbeni festival elektroničke glazbe koji se održava u Splitu?",
+        "answers": [
+          {
+            "answer": "Ultra Europe",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Outlook Festival",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dimensions Festival",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sonus Festival",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj festival je dio globalne franšize elektroničkih festivala.",
+        "explanation": "Ultra Europe je popularni festival elektroničke glazbe koji se održava u Splitu od 2013. godine. Dio je globalne Ultra Music Festival franšize i jedan je od najvećih glazbenih događaja u Hrvatskoj."
+      },
+      {
+        "question": "Koji je poznati hrvatski lifestyle brend fokusiran na održivu modu i dizajn?",
+        "answers": [
+          {
+            "answer": "Boya",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "XD Xenia Design",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Elfs",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Bipa Fashion.hr",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj brend je poznat po svojim torbama od recikliranih materijala.",
+        "explanation": "Boya je hrvatski lifestyle brend koji je stekao popularnost svojim fokusom na održivu modu i dizajn. Posebno su poznati po svojim torbama izrađenim od recikliranih materijala, kao što su jedra i automobilski pojasevi."
+      },
+      {
+        "question": "Koji je popularni hrvatski reality show fokusiran na kulinarstvo i natjecanje među chefovima?",
+        "answers": [
+          {
+            "answer": "Masterchef Hrvatska",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Tri, dva, jedan - kuhaj!",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Večera za 5",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Goli kuhar",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj show je hrvatska verzija poznatog međunarodnog kulinarskog natjecanja.",
+        "explanation": "Masterchef Hrvatska je popularna hrvatska verzija međunarodnog kulinarskog natjecanja. Show prati natjecatelje amatere koji se bore za titulu najboljeg kuhara, ocjenjivani od strane poznatih hrvatskih chefova."
+      },
+      {
+        "question": "Koji je poznati hrvatski startup razvio aplikaciju za učenje programiranja kroz igru?",
+        "answers": [
+          {
+            "answer": "STEMI",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Photomath",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Bellabeat",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Rimac Automobili",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj startup je poznat po svojim edukativnim robotima.",
+        "explanation": "STEMI je hrvatski startup koji je razvio aplikaciju za učenje programiranja kroz igru. Poznati su po svojim edukativnim robotima i programima koji pomažu djeci i mladima da nauče osnove robotike i programiranja na zabavan način."
+      },
+      {
+        "question": "Koji je popularni hrvatski glazbeni duo poznat po spoju elektroničke glazbe i tradicijskih elemenata?",
+        "answers": [
+          {
+            "answer": "Svemir",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Kries",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Detour",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Elemental",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj duo čine producent Ljudevit Laušin i pjevačica Ana Andrlić.",
+        "explanation": "Svemir je hrvatski glazbeni duo koji čine producent Ljudevit Laušin i pjevačica Ana Andrlić. Poznati su po svom jedinstvenom spoju elektroničke glazbe i tradicijskih elemenata, stvarajući prepoznatljiv zvuk koji kombinira moderno i tradicionalno."
+      },
+      {
+        "question": "Koji je popularni hrvatski festival posvećen znanstvenoj fantastici i fantastici?",
+        "answers": [
+          {
+            "answer": "SFeraKon",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Liburnicon",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Rikon",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Istrakon",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj festival organizira Društvo za znanstvenu fantastiku SFera.",
+        "explanation": "SFeraKon je najstariji i najveći hrvatski festival znanstvene fantastike i fantastike. Organizira ga Društvo za znanstvenu fantastiku SFera i održava se svake godine u Zagrebu, privlačeći ljubitelje žanra iz cijele regije."
+      },
+      {
+        "question": "Koji je poznati hrvatski modni događaj koji predstavlja rad domaćih i međunarodnih dizajnera?",
+        "answers": [
+          {
+            "answer": "Bipa Fashion.hr",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Zagreb Fashion Week",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Cro-A-Porter",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Diploma Fashion Show",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj događaj se održava dvaput godišnje i jedan je od najvećih modnih događaja u regiji.",
+        "explanation": "Bipa Fashion.hr je jedan od najznačajnijih modnih događaja u Hrvatskoj. Održava se dvaput godišnje u Zagrebu i predstavlja kolekcije domaćih i međunarodnih dizajnera, igrajući važnu ulogu u promociji hrvatske modne scene."
+      },
+      {
+        "question": "Koji je popularni hrvatski glazbeni festival alternativne i indie glazbe koji se održava u Zagrebu?",
+        "answers": [
+          {
+            "answer": "INmusic festival",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Seasplash Festival",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ferragosto Jam",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Terraneo",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj festival se održava na Jarunu.",
+        "explanation": "INmusic festival je najveći open-air festival u Hrvatskoj koji se održava svake godine na jarunskom otoku u Zagrebu. Poznat je po nastupima poznatih međunarodnih i domaćih izvođača alternativne i indie glazbe."
+      },
+      {
+        "question": "Koja je popularna hrvatska aplikacija za dostavu hrane?",
+        "answers": [
+          {
+            "answer": "Pauza",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Wolt",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Glovo",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Bolt Food",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova aplikacija je dio Foodpanda grupe.",
+        "explanation": "Pauza je popularna hrvatska aplikacija za dostavu hrane. Osnovana je u Hrvatskoj i kasnije postala dio međunarodne Foodpanda grupe, zadržavajući svoj brend na hrvatskom tržištu."
+      },
+      {
+        "question": "Koji je poznati hrvatski YouTuber i komičar poznat po svojim skečevima i imitacijama?",
+        "answers": [
+          {
+            "answer": "Ivan Šarić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Matija Lazić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Davor Gerbus",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Jan Kerekeš",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj komičar je poznat i po svojim stand-up nastupima.",
+        "explanation": "Ivan Šarić je poznati hrvatski komičar, YouTuber i televizijski voditelj. Stekao je popularnost svojim skečevima i imitacijama na YouTubeu, a kasnije je proširio svoju karijeru na stand-up komediju i televizijske nastupe."
+      },
+      {
+        "question": "Koji je popularni hrvatski festival posvećen stripovima i pop kulturi?",
+        "answers": [
+          {
+            "answer": "MakerFaire Zagreb",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Zagreb Comic Con",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "CRO Comic Con",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Crtani Romani Šou",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj festival se fokusira na tehnologiju, inovacije i DIY kulturu.",
+        "explanation": "MakerFaire Zagreb je festival koji slavi inovaciju, kreativnost i DIY kulturu. Iako nije isključivo posvećen stripovima, ovaj događaj okuplja ljubitelje tehnologije, znanosti, umjetnosti i pop kulture, uključujući i mnoge aspekte vezane uz stripove i srodne medije."
+      },
+      {
+        "question": "Koji je poznati hrvatski street art festival koji se održava u Vukovaru?",
+        "answers": [
+          {
+            "answer": "VukovArt",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Grafiti na gradele",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Artmosphera",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Re:Think",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj festival je poznat po velikim muralima koji ukrašavaju zgrade u gradu.",
+        "explanation": "VukovArt je street art festival koji se održava u Vukovaru od 2017. godine. Festival je poznat po stvaranju velikih murala na zgradama diljem grada, transformirajući urbani krajolik Vukovara i privlačeći umjetnike iz cijelog svijeta."
+      }
+    ]
+  },
+  {
+    "topic": "Umjetnost",
+    "difficulty": "normal",
+    "questions": [
+      {
+        "question": "Koji je poznati hrvatski umjetnik poznat po svojim interdisciplinarnim projektima koji kombiniraju vizualnu umjetnost i zvuk?",
+        "answers": [
+          {
+            "answer": "Ivan Marušić Klif",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Dalibor Martinis",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Igor Grubić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Sanja Iveković",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim interaktivnim zvučnim instalacijama.",
+        "explanation": "Ivan Marušić Klif je hrvatski multimedijalni umjetnik poznat po svojim interdisciplinarnim projektima koji kombiniraju vizualnu umjetnost, zvuk i tehnologiju. Njegovi radovi često uključuju interaktivne zvučne instalacije i performanse."
+      },
+      {
+        "question": "Koja je hrvatska umjetnica poznata po svojim performansima koji istražuju odnos tijela, prostora i društvenih normi?",
+        "answers": [
+          {
+            "answer": "Vlasta Delimar",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Sanja Iveković",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Renata Poljak",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Andreja Kulunčić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica je poznata po svojim provokativnim performansima koji često uključuju njezino vlastito tijelo.",
+        "explanation": "Vlasta Delimar je hrvatska performans umjetnica poznata po svojim provokativnim radovima koji istražuju teme identiteta, roda i seksualnosti. Njezini performansi često uključuju njezino vlastito tijelo kao sredstvo umjetničkog izražavanja."
+      },
+      {
+        "question": "Koji hrvatski glazbenik je poznat po svojim eksperimentalnim kompozicijama koje kombiniraju klasičnu glazbu i elektroniku?",
+        "answers": [
+          {
+            "answer": "Gordan Tudor",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Matej Meštrović",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Petar Milić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Darko Rundek",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj glazbenik je također poznat kao saksofonist i skladatelj suvremene klasične glazbe.",
+        "explanation": "Gordan Tudor je hrvatski glazbenik, saksofonist i skladatelj poznat po svojim eksperimentalnim kompozicijama koje spajaju elemente klasične glazbe, jazza i elektronike. Njegov rad često prelazi granice između različitih glazbenih žanrova."
+      },
+      {
+        "question": "Koji je hrvatski filmski redatelj poznat po svojim eksperimentalnim filmovima koji često kombiniraju dokumentarni i igrani pristup?",
+        "answers": [
+          {
+            "answer": "Ivan Ladislav Galeta",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Igor Bezinović",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Goran Dević",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dalibor Matanić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj redatelj je bio pionir eksperimentalnog filma u Hrvatskoj i bavio se i konceptualnom umjetnošću.",
+        "explanation": "Ivan Ladislav Galeta bio je hrvatski multimedijalni umjetnik i filmski redatelj, poznat po svojim eksperimentalnim filmovima i video radovima. Njegov rad često je kombinirao elemente dokumentarnog i igranog filma, istražujući granice filmskog medija."
+      },
+      {
+        "question": "Koji hrvatski arhitekt je poznat po svojim interdisciplinarnim projektima koji kombiniraju arhitekturu, dizajn i umjetnost?",
+        "answers": [
+          {
+            "answer": "Nikola Bašić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Igor Franić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hrvoje Njirić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Saša Randić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj arhitekt je autor instalacije 'Morske orgulje' u Zadru.",
+        "explanation": "Nikola Bašić je hrvatski arhitekt poznat po svojim inovativnim projektima koji kombiniraju arhitekturu, dizajn i umjetnost. Najpoznatiji je po instalaciji 'Morske orgulje' u Zadru, koja spaja arhitekturu, zvuk i prirodne elemente."
+      },
+      {
+        "question": "Koja hrvatska umjetnica je poznata po svojim interdisciplinarnim projektima koji istražuju odnos umjetnosti, znanosti i tehnologije?",
+        "answers": [
+          {
+            "answer": "Andreja Kulunčić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Renata Poljak",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nika Radić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Lala Raščić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica često surađuje sa znanstvenicima i stručnjacima iz različitih područja u svojim projektima.",
+        "explanation": "Andreja Kulunčić je hrvatska multimedijalna umjetnica poznata po svojim interdisciplinarnim projektima koji istražuju društvene i političke teme. Njezin rad često uključuje suradnju sa znanstvenicima i stručnjacima iz različitih područja, spajajući umjetnost, znanost i tehnologiju."
+      },
+      {
+        "question": "Koji hrvatski glazbenik je poznat po svojim projektima koji spajaju tradicijsku glazbu s elektronikom i eksperimentalnim zvukom?",
+        "answers": [
+          {
+            "answer": "Tamara Obrovac",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Darko Rundek",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Goran Bare",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Gibonni",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova glazbenica je poznata po svojim jedinstvenim interpretacijama istarske tradicijske glazbe.",
+        "explanation": "Tamara Obrovac je hrvatska glazbenica i skladateljica poznata po svojem jedinstvenom pristupu koji spaja istarsku tradicijsku glazbu s jazom, world music-om i eksperimentalnim zvukom. Njezin rad predstavlja inovativnu fuziju različitih glazbenih stilova i tradicija."
+      },
+      {
+        "question": "Koji hrvatski umjetnik je poznat po svojim interdisciplinarnim projektima koji istražuju odnos umjetnosti i ekologije?",
+        "answers": [
+          {
+            "answer": "Igor Grubić",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Slaven Tolj",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "David Maljković",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tomo Savić-Gecan",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim projektima koji često uključuju intervencije u javnom prostoru.",
+        "explanation": "Igor Grubić je hrvatski multimedijalni umjetnik poznat po svojim projektima koji istražuju društvene i političke teme, uključujući ekologiju. Njegovi radovi često uključuju intervencije u javnom prostoru, performanse i video umjetnost, spajajući različite umjetničke discipline s aktivizmom."
+      },
+      {
+        "question": "Koja hrvatska koreografkinja je poznata po svojim interdisciplinarnim plesnim projektima koji spajaju suvremeni ples s vizualnom umjetnošću i tehnologijom?",
+        "answers": [
+          {
+            "answer": "Selma Banich",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Irma Omerzo",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nikolina Pristaš",
+
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Petra Hrašćanec",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica je poznata po svojim eksperimentalnim koreografijama koje često uključuju digitalne tehnologije.",
+        "explanation": "Selma Banich je hrvatska koreografkinja i plesna umjetnica poznata po svojim inovativnim i interdisciplinarnim projektima. Njezin rad često spaja suvremeni ples s vizualnom umjetnošću, digitalnim tehnologijama i performansom, istražujući nove načine izražavanja kroz pokret i tijelo."
+      },
+      {
+        "question": "Koji hrvatski umjetnik je poznat po svojim interdisciplinarnim projektima koji istražuju odnos umjetnosti, arhitekture i društva?",
+        "answers": [
+          {
+            "answer": "David Maljković",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Tomo Savić-Gecan",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vlatka Horvat",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Kristian Kožul",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim instalacijama i filmovima koji često istražuju teme modernizma i utopije.",
+        "explanation": "David Maljković je hrvatski vizualni umjetnik poznat po svojim interdisciplinarnim projektima koji istražuju odnose između umjetnosti, arhitekture i društva. Njegov rad često uključuje instalacije, filmove i kolaže koji propituju naslijeđe modernizma i utopijske ideje u suvremenom kontekstu."
+      },
+      {
+        "question": "Koji hrvatski umjetnik je poznat po svojim interdisciplinarnim projektima koji spajaju performans, video umjetnost i aktivizam?",
+        "answers": [
+          {
+            "answer": "Siniša Labrović",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Marko Marković",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nemanja Cvijanović",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Božena Končić Badurina",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim provokativnim performansima koji često komentiraju društvene i političke teme.",
+        "explanation": "Siniša Labrović je hrvatski umjetnik poznat po svojim interdisciplinarnim projektima koji spajaju performans, video umjetnost i aktivizam. Njegovi radovi često uključuju provokativne performanse i intervencije u javnom prostoru, komentirajući aktualne društvene i političke teme."
+      },
+      {
+        "question": "Koja hrvatska umjetnica je poznata po svojim interdisciplinarnim projektima koji istražuju odnos tijela, identiteta i tehnologije?",
+        "answers": [
+          {
+            "answer": "Ivana Franke",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Nika Radić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ana Hušman",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nataša Bodrožić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica je poznata po svojim instalacijama koje često uključuju svjetlo i optičke efekte.",
+        "explanation": "Ivana Franke je hrvatska vizualna umjetnica poznata po svojim interdisciplinarnim projektima koji istražuju percepciju, svjetlo i prostor. Njezin rad često uključuje složene instalacije koje kombiniraju znanost, tehnologiju i umjetnost, istražujući odnose između tijela, identiteta i okoliša."
+      },
+      {
+        "question": "Koji hrvatski glazbenik je poznat po svojim interdisciplinarnim projektima koji spajaju glazbu, performans i vizualnu umjetnost?",
+        "answers": [
+          {
+            "answer": "Damir Bartol Indoš",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Damir Urban",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Mile Kekin",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Josipa Lisac",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim avangardnim performansima i eksperimentalnoj glazbi.",
+        "explanation": "Damir Bartol Indoš je hrvatski multimedijalni umjetnik poznat po svojim interdisciplinarnim projektima koji spajaju glazbu, performans i vizualnu umjetnost. Njegov rad karakterizira eksperimentalni pristup koji često uključuje nekonvencionalne instrumente i avangardne performanse."
+      },
+      {
+        "question": "Koja hrvatska umjetnica je poznata po svojim interdisciplinarnim projektima koji istražuju odnos umjetnosti, prirode i ekologije?",
+        "answers": [
+          {
+            "answer": "Kata Mijatović",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Renata Poljak",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Lala Raščić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Andreja Kulunčić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica je poznata po svojim projektima koji često uključuju intervencije u prirodnom okolišu.",
+        "explanation": "Kata Mijatović je hrvatska vizualna umjetnica poznata po svojim interdisciplinarnim projektima koji istražuju odnose između umjetnosti, prirode i ekologije. Njezin rad često uključuje instalacije i intervencije u prirodnom okolišu, potičući razmišljanje o odnosu čovjeka i prirode."
+      },
+      {
+        "question": "Koji hrvatski umjetnik je poznat po svojim interdisciplinarnim projektima koji spajaju skulpturu, arhitekturu i javnu umjetnost?",
+        "answers": [
+          {
+            "answer": "Sanja Iveković",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Ivan Kožarić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Dušan Džamonja",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Vojin Bakić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica je poznata po svojim feminističkim radovima i intervencijama u javnom prostoru.",
+        "explanation": "Sanja Iveković je hrvatska konceptualna umjetnica poznata po svojim interdisciplinarnim projektima koji spajaju različite medije, uključujući skulpturu, performans i javnu umjetnost. Njezin rad često istražuje teme roda, politike i javnog prostora, s posebnim naglaskom na feminističke perspektive."
+      },
+      {
+        "question": "Koji hrvatski umjetnik je poznat po svojim interdisciplinarnim projektima koji istražuju odnos umjetnosti, znanosti i tehnologije?",
+        "answers": [
+          {
+            "answer": "Darko Fritz",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Ivan Marušić Klif",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Davor Sanvincenti",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Igor Ruf",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim radovima koji istražuju povijest i utjecaj novih medija i tehnologija.",
+        "explanation": "Darko Fritz je hrvatski multimedijalni umjetnik poznat po svojim interdisciplinarnim projektima koji istražuju odnose između umjetnosti, znanosti i tehnologije. Njegov rad često uključuje istraživanje povijesti i utjecaja novih medija, digitalne kulture i tehnoloških inovacija na suvremeno društvo."
+      },
+      {
+        "question": "Koja hrvatska umjetnica je poznata po svojim interdisciplinarnim projektima koji spajaju performans, video umjetnost i instalacije?",
+        "answers": [
+          {
+            "answer": "Renata Poljak",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Nika Radić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Ana Hušman",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Andreja Kulunčić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica je poznata po svojim radovima koji često istražuju teme identiteta, migracija i kolektivnog pamćenja.",
+        "explanation": "Renata Poljak je hrvatska multimedijalna umjetnica poznata po svojim interdisciplinarnim projektima koji spajaju performans, video umjetnost i instalacije. Njezin rad često istražuje teme identiteta, migracija i kolektivnog pamćenja, koristeći osobne i društvene narative za propitivanje suvremenih političkih i socijalnih pitanja."
+      },
+      {
+        "question": "Koji hrvatski umjetnik je poznat po svojim interdisciplinarnim projektima koji spajaju zvuk, prostor i arhitekturu?",
+        "answers": [
+          {
+            "answer": "Davor Sanvincenti",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Ivan Marušić Klif",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Igor Ruf",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Nikola Bojić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim zvučnim instalacijama i performansima koji istražuju percepciju i osjetilno iskustvo.",
+        "explanation": "Davor Sanvincenti je hrvatski multimedijalni umjetnik poznat po svojim interdisciplinarnim projektima koji spajaju zvuk, prostor i arhitekturu. Njegov rad često uključuje zvučne instalacije i performanse koji istražuju percepciju, osjetilno iskustvo i odnos između zvuka i prostora."
+      },
+      {
+        "question": "Koja hrvatska umjetnica je poznata po svojim interdisciplinarnim projektima koji istražuju odnos tijela, performansa i novih medija?",
+        "answers": [
+          {
+            "answer": "Sandra Sterle",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Vlasta Delimar",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Božena Končić Badurina",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Andreja Kulunčić",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ova umjetnica je poznata po svojim performansima i video radovima koji često propituju rodne uloge i identitete.",
+        "explanation": "Sandra Sterle je hrvatska multimedijalna umjetnica poznata po svojim interdisciplinarnim projektima koji istražuju odnos tijela, performansa i novih medija. Njezin rad često uključuje performanse i video radove koji propituju rodne uloge, identitete i društvene konvencije, koristeći tijelo kao medij za umjetničko izražavanje."
+      },
+      {
+        "question": "Koji hrvatski umjetnik je poznat po svojim interdisciplinarnim projektima koji spajaju konceptualnu umjetnost, arhitekturu i društveni angažman?",
+        "answers": [
+          {
+            "answer": "Slaven Tolj",
+            "correct": true,
+            "points": 10
+          },
+          {
+            "answer": "Igor Grubić",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Tomo Savić-Gecan",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "David Maljković",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Ovaj umjetnik je poznat po svojim performansima i intervencijama u javnom prostoru, često s političkim i društvenim konotacijama.",
+        "explanation": "Slaven Tolj je hrvatski konceptualni umjetnik poznat po svojim interdisciplinarnim projektima koji spajaju performans, instalacije i društveni angažman. Njegov rad često uključuje intervencije u javnom prostoru i performanse koji propituju društvene, političke i kulturne teme, posebno u kontekstu post-jugoslavenskog prostora."
+      }
+    ]
+  }
+]

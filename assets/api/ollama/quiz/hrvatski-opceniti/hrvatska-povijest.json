@@ -1,0 +1,901 @@
+[
+  {
+    "topic": "Povijest (Dolazak hrvata|Hrvatska u doba kraljeva|Hrvatska u doba knezova|Rimske provinsije u hrvatskoj)",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "U kojem su stoljeću Hrvati došli na područje današnje Hrvatske?",
+        "answers": [
+          { "answer": "6. stoljeću", "correct": false, "points": 0 },
+          { "answer": "7. stoljeću", "correct": true, "points": 10 },
+          { "answer": "8. stoljeću", "correct": false, "points": 0 },
+          { "answer": "9. stoljeću", "correct": false, "points": 0 }
+        ],
+        "hint": "Razdoblje velike seobe naroda",
+        "explanation": "Hrvati su došli na područje današnje Hrvatske u 7. stoljeću, tijekom velike seobe naroda."
+      },
+      {
+        "question": "Koji je hrvatski vladar okrunjen za kralja 925. godine?",
+        "answers": [
+          { "answer": "Tomislav", "correct": true, "points": 10 },
+          { "answer": "Trpimir", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": false, "points": 0 },
+          { "answer": "Domagoj", "correct": false, "points": 0 }
+        ],
+        "hint": "Smatra se prvim hrvatskim kraljem",
+        "explanation": "Tomislav je okrunjen za prvog hrvatskog kralja 925. godine, označavajući početak hrvatskog kraljevstva."
+      },
+      {
+        "question": "Koja je rimska provincija obuhvaćala veći dio današnje Dalmacije?",
+        "answers": [
+          { "answer": "Panonija", "correct": false, "points": 0 },
+          { "answer": "Ilirik", "correct": false, "points": 0 },
+          { "answer": "Dalmacija", "correct": true, "points": 10 },
+          { "answer": "Mezija", "correct": false, "points": 0 }
+        ],
+        "hint": "Naziv je sličan današnjem geografskom pojmu",
+        "explanation": "Rimska provincija Dalmacija obuhvaćala je veći dio današnje Dalmacije i dijelove Bosne i Hercegovine."
+      },
+      {
+        "question": "Koji je hrvatski knez vladao u 9. stoljeću i ostavio najstariji poznati latinski natpis koji spominje hrvatsko ime?",
+        "answers": [
+          { "answer": "Borna", "correct": false, "points": 0 },
+          { "answer": "Trpimir", "correct": true, "points": 10 },
+          { "answer": "Mislav", "correct": false, "points": 0 },
+          { "answer": "Domagoj", "correct": false, "points": 0 }
+        ],
+        "hint": "Osnivač je dinastije Trpimirovića",
+        "explanation": "Knez Trpimir je vladao u 9. stoljeću i ostavio najstariji poznati latinski natpis koji spominje hrvatsko ime na kamenom natpisu iz Rižinica."
+      },
+      {
+        "question": "Koja je rimska provincija obuhvaćala područje današnje Slavonije?",
+        "answers": [
+          { "answer": "Panonija", "correct": true, "points": 10 },
+          { "answer": "Dalmacija", "correct": false, "points": 0 },
+          { "answer": "Norik", "correct": false, "points": 0 },
+          { "answer": "Recija", "correct": false, "points": 0 }
+        ],
+        "hint": "Naziv dolazi od imena domorodačkog naroda",
+        "explanation": "Rimska provincija Panonija obuhvaćala je područje današnje Slavonije, kao i dijelove Mađarske, Austrije i Srbije."
+      },
+      {
+        "question": "Koji je hrvatski kralj poznat po osnivanju Zagrebačke biskupije 1094. godine?",
+        "answers": [
+          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 },
+          { "answer": "Dmitar Zvonimir", "correct": false, "points": 0 },
+          { "answer": "Ladislav I", "correct": true, "points": 10 },
+          { "answer": "Stjepan II", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je ugarski kralj iz dinastije Arpadovića",
+        "explanation": "Ladislav I, ugarski kralj iz dinastije Arpadovića, osnovao je Zagrebačku biskupiju 1094. godine, što je bio važan korak u crkvenom i kulturnom razvoju sjeverozapadne Hrvatske."
+      },
+      {
+        "question": "Koji je hrvatski knez dobio priznanje bizantskog cara Bazilija I. za vladara Hrvata?",
+        "answers": [
+          { "answer": "Domagoj", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": true, "points": 10 },
+          { "answer": "Zdeslav", "correct": false, "points": 0 },
+          { "answer": "Višeslav", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je krajem 9. stoljeća",
+        "explanation": "Knez Branimir dobio je priznanje bizantskog cara Bazilija I. za vladara Hrvata 879. godine, što je označilo međunarodno priznanje Hrvatske kao neovisne države."
+      },
+      {
+        "question": "Koja je rimska provincija obuhvaćala područje današnje Istre?",
+        "answers": [
+          { "answer": "Dalmacija", "correct": false, "points": 0 },
+          { "answer": "Panonija", "correct": false, "points": 0 },
+          { "answer": "Italija", "correct": false, "points": 0 },
+          { "answer": "Histrija", "correct": true, "points": 10 }
+        ],
+        "hint": "Naziv je povezan s domorodačkim stanovništvom",
+        "explanation": "Rimska provincija Histrija obuhvaćala je područje današnje Istre, nazvana po ilirskom plemenu Histri."
+      },
+      {
+        "question": "Koji je hrvatski kralj poznat po izdavanju Zlatne bule 1242. godine?",
+        "answers": [
+          { "answer": "Bela IV", "correct": true, "points": 10 },
+          { "answer": "Andrija II", "correct": false, "points": 0 },
+          { "answer": "Ludovik I", "correct": false, "points": 0 },
+          { "answer": "Koloman", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je tijekom tatarske provale",
+        "explanation": "Kralj Bela IV izdao je Zlatnu bulu 1242. godine, kojom je Zagrebu dodijelio status slobodnog kraljevskog grada."
+      },
+      {
+        "question": "Koji je hrvatski knez poznat po pobjedi nad Mlečanima 887. godine?",
+        "answers": [
+          { "answer": "Trpimir", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": false, "points": 0 },
+          { "answer": "Domagoj", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": true, "points": 10 }
+        ],
+        "hint": "Nazvan je 'strah Mlečana'",
+        "explanation": "Knez Branimir je poznat po pobjedi nad Mlečanima 887. godine, zbog čega je dobio nadimak 'strah Mlečana' (terror Venetorum)."
+      },
+      {
+        "question": "Koja je rimska cesta prolazila kroz Panoniju i povezivala Ptuj (Poetovio) s Osijekom (Mursa)?",
+        "answers": [
+          { "answer": "Via Flavia", "correct": false, "points": 0 },
+          { "answer": "Via Gemina", "correct": false, "points": 0 },
+          { "answer": "Via Pannonia", "correct": true, "points": 10 },
+          { "answer": "Via Egnatia", "correct": false, "points": 0 }
+        ],
+        "hint": "Naziv ceste sadrži ime provincije",
+        "explanation": "Via Pannonia je bila važna rimska cesta koja je prolazila kroz Panoniju, povezujući Ptuj (Poetovio) s Osijekom (Mursa) i dalje s drugim važnim gradovima u provinciji."
+      },
+      {
+        "question": "Koji je hrvatski kralj poznat po osnivanju Ninske biskupije?",
+        "answers": [
+          { "answer": "Tomislav", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": true, "points": 10 },
+          { "answer": "Trpimir", "correct": false, "points": 0 },
+          { "answer": "Domagoj", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je krajem 9. stoljeća",
+        "explanation": "Knez Branimir je poznat po osnivanju Ninske biskupije oko 879. godine, što je bio važan korak u organizaciji hrvatske crkve."
+      },
+      {
+        "question": "Koji je rimski car rođen u Dioklecijanovoj palači u Splitu?",
+        "answers": [
+          { "answer": "Konstantin Veliki", "correct": false, "points": 0 },
+          { "answer": "Dioklecijan", "correct": false, "points": 0 },
+          { "answer": "Marcelin", "correct": true, "points": 10 },
+          { "answer": "Justinijan", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je kratko u 5. stoljeću",
+        "explanation": "Car Marcelin je rođen u Dioklecijanovoj palači u Splitu oko 420. godine i vladao je kao zapadnorimski car od 475. do 476. godine."
+      },
+      {
+        "question": "Koji je hrvatski kralj poznat po gradnji crkve sv. Križa u Ninu?",
+        "answers": [
+          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 },
+          { "answer": "Dmitar Zvonimir", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": true, "points": 10 },
+          { "answer": "Tomislav", "correct": false, "points": 0 }
+        ],
+        "hint": "Crkva je poznata kao 'najmanja katedrala na svijetu'",
+        "explanation": "Knez Branimir je poznat po gradnji crkve sv. Križa u Ninu, koja se često naziva 'najmanjom katedralom na svijetu' zbog svoje veličine i značaja."
+      },
+      {
+        "question": "Koja je rimska provincija obuhvaćala područje današnje Lika i Gorskog kotara?",
+        "answers": [
+          { "answer": "Panonija", "correct": false, "points": 0 },
+          { "answer": "Dalmacija", "correct": true, "points": 10 },
+          { "answer": "Liburnija", "correct": false, "points": 0 },
+          { "answer": "Japodija", "correct": false, "points": 0 }
+        ],
+        "hint": "Bila je dio veće provincije koja je obuhvaćala i obalno područje",
+        "explanation": "Područje današnje Like i Gorskog kotara bilo je dio rimske provincije Dalmacije, koja je obuhvaćala veći dio današnje hrvatske obale i zaleđa."
+      },
+      {
+        "question": "Koji je hrvatski kralj poznat po osnivanju Zagrebačke nadbiskupije 1094. godine?",
+        "answers": [
+          { "answer": "Ladislav I", "correct": true, "points": 10 },
+          { "answer": "Koloman", "correct": false, "points": 0 },
+          { "answer": "Dmitar Zvonimir", "correct": false, "points": 0 },
+          { "answer": "Petar Krešimir IV", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je ujedno i ugarski kralj",
+        "explanation": "Kralj Ladislav I, koji je bio i ugarski kralj, osnovao je Zagrebačku biskupiju 1094. godine, koja je kasnije uzdignuta na rang nadbiskupije."
+      },
+      {
+        "question": "Koji je hrvatski knez poznat po gradnji crkve sv. Spasa na vrelu Cetine?",
+        "answers": [
+          { "answer": "Trpimir", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": false, "points": 0 },
+          { "answer": "Muncimir", "correct": true, "points": 10 },
+          { "answer": "Domagoj", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je krajem 9. stoljeća",
+        "explanation": "Knez Muncimir je poznat po gradnji crkve sv. Spasa na vrelu Cetine, koja je važan primjer predromaničke arhitekture u Hrvatskoj."
+      },
+      {
+        "question": "Koji je rimski car proglasio kršćanstvo službenom religijom Rimskog Carstva, što je utjecalo i na područje današnje Hrvatske?",
+        "answers": [
+          { "answer": "Konstantin Veliki", "correct": false, "points": 0 },
+          { "answer": "Teodozije I", "correct": true, "points": 10 },
+          { "answer": "Justinijan", "correct": false, "points": 0 },
+          { "answer": "Dioklecijan", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je krajem 4. stoljeća",
+        "explanation": "Car Teodozije I je 380. godine proglasio kršćanstvo službenom religijom Rimskog Carstva, što je imalo značajan utjecaj i na područje današnje Hrvatske."
+      },
+      {
+        "question": "Koji je hrvatski vladar poznat po darovnici kojom je 852. godine potvrdio posjede splitskoj nadbiskupiji?",
+        "answers": [
+          { "answer": "Trpimir", "correct": true, "points": 10 },
+          { "answer": "Domagoj", "correct": false, "points": 0 },
+          { "answer": "Branimir", "correct": false, "points": 0 },
+          { "answer": "Mislav", "correct": false, "points": 0 }
+        ],
+        "hint": "Smatra se osnivačem dinastije Trpimirovića",
+        "explanation": "Knez Trpimir je 852. godine izdao darovnicu kojom je potvrdio posjede splitskoj nadbiskupiji, što je najstariji sačuvani dokument hrvatskog vladara."
+      }
+    ]
+  },
+  {
+    "topic": "Posvijest (Pacta conventa|Hrvatsko Ugarska nagodba|Vazne bitke poput Sigeta|Pobuna Zrinsko Frankopaskih|Hrvatski narodni preporod)",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "Koje godine je sklopljen ugovor poznat kao 'Pacta conventa'?",
+        "answers": [
+          { "answer": "1091.", "correct": false, "points": 0 },
+          { "answer": "1102.", "correct": true, "points": 10 },
+          { "answer": "1242.", "correct": false, "points": 0 },
+          { "answer": "1301.", "correct": false, "points": 0 }
+        ],
+        "hint": "Dogodilo se početkom 12. stoljeća",
+        "explanation": "Pacta conventa je navodni ugovor sklopljen 1102. godine između hrvatskog plemstva i ugarskog kralja Kolomana, kojim je uspostavljena personalna unija između Hrvatske i Ugarske."
+      },
+      {
+        "question": "Koje godine je sklopljena Hrvatsko-ugarska nagodba?",
+        "answers": [
+          { "answer": "1848.", "correct": false, "points": 0 },
+          { "answer": "1867.", "correct": false, "points": 0 },
+          { "answer": "1868.", "correct": true, "points": 10 },
+          { "answer": "1878.", "correct": false, "points": 0 }
+        ],
+        "hint": "Godinu dana nakon Austro-ugarske nagodbe",
+        "explanation": "Hrvatsko-ugarska nagodba sklopljena je 1868. godine, definirajući državnopravni položaj Hrvatske unutar Austro-Ugarske Monarhije."
+      },
+      {
+        "question": "Tko je bio glavni zapovjednik obrane Sigeta 1566. godine?",
+        "answers": [
+          { "answer": "Petar Zrinski", "correct": false, "points": 0 },
+          { "answer": "Nikola Šubić Zrinski", "correct": true, "points": 10 },
+          { "answer": "Fran Krsto Frankopan", "correct": false, "points": 0 },
+          { "answer": "Juraj Drašković", "correct": false, "points": 0 }
+        ],
+        "hint": "Poznat kao 'Hrvatski Leonida'",
+        "explanation": "Nikola Šubić Zrinski bio je glavni zapovjednik obrane Sigeta 1566. godine, junački braneći tvrđavu od osmanske opsade."
+      },
+      {
+        "question": "Koje godine je izbila pobuna Zrinsko-Frankopanska?",
+        "answers": [
+          { "answer": "1671.", "correct": true, "points": 10 },
+          { "answer": "1681.", "correct": false, "points": 0 },
+          { "answer": "1691.", "correct": false, "points": 0 },
+          { "answer": "1701.", "correct": false, "points": 0 }
+        ],
+        "hint": "Događaj se zbio u drugoj polovici 17. stoljeća",
+        "explanation": "Zrinsko-frankopanska urota izbila je 1671. godine kao pokušaj hrvatskog i ugarskog plemstva da se oslobode habsburške vlasti."
+      },
+      {
+        "question": "Koji je časopis bio središnje glasilo Hrvatskog narodnog preporoda?",
+        "answers": [
+          { "answer": "Vienac", "correct": false, "points": 0 },
+          { "answer": "Danica", "correct": true, "points": 10 },
+          { "answer": "Kolo", "correct": false, "points": 0 },
+          { "answer": "Neven", "correct": false, "points": 0 }
+        ],
+        "hint": "Naziv je povezan s jutarnjom zvijezdom",
+        "explanation": "Časopis 'Danica' bio je središnje glasilo Hrvatskog narodnog preporoda, izlazeći od 1835. do 1867. godine."
+      },
+      {
+        "question": "Koji je hrvatski ban odigrao ključnu ulogu u sklapanju Hrvatsko-ugarske nagodbe?",
+        "answers": [
+          { "answer": "Josip Jelačić", "correct": false, "points": 0 },
+          { "answer": "Ivan Mažuranić", "correct": false, "points": 0 },
+          { "answer": "Levin Rauch", "correct": true, "points": 10 },
+          { "answer": "Khuen Héderváry", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je na čelu tzv. 'unionističke' stranke",
+        "explanation": "Ban Levin Rauch odigrao je ključnu ulogu u sklapanju Hrvatsko-ugarske nagodbe 1868. godine, zastupajući interese prougarske struje u Hrvatskoj."
+      },
+      {
+        "question": "Koji je hrvatski književnik napisao ep 'Smrt Smail-age Čengića', inspiriran borbama protiv Osmanlija?",
+        "answers": [
+          { "answer": "Ivan Gundulić", "correct": false, "points": 0 },
+          { "answer": "Ivan Mažuranić", "correct": true, "points": 10 },
+          { "answer": "Petar Preradović", "correct": false, "points": 0 },
+          { "answer": "August Šenoa", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je i hrvatski ban",
+        "explanation": "Ivan Mažuranić, koji je kasnije postao i hrvatski ban, napisao je ep 'Smrt Smail-age Čengića' 1846. godine, inspiriran borbama protiv Osmanlija."
+      },
+      {
+        "question": "Koji je gradić u Slavoniji bio poprište značajne bitke protiv Osmanlija 1537. godine?",
+        "answers": [
+          { "answer": "Sisak", "correct": false, "points": 0 },
+          { "answer": "Đakovo", "correct": false, "points": 0 },
+          { "answer": "Gorjani", "correct": true, "points": 10 },
+          { "answer": "Ilok", "correct": false, "points": 0 }
+        ],
+        "hint": "Bitka je poznata kao 'Gorjanska bitka'",
+        "explanation": "Gorjani su bili poprište značajne bitke protiv Osmanlija 1537. godine, poznate kao 'Gorjanska bitka', u kojoj su hrvatske snage porazile osmansku vojsku."
+      },
+      {
+        "question": "Tko je bio vođa Hrvatskog narodnog preporoda?",
+        "answers": [
+          { "answer": "Ivan Kukuljević Sakcinski", "correct": false, "points": 0 },
+          { "answer": "Ljudevit Gaj", "correct": true, "points": 10 },
+          { "answer": "Stanko Vraz", "correct": false, "points": 0 },
+          { "answer": "Dimitrija Demeter", "correct": false, "points": 0 }
+        ],
+        "hint": "Reformirao je hrvatski pravopis",
+        "explanation": "Ljudevit Gaj bio je vođa Hrvatskog narodnog preporoda, lingvist i reformator hrvatskog pravopisa, ključna figura u formiranju moderne hrvatske nacije."
+      },
+      {
+        "question": "Koja je institucija osnovana 1866. godine kao vrhunac Hrvatskog narodnog preporoda?",
+        "answers": [
+          { "answer": "Matica hrvatska", "correct": false, "points": 0 },
+          {
+            "answer": "Jugoslavenska akademija znanosti i umjetnosti",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Hrvatsko narodno kazalište", "correct": false, "points": 0 },
+          { "answer": "Sveučilište u Zagrebu", "correct": false, "points": 0 }
+        ],
+        "hint": "Danas je poznata pod drugim imenom",
+        "explanation": "Jugoslavenska akademija znanosti i umjetnosti (danas Hrvatska akademija znanosti i umjetnosti) osnovana je 1866. godine kao vrhunac znanstvenih i kulturnih nastojanja Hrvatskog narodnog preporoda."
+      },
+      {
+        "question": "Koji je hrvatski političar predvodio Narodnu stranku tijekom pregovora o Hrvatsko-ugarskoj nagodbi?",
+        "answers": [
+          { "answer": "Josip Juraj Strossmayer", "correct": true, "points": 10 },
+          { "answer": "Ivan Mažuranić", "correct": false, "points": 0 },
+          { "answer": "Ante Starčević", "correct": false, "points": 0 },
+          { "answer": "Franjo Rački", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je đakovački biskup",
+        "explanation": "Josip Juraj Strossmayer, đakovački biskup i vođa Narodne stranke, predvodio je hrvatsku stranu tijekom pregovora o Hrvatsko-ugarskoj nagodbi."
+      },
+      {
+        "question": "Koje godine je održana Prva dalmatinsko-hrvatsko-slavonska izložba u Zagrebu, važan događaj za Hrvatski narodni preporod?",
+        "answers": [
+          { "answer": "1861.", "correct": false, "points": 0 },
+          { "answer": "1864.", "correct": false, "points": 0 },
+          { "answer": "1867.", "correct": false, "points": 0 },
+          { "answer": "1864.", "correct": true, "points": 10 }
+        ],
+        "hint": "Održana je sredinom 1860-ih",
+        "explanation": "Prva dalmatinsko-hrvatsko-slavonska izložba održana je u Zagrebu 1864. godine, predstavljajući važan korak u kulturnom i gospodarskom povezivanju hrvatskih zemalja."
+      },
+      {
+        "question": "Koji je hrvatski velikaš predvodio tzv. 'Zrinsko-frankopansku urotu'?",
+        "answers": [
+          { "answer": "Nikola Zrinski", "correct": false, "points": 0 },
+          { "answer": "Petar Zrinski", "correct": true, "points": 10 },
+          { "answer": "Fran Krsto Frankopan", "correct": false, "points": 0 },
+          { "answer": "Juraj IV. Zrinski", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je brat Nikole Zrinskog",
+        "explanation": "Petar Zrinski, brat Nikole Zrinskog, bio je glavni predvodnik tzv. 'Zrinsko-frankopanske urote' protiv habsburške vlasti."
+      },
+      {
+        "question": "Koji je dokument, nastao kao rezultat Hrvatskog narodnog preporoda, definirao osnovne zahtjeve hrvatskog naroda 1848. godine?",
+        "answers": [
+          { "answer": "Hrvatska pragmatička sankcija", "correct": false, "points": 0 },
+          { "answer": "Zahtijevanja naroda", "correct": true, "points": 10 },
+          { "answer": "Listopadska diploma", "correct": false, "points": 0 },
+          { "answer": "Jelačićev manifest", "correct": false, "points": 0 }
+        ],
+        "hint": "Dokument je formulirao političke ciljeve revolucije 1848.",
+        "explanation": "'Zahtijevanja naroda' bio je dokument koji je definirao osnovne političke zahtjeve hrvatskog naroda tijekom revolucije 1848. godine, nastao kao rezultat Hrvatskog narodnog preporoda."
+      },
+      {
+        "question": "Koji je hrvatski ban 1847. godine proglasio hrvatski jezik službenim u Hrvatskom saboru?",
+        "answers": [
+          { "answer": "Josip Jelačić", "correct": true, "points": 10 },
+          { "answer": "Ivan Mažuranić", "correct": false, "points": 0 },
+          { "answer": "Franjo Vlašić", "correct": false, "points": 0 },
+          { "answer": "Juraj Haulik", "correct": false, "points": 0 }
+        ],
+        "hint": "Poznat je po ukidanju kmetstva",
+        "explanation": "Ban Josip Jelačić proglasio je 1847. godine hrvatski jezik službenim u Hrvatskom saboru, što je bio značajan korak u afirmaciji hrvatskog nacionalnog identiteta."
+      },
+      {
+        "question": "Koji je hrvatski pjesnik napisao domoljubnu pjesmu 'Zora puca, bit će dana' tijekom Hrvatskog narodnog preporoda?",
+        "answers": [
+          { "answer": "Ivan Mažuranić", "correct": false, "points": 0 },
+          { "answer": "Petar Preradović", "correct": true, "points": 10 },
+          { "answer": "Stanko Vraz", "correct": false, "points": 0 },
+          { "answer": "Dimitrija Demeter", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je general austrijske vojske",
+        "explanation": "Petar Preradović, hrvatski pjesnik i general austrijske vojske, napisao je domoljubnu pjesmu 'Zora puca, bit će dana' koja je postala jedna od najpoznatijih pjesama Hrvatskog narodnog preporoda."
+      },
+      {
+        "question": "Koja je bitka 1493. godine označila značajan poraz hrvatskih snaga od Osmanlija?",
+        "answers": [
+          { "answer": "Bitka na Krbavskom polju", "correct": true, "points": 10 },
+          { "answer": "Bitka kod Siska", "correct": false, "points": 0 },
+          { "answer": "Bitka kod Mohača", "correct": false, "points": 0 },
+          { "answer": "Bitka kod Gorjana", "correct": false, "points": 0 }
+        ],
+        "hint": "Odvila se u Lici",
+        "explanation": "Bitka na rbavskom polju 1493. godine označila je značajan poraz hrvatskih snaga od Osmanlija, što je imalo dalekosežne posljedice za hrvatsku povijest."
+      },
+      {
+        "question": "Koji je hrvatski političar i književnik napisao djelo 'Disertacija' 1832. godine, koje se smatra početkom Hrvatskog narodnog preporoda?",
+        "answers": [
+          { "answer": "Ljudevit Gaj", "correct": false, "points": 0 },
+          { "answer": "Janko Drašković", "correct": true, "points": 10 },
+          { "answer": "Ivan Kukuljević Sakcinski", "correct": false, "points": 0 },
+          { "answer": "Antun Mihanović", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je grof i jedan od osnivača Ilirske čitaonice",
+        "explanation": "Grof Janko Drašković napisao je 'Disertaciju' 1832. godine, koja se smatra programatskim tekstom Hrvatskog narodnog preporoda i početkom ilirskog pokreta."
+      },
+      {
+        "question": "Koja je institucija osnovana 1842. godine kao rezultat Hrvatskog narodnog preporoda?",
+        "answers": [
+          { "answer": "Matica ilirska", "correct": true, "points": 10 },
+          { "answer": "Hrvatsko-slavonsko gospodarsko društvo", "correct": false, "points": 0 },
+          { "answer": "Ilirska čitaonica", "correct": false, "points": 0 },
+          {
+            "answer": "Društvo za jugoslavensku povjestnicu i starine",
+            "correct": false,
+            "points": 0
+          }
+        ],
+        "hint": "Kasnije je preimenovana u Maticu hrvatsku",
+        "explanation": "Matica ilirska osnovana je 1842. godine kao kulturna institucija s ciljem promicanja hrvatske književnosti i kulture. Kasnije je preimenovana u Maticu hrvatsku."
+      }
+    ]
+  },
+  {
+    "topic": "Povijest (Bascanska ploca|Zapisi poput vinodolskog zakonika)",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "Koje je godine pronađena Bašćanska ploča?",
+        "answers": [
+          { "answer": "1100.", "correct": false, "points": 0 },
+          { "answer": "1851.", "correct": true, "points": 10 },
+          { "answer": "1902.", "correct": false, "points": 0 },
+          { "answer": "1934.", "correct": false, "points": 0 }
+        ],
+        "hint": "Pronađena je sredinom 19. stoljeća",
+        "explanation": "Bašćanska ploča pronađena je 1851. godine u crkvi sv. Lucije u Jurandvoru na otoku Krku."
+      },
+      {
+        "question": "Koji je jezik korišten za pisanje Bašćanske ploče?",
+        "answers": [
+          { "answer": "Latinski", "correct": false, "points": 0 },
+          { "answer": "Staroslavenski", "correct": true, "points": 10 },
+          { "answer": "Grčki", "correct": false, "points": 0 },
+          { "answer": "Talijanski", "correct": false, "points": 0 }
+        ],
+        "hint": "Jezik koji su koristili prvi slavenski misionari",
+        "explanation": "Bašćanska ploča pisana je staroslavenskim jezikom hrvatske redakcije, uz korištenje glagoljice."
+      },
+      {
+        "question": "Koje je godine napisan Vinodolski zakonik?",
+        "answers": [
+          { "answer": "1188.", "correct": false, "points": 0 },
+          { "answer": "1288.", "correct": true, "points": 10 },
+          { "answer": "1388.", "correct": false, "points": 0 },
+          { "answer": "1488.", "correct": false, "points": 0 }
+        ],
+        "hint": "Napisan je krajem 13. stoljeća",
+        "explanation": "Vinodolski zakonik napisan je 1288. godine i smatra se jednim od najstarijih pravnih dokumenata pisanih na hrvatskom jeziku."
+      },
+      {
+        "question": "Koji je vladar spominje na Bašćanskoj ploči kao darovatelj zemlje samostanu sv. Lucije?",
+        "answers": [
+          { "answer": "Kralj Tomislav", "correct": false, "points": 0 },
+          { "answer": "Kralj Petar Krešimir IV.", "correct": false, "points": 0 },
+          { "answer": "Kralj Zvonimir", "correct": true, "points": 10 },
+          { "answer": "Kralj Koloman", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je u 11. stoljeću",
+        "explanation": "Kralj Zvonimir se spominje na Bašćanskoj ploči kao darovatelj zemlje samostanu sv. Lucije."
+      },
+      {
+        "question": "Koje pismo je korišteno za pisanje Vinodolskog zakonika?",
+        "answers": [
+          { "answer": "Latinica", "correct": false, "points": 0 },
+          { "answer": "Glagoljica", "correct": true, "points": 10 },
+          { "answer": "Ćirilica", "correct": false, "points": 0 },
+          { "answer": "Bosanica", "correct": false, "points": 0 }
+        ],
+        "hint": "Najstarije slavensko pismo",
+        "explanation": "Vinodolski zakonik pisan je glagoljicom, najstarijim slavenskim pismom."
+      },
+      {
+        "question": "Koji je značaj Bašćanske ploče za hrvatsku kulturu?",
+        "answers": [
+          {
+            "answer": "Najstariji potpuni tekst na hrvatskom jeziku",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Prvi spomen hrvatskog imena na narodnom jeziku",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Najstariji hrvatski zakonik", "correct": false, "points": 0 },
+          { "answer": "Prvi hrvatski rječnik", "correct": false, "points": 0 }
+        ],
+        "hint": "Važna je za hrvatski nacionalni identitet",
+        "explanation": "Bašćanska ploča sadrži prvi spomen hrvatskog imena na narodnom jeziku, što je čini iznimno važnom za hrvatski nacionalni identitet i kulturu."
+      },
+      {
+        "question": "Koji je glavni sadržaj Vinodolskog zakonika?",
+        "answers": [
+          { "answer": "Religijski propisi", "correct": false, "points": 0 },
+          { "answer": "Običajno pravo Vinodola", "correct": true, "points": 10 },
+          { "answer": "Kraljevske odredbe", "correct": false, "points": 0 },
+          { "answer": "Trgovački propisi", "correct": false, "points": 0 }
+        ],
+        "hint": "Bavi se lokalnim pravnim pitanjima",
+        "explanation": "Vinodolski zakonik sadrži zapis običajnog prava Vinodola, regulirajući odnose između feudalaca i kmetova te druga lokalna pravna pitanja."
+      },
+      {
+        "question": "Što je 'arenga' na Bašćanskoj ploči?",
+        "answers": [
+          { "answer": "Ime pisara", "correct": false, "points": 0 },
+          { "answer": "Uvodni dio teksta", "correct": true, "points": 10 },
+          { "answer": "Potpis kralja", "correct": false, "points": 0 },
+          { "answer": "Naziv samostana", "correct": false, "points": 0 }
+        ],
+        "hint": "Dio je strukture srednjovjekovnih dokumenata",
+        "explanation": "'Arenga' je uvodni dio teksta na Bašćanskoj ploči, karakterističan za strukturu srednjovjekovnih dokumenata, koji objašnjava razloge pisanja dokumenta."
+      },
+      {
+        "question": "Koliko članaka sadrži Vinodolski zakonik?",
+        "answers": [
+          { "answer": "50", "correct": false, "points": 0 },
+          { "answer": "75", "correct": true, "points": 10 },
+          { "answer": "100", "correct": false, "points": 0 },
+          { "answer": "125", "correct": false, "points": 0 }
+        ],
+        "hint": "Broj je između 70 i 80",
+        "explanation": "Vinodolski zakonik sadrži 75 članaka koji reguliraju različite aspekte života u srednjovjekovnom Vinodolu."
+      },
+      {
+        "question": "Koja je institucija trenutno čuva original Bašćanske ploče?",
+        "answers": [
+          {
+            "answer": "Muzej hrvatskih arheoloških spomenika u Splitu",
+            "correct": false,
+            "points": 0
+          },
+          {
+            "answer": "Hrvatska akademija znanosti i umjetnosti u Zagrebu",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Arheološki muzej u Zagrebu", "correct": false, "points": 0 },
+          { "answer": "Crkva sv. Lucije u Jurandvoru", "correct": false, "points": 0 }
+        ],
+        "hint": "Najviša znanstvena institucija u Hrvatskoj",
+        "explanation": "Original Bašćanske ploče čuva se u Hrvatskoj akademiji znanosti i umjetnosti u Zagrebu od 1934. godine."
+      },
+      {
+        "question": "Koji je vladar izdao Vinodolski zakonik?",
+        "answers": [
+          { "answer": "Kralj Zvonimir", "correct": false, "points": 0 },
+          { "answer": "Knezovi Krčki (Frankopani)", "correct": true, "points": 10 },
+          { "answer": "Kralj Bela IV.", "correct": false, "points": 0 },
+          { "answer": "Ban Pavao Šubić", "correct": false, "points": 0 }
+        ],
+        "hint": "Moćna hrvatska plemićka obitelj",
+        "explanation": "Vinodolski zakonik izdali su knezovi Krčki, kasnije poznati kao Frankopani, koji su u to vrijeme vladali Vinodolom."
+      },
+      {
+        "question": "Koji je najstariji poznati glagoljski natpis u Hrvatskoj?",
+        "answers": [
+          { "answer": "Bašćanska ploča", "correct": false, "points": 0 },
+          { "answer": "Plominski natpis", "correct": true, "points": 10 },
+          { "answer": "Valunska ploča", "correct": false, "points": 0 },
+          { "answer": "Krčki natpis", "correct": false, "points": 0 }
+        ],
+        "hint": "Potječe iz 11. stoljeća",
+        "explanation": "Plominski natpis, koji datira iz 11. stoljeća, smatra se najstarijim poznatim glagoljskim natpisom u Hrvatskoj."
+      },
+      {
+        "question": "Koja je glavna tema Bašćanske ploče?",
+        "answers": [
+          { "answer": "Krunidba kralja Zvonimira", "correct": false, "points": 0 },
+          { "answer": "Darivanje zemlje samostanu sv. Lucije", "correct": true, "points": 10 },
+          { "answer": "Popis hrvatskih župana", "correct": false, "points": 0 },
+          { "answer": "Opis bitke s Bizantom", "correct": false, "points": 0 }
+        ],
+        "hint": "Povezano je s crkvenim posjedom",
+        "explanation": "Glavna tema Bašćanske ploče je darivanje zemlje samostanu sv. Lucije od strane kralja Zvonimira."
+      },
+      {
+        "question": "Koji je značaj Vinodolskog zakonika za hrvatsku pravnu povijest?",
+        "answers": [
+          { "answer": "Prvi ustav Hrvatske", "correct": false, "points": 0 },
+          {
+            "answer": "Najstariji sačuvani zakonik na hrvatskom jeziku",
+            "correct": true,
+            "points": 10
+          },
+          { "answer": "Prva kodifikacija pomorskog prava", "correct": false, "points": 0 },
+          { "answer": "Prvi trgovački zakonik", "correct": false, "points": 0 }
+        ],
+        "hint": "Važan je za razvoj hrvatskog jezika i prava",
+        "explanation": "Vinodolski zakonik je najstariji sačuvani zakonik na hrvatskom jeziku, što ga čini iznimno važnim za hrvatsku pravnu povijest i razvoj hrvatskog jezika."
+      },
+      {
+        "question": "Koji je poznati hrvatski paleograf i povjesničar prvi detaljno proučio i objavio Bašćansku ploču?",
+        "answers": [
+          { "answer": "Ivan Kukuljević Sakcinski", "correct": false, "points": 0 },
+          { "answer": "Franjo Rački", "correct": true, "points": 10 },
+          { "answer": "Vatroslav Jagić", "correct": false, "points": 0 },
+          { "answer": "Stjepan Ivšić", "correct": false, "points": 0 }
+        ],
+        "hint": "Bio je prvi predsjednik JAZU (danas HAZU)",
+        "explanation": "Franjo Rački, hrvatski povjesničar i prvi predsjednik Jugoslavenske akademije znanosti i umjetnosti (danas HAZU), prvi je detaljno proučio i objavio Bašćansku ploču 1875. godine."
+      },
+      {
+        "question": "Koje područje je obuhvaćao Vinodolski zakonik?",
+        "answers": [
+          { "answer": "Cijelu Hrvatsku", "correct": false, "points": 0 },
+          { "answer": "Vinodolsku knežiju", "correct": true, "points": 10 },
+          { "answer": "Otok Krk", "correct": false, "points": 0 },
+          { "answer": "Istarsku markgrofoviju", "correct": false, "points": 0 }
+        ],
+        "hint": "Područje uz obalu Kvarnerskog zaljeva",
+        "explanation": "Vinodolski zakonik obuhvaćao je područje Vinodolske knežije, koja se prostirala uz obalu Kvarnerskog zaljeva."
+      },
+      {
+        "question": "Koje pismo se spominje na Bašćanskoj ploči kao 'hrvatsko pismo'?",
+        "answers": [
+          { "answer": "Latinica", "correct": false, "points": 0 },
+          { "answer": "Glagoljica", "correct": true, "points": 10 },
+          { "answer": "Ćirilica", "correct": false, "points": 0 },
+          { "answer": "Bosančica", "correct": false, "points": 0 }
+        ],
+        "hint": "Najstarije slavensko pismo",
+        "explanation": "Na Bašćanskoj ploči se glagoljica spominje kao 'hrvatsko pismo', što je jedan od najranijih spomena glagoljice kao hrvatskog nacionalnog pisma."
+      },
+      {
+        "question": "Koji je vladar spomenut u Vinodolskom zakoniku kao 'naš prirodni gospodin'?",
+        "answers": [
+          { "answer": "Kralj Bela IV.", "correct": false, "points": 0 },
+          { "answer": "Kralj Ladislav IV.", "correct": true, "points": 10 },
+          { "answer": "Kralj Andrija III.", "correct": false, "points": 0 },
+          { "answer": "Kralj Karlo Robert", "correct": false, "points": 0 }
+        ],
+        "hint": "Vladao je krajem 13. stoljeća",
+        "explanation": "U Vinodolskom zakoniku se kralj Ladislav IV. spominje kao 'naš prirodni gospodin', što ukazuje na priznavanje njegove vlasti nad Vinodolom."
+      },
+      {
+        "question": "Koji je materijal korišten za izradu Bašćanske ploče?",
+        "answers": [
+          { "answer": "Mramor", "correct": false, "points": 0 },
+          { "answer": "Vapnenac", "correct": true, "points": 10 },
+          { "answer": "Granit", "correct": false, "points": 0 },
+          { "answer": "Pješčenjak", "correct": false, "points": 0 }
+        ],
+        "hint": "Čest građevinski materijal u primorju",
+        "explanation": "Bašćanska ploča izrađena je od bijelog vapnenca, materijala koji je bio lako dostupan na otoku Krku i širem kvarnerskom području."
+      },
+      {
+        "question": "Koje godine je Vinodolski zakonik prvi put objavljen u tisku?",
+        "answers": [
+          { "answer": "1843.", "correct": true, "points": 10 },
+          { "answer": "1875.", "correct": false, "points": 0 },
+          { "answer": "1890.", "correct": false, "points": 0 },
+          { "answer": "1905.", "correct": false, "points": 0 }
+        ],
+        "hint": "Sredinom 19. stoljeća",
+        "explanation": "Vinodolski zakonik prvi je put objavljen u tisku 1843. godine, što je omogućilo širu znanstvenu i javnu dostupnost ovog važnog povijesnog dokumenta."
+      }
+    ]
+  },
+  {
+    "topic": "Povijest (Povijest Osijeka|Povijest Zagreba|Dubrovacka republika)",
+    "difficulty": "Normal",
+    "questions": [
+      {
+        "question": "Koje godine je Osijek dobio status slobodnog kraljevskog grada?",
+        "answers": [
+          { "answer": "1698.", "correct": false, "points": 0 },
+          { "answer": "1809.", "correct": true, "points": 10 },
+          { "answer": "1848.", "correct": false, "points": 0 },
+          { "answer": "1918.", "correct": false, "points": 0 }
+        ],
+        "hint": "Početkom 19. stoljeća",
+        "explanation": "Osijek je dobio status slobodnog kraljevskog grada 1809. godine, što je značajno unaprijedilo njegov politički i gospodarski položaj."
+      },
+      {
+        "question": "Koji je naziv nosio Zagreb u srednjem vijeku?",
+        "answers": [
+          { "answer": "Agram", "correct": false, "points": 0 },
+          { "answer": "Gradec", "correct": true, "points": 10 },
+          { "answer": "Kaptol", "correct": false, "points": 0 },
+          { "answer": "Medvedgrad", "correct": false, "points": 0 }
+        ],
+        "hint": "Ime je povezano s utvrđenim naseljem",
+        "explanation": "U srednjem vijeku, Zagreb se sastojao od dva odvojena naselja: Gradeca (građansko naselje) i Kaptola (crkveno naselje). Gradec je bio utvrđeni dio koji je dobio status slobodnog kraljevskog grada."
+      },
+      {
+        "question": "Koje godine je Dubrovačka Republika izgubila svoju neovisnost?",
+        "answers": [
+          { "answer": "1667.", "correct": false, "points": 0 },
+          { "answer": "1776.", "correct": false, "points": 0 },
+          { "answer": "1808.", "correct": true, "points": 10 },
+          { "answer": "1815.", "correct": false, "points": 0 }
+        ],
+        "hint": "Početkom 19. stoljeća, za vrijeme Napoleonovih osvajanja",
+        "explanation": "Dubrovačka Republika izgubila je svoju neovisnost 1808. godine kada ju je ukinuo Napoleon Bonaparte i priključio Ilirskim provincijama."
+      },
+      {
+        "question": "Koji je rimski naziv za Osijek?",
+        "answers": [
+          { "answer": "Sirmium", "correct": false, "points": 0 },
+          { "answer": "Mursa", "correct": true, "points": 10 },
+          { "answer": "Siscia", "correct": false, "points": 0 },
+          { "answer": "Cibalae", "correct": false, "points": 0 }
+        ],
+        "hint": "Ime je slično današnjem nazivu rijeke koja protječe kroz grad",
+        "explanation": "Rimski naziv za Osijek bio je Mursa. Grad je bio važno rimsko naselje na Dunavu i sjecište važnih prometnih pravaca."
+      },
+      {
+        "question": "Koje godine je osnovana Zagrebačka biskupija?",
+        "answers": [
+          { "answer": "1094.", "correct": true, "points": 10 },
+          { "answer": "1242.", "correct": false, "points": 0 },
+          { "answer": "1335.", "correct": false, "points": 0 },
+          { "answer": "1557.", "correct": false, "points": 0 }
+        ],
+        "hint": "Krajem 11. stoljeća",
+        "explanation": "Zagrebačka biskupija osnovana je 1094. godine odlukom ugarskog kralja Ladislava I., što je značajno doprinijelo razvoju grada i njegove važnosti."
+      },
+      {
+        "question": "Koji je bio glavni organ vlasti u Dubrovačkoj Republici?",
+        "answers": [
+          { "answer": "Knez", "correct": false, "points": 0 },
+          { "answer": "Veliko vijeće", "correct": true, "points": 10 },
+          { "answer": "Senat", "correct": false, "points": 0 },
+          { "answer": "Malo vijeće", "correct": false, "points": 0 }
+        ],
+        "hint": "Tijelo sastavljeno od plemića",
+        "explanation": "Veliko vijeće bilo je glavni organ vlasti u Dubrovačkoj Republici. Sastojalo se od svih punoljetnih muških plemića i donosilo je najvažnije odluke za Republiku."
+      },
+      {
+        "question": "Koji je poznati osječki most izgrađen u 16. stoljeću za vrijeme osmanske vladavine?",
+        "answers": [
+          { "answer": "Most Mladosti", "correct": false, "points": 0 },
+          { "answer": "Sulejmanov most", "correct": true, "points": 10 },
+          { "answer": "Most cara Hadrijana", "correct": false, "points": 0 },
+          { "answer": "Dravski most", "correct": false, "points": 0 }
+        ],
+        "hint": "Nazvan po osmanskom sultanu",
+        "explanation": "Sulejmanov most, izgrađen 1566. godine po nalogu sultana Sulejmana Veličanstvenog, bio je jedan od najvećih građevinskih pothvata svog vremena, povezujući Osijek preko močvarnog područja."
+      },
+      {
+        "question": "Koje godine je Zagreb postao glavnim gradom Hrvatske?",
+        "answers": [
+          { "answer": "1557.", "correct": false, "points": 0 },
+          { "answer": "1776.", "correct": true, "points": 10 },
+          { "answer": "1850.", "correct": false, "points": 0 },
+          { "answer": "1918.", "correct": false, "points": 0 }
+        ],
+        "hint": "U drugoj polovici 18. stoljeća",
+        "explanation": "Zagreb je postao glavnim gradom Hrvatske 1776. godine, kada je Marija Terezija odlučila premjestiti Hrvatsko kraljevsko vijeće iz Varaždina u Zagreb."
+      },
+      {
+        "question": "Koji je poznati dubrovački pjesnik napisao ep 'Osman'?",
+        "answers": [
+          { "answer": "Marin Držić", "correct": false, "points": 0 },
+          { "answer": "Ivan Gundulić", "correct": true, "points": 10 },
+          { "answer": "Džore Držić", "correct": false, "points": 0 },
+          { "answer": "Junije Palmotić", "correct": false, "points": 0 }
+        ],
+        "hint": "Nazivan je 'kršćanskim Homerom'",
+        "explanation": "Ivan Gundulić, jedan od najznačajnijih hrvatskih baroknih pjesnika, napisao je ep 'Osman' koji se smatra jednim od najvažnijih djela dubrovačke književnosti."
+      },
+      {
+        "question": "Koji je austrijski general oslobodio Osijek od osmanske vlasti 1687. godine?",
+        "answers": [
+          { "answer": "Eugen Savojski", "correct": false, "points": 0 },
+          { "answer": "Ludwig Badenski", "correct": true, "points": 10 },
+          { "answer": "Nikola Zrinski", "correct": false, "points": 0 },
+          { "answer": "Ernst Rüdiger von Starhemberg", "correct": false, "points": 0 }
+        ],
+        "hint": "Poznat i kao 'Türkenlouis'",
+        "explanation": "General Ludwig Badenski, poznat i kao 'Türkenlouis', oslobodio je Osijek od osmanske vlasti 1687. godine tijekom Velikog bečkog rata."
+      },
+      {
+        "question": "Koje godine je osnovano Sveučilište u Zagrebu?",
+        "answers": [
+          { "answer": "1669.", "correct": false, "points": 0 },
+          { "answer": "1776.", "correct": false, "points": 0 },
+          { "answer": "1874.", "correct": true, "points": 10 },
+          { "answer": "1912.", "correct": false, "points": 0 }
+        ],
+        "hint": "U drugoj polovici 19. stoljeća",
+        "explanation": "Sveučilište u Zagrebu osnovano je 1874. godine, iako su njegovi začeci u isusovačkoj akademiji osnovanoj 1669. godine."
+      },
+      {
+        "question": "Koji je zakon regulirao društvene odnose u Dubrovačkoj Republici?",
+        "answers": [
+          { "answer": "Vinodolski zakonik", "correct": false, "points": 0 },
+          { "answer": "Poljički statut", "correct": false, "points": 0 },
+          { "answer": "Dubrovački statut", "correct": true, "points": 10 },
+          { "answer": "Trogirski statut", "correct": false, "points": 0 }
+        ],
+        "hint": "Donesen 1272. godine",
+        "explanation": "Dubrovački statut, donesen 1272. godine, bio je temeljni zakonski dokument koji je regulirao društvene, političke i gospodarske odnose u Dubrovačkoj Republici."
+      },
+      {
+        "question": "Koji je osječki industrijalac osnovao prvu hrvatsku tvornicu žigica 1856. godine?",
+        "answers": [
+          { "answer": "Josip Juraj Strossmayer", "correct": false, "points": 0 },
+          { "answer": "Antun Rotter", "correct": true, "points": 10 },
+          { "answer": "Franjo Kuhač", "correct": false, "points": 0 },
+          { "answer": "Pajo Kolarić", "correct": false, "points": 0 }
+        ],
+        "hint": "Njegovo prezime povezano je s rotacijom",
+        "explanation": "Antun Rotter osnovao je prvu hrvatsku tvornicu žigica u Osijeku 1856. godine, što je bio značajan korak u industrijalizaciji grada i regije."
+      },
+      {
+        "question": "Koji zagrebački park, otvoren 1794. godine, se smatra prvim javnim parkom u jugoistočnoj Europi?",
+        "answers": [
+          { "answer": "Park Maksimir", "correct": true, "points": 10 },
+          { "answer": "Zrinjevac", "correct": false, "points": 0 },
+          { "answer": "Tuškanac", "correct": false, "points": 0 },
+          { "answer": "Bundek", "correct": false, "points": 0 }
+        ],
+        "hint": "Nazvan po zagrebačkom biskupu",
+        "explanation": "Park Maksimir, otvoren 1794. godine po nalogu zagrebačkog biskupa Maksimilijana Vrhovca, smatra se prvim javnim parkom u jugoistočnoj Europi."
+      },
+      {
+        "question": "Koji je bio glavni izvozni proizvod Dubrovačke Republike?",
+        "answers": [
+          { "answer": "Vino", "correct": false, "points": 0 },
+          { "answer": "Maslinovo ulje", "correct": false, "points": 0 },
+          { "answer": "Sol", "correct": true, "points": 10 },
+          { "answer": "Svila", "correct": false, "points": 0 }
+        ],
+        "hint": "Bijelo zlato srednjeg vijeka",
+        "explanation": "Sol je bila glavni izvozni proizvod Dubrovačke Republike, često nazivana 'bijelim zlatom' srednjeg vijeka zbog svoje visoke vrijednosti i važnosti u konzerviranju hrane."
+      },
+      {
+        "question": "Koji je poznati osječki most otvoren 1981. godine?",
+        "answers": [
+          { "answer": "Pješački most", "correct": false, "points": 0 },
+          { "answer": "Most 128. brigade", "correct": false, "points": 0 },
+          { "answer": "Most mladosti", "correct": true, "points": 10 },
+          { "answer": "Bijeli most", "correct": false, "points": 0 }
+        ],
+        "hint": "Naziv je povezan s mlađom generacijom",
+        "explanation": "Most mladosti u Osijeku otvoren je 1981. godine i postao je važan simbol grada, povezujući dijelove grada preko rijeke Drave."
+      },
+      {
+        "question": "Koje godine je Zagreb dobio električnu rasvjetu?",
+        "answers": [
+          { "answer": "1880.", "correct": false, "points": 0 },
+          { "answer": "1907.", "correct": true, "points": 10 },
+          { "answer": "1925.", "correct": false, "points": 0 },
+          { "answer": "1945.", "correct": false, "points": 0 }
+        ],
+        "hint": "Početkom 20. stoljeća",
+        "explanation": "Zagreb je dobio električnu rasvjetu 1907. godine, što je bio značajan korak u modernizaciji grada."
+      },
+      {
+        "question": "Koji je poznati dubrovački znanstvenik izumio dinamiku?",
+        "answers": [
+          { "answer": "Marin Getaldić", "correct": false, "points": 0 },
+          { "answer": "Ruđer Bošković", "correct": true, "points": 10 },
+          { "answer": "Nikola Nalješković", "correct": false, "points": 0 },
+          { "answer": "Ignjat Đurđević", "correct": false, "points": 0 }
+        ],
+        "hint": "Živio je u 18. stoljeću",
+        "explanation": "Ruđer Bošković, poznati dubrovački znanstvenik, filozof i diplomat, smatra se izumiteljem dinamike i dao je značajan doprinos fizici i astronomiji."
+      },
+      {
+        "question": "Koji je osječki industrijalac osnovao prvu tvornicu sapuna i kemijskih proizvoda u Hrvatskoj 1894. godine?",
+        "answers": [
+          { "answer": "Samuel Kästenbaum", "correct": true, "points": 10 },
+          { "answer": "Adolf Krauss", "correct": false, "points": 0 },
+          { "answer": "Josip Bösendorfer", "correct": false, "points": 0 },
+          { "answer": "Viktor Axmann", "correct": false, "points": 0 }
+        ],
+        "hint": "Njegovo prezime u prijevodu znači 'kesten drvo'",
+        "explanation": "Samuel Kästenbaum osnovao je prvu tvornicu sapuna i kemijskih proizvoda u Hrvatskoj u Osijeku 1894. godine, što je značajno doprinijelo industrijskom razvoju grada."
+      }
+    ]
+  }
+]
