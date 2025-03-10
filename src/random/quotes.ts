@@ -1,5 +1,5 @@
 import get from "lodash/get";
-import quotesEng from "../../assets/api/quotes-eng.json";
+import quotesEng from "../../api/quotes-eng.json";
 import { getRandomArrayIndex } from "../utils/array";
 import { TApi } from "../types/api";
 

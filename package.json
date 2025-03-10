@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cdn": "cpy assets/api/ public && cpy assets/images/ public && cpy assets/music/ public && cpy assets/sfx/ public && cpy assets/books/ public && cpy assets/docs/ public",
+    "cdn": "cpy assets/images/ public && cpy assets/music/ public && cpy assets/sfx/ public && cpy assets/books/ public && cpy docs/ public && cpy api/ public",
     "netlify": "cpy netlify.toml public",
     "generate": "ts-node src/index.ts",
-    "index": "cpy index.html public && cpy daily.html public && cpy rss.html public",
+    "index": "cpy index.html public && cpy pages/ public",
     "deploy": "yarn cdn && yarn netlify && yarn index && yarn generate"
   },
   "repository": {

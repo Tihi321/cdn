@@ -1,12 +1,12 @@
 import fs from "fs";
 import path from "path";
 
-import engWords from "../../assets/api/words-eng.json";
-import croWords from "../../assets/api/words-cro.json";
-import engDetailsWords from "../../assets/api/words-details-eng.json";
-import croDetailsWords from "../../assets/api/words-details-cro.json";
-import vocabularyEngWords from "../../assets/api/vocabulary-words-eng.json";
-import vocabularyCroWords from "../../assets/api/vocabulary-words-cro.json";
+import engWords from "../../api/words-eng.json";
+import croWords from "../../api/words-cro.json";
+import engDetailsWords from "../../api/words-details-eng.json";
+import croDetailsWords from "../../api/words-details-cro.json";
+import vocabularyEngWords from "../../api/vocabulary-words-eng.json";
+import vocabularyCroWords from "../../api/vocabulary-words-cro.json";
 
 import { TApi } from "../types/api";
 import { cleanFilterDuplicates, splitWordsUp } from "../utils/clean";
@@ -86,7 +86,7 @@ export const splitCroWordsUp = () => {
 };
 
 export const joinWordsUp = (): string => {
-  const folderPath = path.resolve(__dirname, "../../assets/api/list");
+  const folderPath = path.resolve(__dirname, "../../api/list");
   const files = fs.readdirSync(folderPath);
   const allWords: string[] = [];
 
