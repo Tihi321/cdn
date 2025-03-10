@@ -7,7 +7,7 @@
     "cdn": "cpy assets/images/ public && cpy assets/music/ public && cpy assets/sfx/ public && cpy assets/books/ public && cpy docs/ public && cpy api/ public",
     "netlify": "cpy netlify.toml public",
     "generate": "ts-node src/index.ts",
-    "index": "cpy index.html public && cpy pages/ public",
+    "index": "cpy index.html public && cpy pages/ public && cpy styles/ public",
     "deploy": "yarn cdn && yarn netlify && yarn index && yarn generate"
   },
   "repository": {
