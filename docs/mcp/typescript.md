@@ -18,147 +18,311 @@ Let’s get started with building our weather server! You can find the complete 
 Prerequisite knowledge
 This quickstart assumes you have familiarity with:
 
-Python
+TypeScript
 LLMs like Claude
 System requirements
-Python 3.10 or higher installed.
-You must use the Python MCP SDK 1.2.0 or higher.
+For TypeScript, make sure you have the latest version of Node installed.
+
 Set up your environment
-First, let’s install uv and set up our Python project and environment:
+First, let’s install Node.js and npm if you haven’t already. You can download them from nodejs.org. Verify your Node.js installation:
 
 Copy
-curl -LsSf https://astral.sh/uv/install.sh | sh
-Make sure to restart your terminal afterwards to ensure that the uv command gets picked up.
+node --version
+npm --version
+For this tutorial, you’ll need Node.js version 16 or higher.
 
 Now, let’s create and set up our project:
 
 Copy
 # Create a new directory for our project
-uv init weather
+mkdir weather
 cd weather
 
-# Create virtual environment and activate it
-uv venv
-source .venv/bin/activate
+# Initialize a new npm project
+npm init -y
 
 # Install dependencies
-uv add "mcp[cli]" httpx
+npm install @modelcontextprotocol/sdk zod
+npm install -D @types/node typescript
 
-# Create our server file
-touch weather.py
+# Create our files
+mkdir src
+touch src/index.ts
+Update your package.json to add type: “module” and a build script:
+
+package.json
+Copy
+{
+  "type": "module",
+  "bin": {
+    "weather": "./build/index.js"
+  },
+  "scripts": {
+    "build": "tsc && chmod 755 build/index.js"
+  },
+  "files": [
+    "build"
+  ],
+}
+Create a tsconfig.json in the root of your project:
+
+tsconfig.json
+Copy
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "outDir": "./build",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
 Now let’s dive into building your server.
 
 Building your server
 Importing packages and setting up the instance
-Add these to the top of your weather.py:
+Add these to the top of your src/index.ts:
 
 Copy
-from typing import Any
-import httpx
-from mcp.server.fastmcp import FastMCP
+import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
+import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
+import { z } from "zod";
 
-# Initialize FastMCP server
-mcp = FastMCP("weather")
+const NWS_API_BASE = "https://api.weather.gov";
+const USER_AGENT = "weather-app/1.0";
 
-# Constants
-NWS_API_BASE = "https://api.weather.gov"
-USER_AGENT = "weather-app/1.0"
-The FastMCP class uses Python type hints and docstrings to automatically generate tool definitions, making it easy to create and maintain MCP tools.
-
+// Create server instance
+const server = new McpServer({
+  name: "weather",
+  version: "1.0.0",
+});
 Helper functions
 Next, let’s add our helper functions for querying and formatting the data from the National Weather Service API:
 
 Copy
-async def make_nws_request(url: str) -> dict[str, Any] | None:
-    """Make a request to the NWS API with proper error handling."""
-    headers = {
-        "User-Agent": USER_AGENT,
-        "Accept": "application/geo+json"
-    }
-    async with httpx.AsyncClient() as client:
-        try:
-            response = await client.get(url, headers=headers, timeout=30.0)
-            response.raise_for_status()
-            return response.json()
-        except Exception:
-            return None
+// Helper function for making NWS API requests
+async function makeNWSRequest<T>(url: string): Promise<T | null> {
+  const headers = {
+    "User-Agent": USER_AGENT,
+    Accept: "application/geo+json",
+  };
 
-def format_alert(feature: dict) -> str:
-    """Format an alert feature into a readable string."""
-    props = feature["properties"]
-    return f"""
-Event: {props.get('event', 'Unknown')}
-Area: {props.get('areaDesc', 'Unknown')}
-Severity: {props.get('severity', 'Unknown')}
-Description: {props.get('description', 'No description available')}
-Instructions: {props.get('instruction', 'No specific instructions provided')}
-"""
+  try {
+    const response = await fetch(url, { headers });
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return (await response.json()) as T;
+  } catch (error) {
+    console.error("Error making NWS request:", error);
+    return null;
+  }
+}
+
+interface AlertFeature {
+  properties: {
+    event?: string;
+    areaDesc?: string;
+    severity?: string;
+    status?: string;
+    headline?: string;
+  };
+}
+
+// Format alert data
+function formatAlert(feature: AlertFeature): string {
+  const props = feature.properties;
+  return [
+    `Event: ${props.event || "Unknown"}`,
+    `Area: ${props.areaDesc || "Unknown"}`,
+    `Severity: ${props.severity || "Unknown"}`,
+    `Status: ${props.status || "Unknown"}`,
+    `Headline: ${props.headline || "No headline"}`,
+    "---",
+  ].join("\n");
+}
+
+interface ForecastPeriod {
+  name?: string;
+  temperature?: number;
+  temperatureUnit?: string;
+  windSpeed?: string;
+  windDirection?: string;
+  shortForecast?: string;
+}
+
+interface AlertsResponse {
+  features: AlertFeature[];
+}
+
+interface PointsResponse {
+  properties: {
+    forecast?: string;
+  };
+}
+
+interface ForecastResponse {
+  properties: {
+    periods: ForecastPeriod[];
+  };
+}
 Implementing tool execution
 The tool execution handler is responsible for actually executing the logic of each tool. Let’s add it:
 
 Copy
-@mcp.tool()
-async def get_alerts(state: str) -> str:
-    """Get weather alerts for a US state.
+// Register weather tools
+server.tool(
+  "get-alerts",
+  "Get weather alerts for a state",
+  {
+    state: z.string().length(2).describe("Two-letter state code (e.g. CA, NY)"),
+  },
+  async ({ state }) => {
+    const stateCode = state.toUpperCase();
+    const alertsUrl = `${NWS_API_BASE}/alerts?area=${stateCode}`;
+    const alertsData = await makeNWSRequest<AlertsResponse>(alertsUrl);
 
-    Args:
-        state: Two-letter US state code (e.g. CA, NY)
-    """
-    url = f"{NWS_API_BASE}/alerts/active/area/{state}"
-    data = await make_nws_request(url)
+    if (!alertsData) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: "Failed to retrieve alerts data",
+          },
+        ],
+      };
+    }
 
-    if not data or "features" not in data:
-        return "Unable to fetch alerts or no alerts found."
+    const features = alertsData.features || [];
+    if (features.length === 0) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: `No active alerts for ${stateCode}`,
+          },
+        ],
+      };
+    }
 
-    if not data["features"]:
-        return "No active alerts for this state."
+    const formattedAlerts = features.map(formatAlert);
+    const alertsText = `Active alerts for ${stateCode}:\n\n${formattedAlerts.join("\n")}`;
 
-    alerts = [format_alert(feature) for feature in data["features"]]
-    return "\n---\n".join(alerts)
+    return {
+      content: [
+        {
+          type: "text",
+          text: alertsText,
+        },
+      ],
+    };
+  },
+);
 
-@mcp.tool()
-async def get_forecast(latitude: float, longitude: float) -> str:
-    """Get weather forecast for a location.
+server.tool(
+  "get-forecast",
+  "Get weather forecast for a location",
+  {
+    latitude: z.number().min(-90).max(90).describe("Latitude of the location"),
+    longitude: z.number().min(-180).max(180).describe("Longitude of the location"),
+  },
+  async ({ latitude, longitude }) => {
+    // Get grid point data
+    const pointsUrl = `${NWS_API_BASE}/points/${latitude.toFixed(4)},${longitude.toFixed(4)}`;
+    const pointsData = await makeNWSRequest<PointsResponse>(pointsUrl);
 
-    Args:
-        latitude: Latitude of the location
-        longitude: Longitude of the location
-    """
-    # First get the forecast grid endpoint
-    points_url = f"{NWS_API_BASE}/points/{latitude},{longitude}"
-    points_data = await make_nws_request(points_url)
+    if (!pointsData) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: `Failed to retrieve grid point data for coordinates: ${latitude}, ${longitude}. This location may not be supported by the NWS API (only US locations are supported).`,
+          },
+        ],
+      };
+    }
 
-    if not points_data:
-        return "Unable to fetch forecast data for this location."
+    const forecastUrl = pointsData.properties?.forecast;
+    if (!forecastUrl) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: "Failed to get forecast URL from grid point data",
+          },
+        ],
+      };
+    }
 
-    # Get the forecast URL from the points response
-    forecast_url = points_data["properties"]["forecast"]
-    forecast_data = await make_nws_request(forecast_url)
+    // Get forecast data
+    const forecastData = await makeNWSRequest<ForecastResponse>(forecastUrl);
+    if (!forecastData) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: "Failed to retrieve forecast data",
+          },
+        ],
+      };
+    }
 
-    if not forecast_data:
-        return "Unable to fetch detailed forecast."
+    const periods = forecastData.properties?.periods || [];
+    if (periods.length === 0) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: "No forecast periods available",
+          },
+        ],
+      };
+    }
 
-    # Format the periods into a readable forecast
-    periods = forecast_data["properties"]["periods"]
-    forecasts = []
-    for period in periods[:5]:  # Only show next 5 periods
-        forecast = f"""
-{period['name']}:
-Temperature: {period['temperature']}°{period['temperatureUnit']}
-Wind: {period['windSpeed']} {period['windDirection']}
-Forecast: {period['detailedForecast']}
-"""
-        forecasts.append(forecast)
+    // Format forecast periods
+    const formattedForecast = periods.map((period: ForecastPeriod) =>
+      [
+        `${period.name || "Unknown"}:`,
+        `Temperature: ${period.temperature || "Unknown"}°${period.temperatureUnit || "F"}`,
+        `Wind: ${period.windSpeed || "Unknown"} ${period.windDirection || ""}`,
+        `${period.shortForecast || "No forecast available"}`,
+        "---",
+      ].join("\n"),
+    );
 
-    return "\n---\n".join(forecasts)
+    const forecastText = `Forecast for ${latitude}, ${longitude}:\n\n${formattedForecast.join("\n")}`;
+
+    return {
+      content: [
+        {
+          type: "text",
+          text: forecastText,
+        },
+      ],
+    };
+  },
+);
 Running the server
-Finally, let’s initialize and run the server:
+Finally, implement the main function to run the server:
 
 Copy
-if __name__ == "__main__":
-    # Initialize and run the server
-    mcp.run(transport='stdio')
-Your server is complete! Run uv run weather.py to confirm that everything’s working.
+async function main() {
+  const transport = new StdioServerTransport();
+  await server.connect(transport);
+  console.error("Weather MCP Server running on stdio");
+}
+
+main().catch((error) => {
+  console.error("Fatal error in main():", error);
+  process.exit(1);
+});
+Make sure to run npm run build to build your server! This is a very important step in getting your server to connect.
 
 Let’s now test your server from an existing MCP host, Claude for Desktop.
 
@@ -177,28 +341,20 @@ You’ll then add your servers in the mcpServers key. The MCP UI elements will o
 
 In this case, we’ll add our single weather server like so:
 
-Python
 Copy
 {
     "mcpServers": {
         "weather": {
-            "command": "uv",
+            "command": "node",
             "args": [
-                "--directory",
-                "/ABSOLUTE/PATH/TO/PARENT/FOLDER/weather",
-                "run",
-                "weather.py"
+                "/ABSOLUTE/PATH/TO/PARENT/FOLDER/weather/build/index.js"
             ]
         }
     }
 }
-You may need to put the full path to the uv executable in the command field. You can get this by running which uv on MacOS/Linux or where uv on Windows.
-
-Make sure you pass in the absolute path to your server.
-
 This tells Claude for Desktop:
 
 There’s an MCP server named “weather”
-To launch it by running uv --directory /ABSOLUTE/PATH/TO/PARENT/FOLDER/weather run weather
+Launch it by running node /ABSOLUTE/PATH/TO/PARENT/FOLDER/weather/build/index.js
 Save the file, and restart Claude for Desktop.
 
