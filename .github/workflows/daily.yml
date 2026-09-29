@@ -27,7 +27,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 24
 
       # Runs a set of commands using the runners shell
       - name: Build cdn site
@@ -36,11 +36,11 @@ jobs:
           yarn deploy
 
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v2.0
+        uses: nwtgck/actions-netlify@v3.0
         with:
           publish-dir: "./public"
           production-branch: main
-          deploy-message: "${{ github.event.head_commit.message }}"
+          deploy-message: "Daily scheduled deploy"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
